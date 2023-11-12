@@ -1,6 +1,6 @@
 <div class='w-full flex'>
 
-  <section class="my-4 p-6">
+  <section class="container px-6 lg:px-24 my-4">
     <div class="px-4 mx-auto text-center lg:pt-16 lg:px-12">
       {{ with .Heading }}<small style="text-transform: uppercase;">{{ . }}</small>{{ end }} 
           
@@ -21,7 +21,7 @@
 
     <br>
 
-     <div class="py-6 mx-auto p-6 grid grid-cols-3 gap-1">
+     <div class="py-6 mx-auto p-6 grid grid-cols-1 lg:grid-cols-3 gap-1">
       {{ range .items }}
         <div class="col-span-1 flex flex-col border rounded-xl shadow-xl dark:text-white mx-4 zoom-sm hover:scale-105" data-sal="slide-down">
           {{ with .url }}<a href="{{ . }}">{{ end }} 

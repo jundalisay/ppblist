@@ -77,13 +77,18 @@ paginate = 12
 #   url = "/pantrypreneur/rewards"
 
     [[languages.en.menu.main]]
-        name = "/icons/megaphone.png"
-        url = "advocacy"
+        name = "/icons/swap.png"
+        url = "trisactions"
         weight = 1
 
     [[languages.en.menu.main]]
+        name = "/icons/maps.png"
+        url = "/trisactions/city"
+        weight = 2
+
+    [[languages.en.menu.main]]
         name = "/icons/shop.png"
-        url = "/services/build/"
+        url = "/pantrypreneur/"
         weight = 2
 
     [[languages.en.menu.main]]
@@ -128,7 +133,7 @@ paginate = 12
 
     [[languages.en.menu.main]]
         name = "/icons/about.png"
-        url = "about"
+        url = "company"
         weight = 11
 
     [[languages.en.menu.main]]

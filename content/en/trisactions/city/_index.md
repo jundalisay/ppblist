@@ -13,15 +13,13 @@ buttons:
 req:
   title: Based on the requirements in Book 5, Chapter 2 of the Republic
   link: "https://superphysics.org/research/socrates/simple-republic/book-5/chapter-2"
-  btext: "Read the requirements"
   avatar: "/avatars/socrates.png"
 
 
-
-personas:
+tricon:
   image: "/photos/congress.jpg"
   title : "The Resilient City"
-  subtitle: "Pantrypoints City unifies society-data to make cities resilient to natural and man-made crises"
+  sub: "Pantrypoints City unifies society-data to make cities resilient to natural and man-made crises"
   items:      
     - name : "Local transportation routes"
       icon: /icons/bus.png 

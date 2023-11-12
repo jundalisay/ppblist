@@ -76,6 +76,8 @@
 
 .Bacon, .Francis-Bacon {background-image: url(/icons/bacon.png) !important;}
 
+.Banker {background-image: url(/icons/banker.png) !important;}
+
 .boni, .Bonifacio {background-image: url(/avatars/boni.png) !important;}
 
 .Carol-Lawrence {background-image: url(/avatars/carol.jpg);}
@@ -174,7 +176,7 @@
   margin-top: 100px;
 }*/
 
-.pantry, .tao {background-image: url(/icons/pantry.png) !important;}
+.pantry, .Pantrypoints, .tao {background-image: url(/icons/pantry.png) !important;}
 
 .Umar {background-image: url(/icons/arab1.png) !important;}
 
@@ -195,7 +197,7 @@
 }
 
 .asker, .Asker, .Thomas, .cle, .Cleitophon, .Simmias, .Yuen-Sz, .Chung-Kung {
-  background-image: url(/icons/g09.png) !important;
+  background-image: url(/icons/teacher.png) !important;
 }
 
 .Tsai-Wo, .Matthew, .Duke-Ngai, .Abraham, .Aristoteles, .Companion, .Tsz-Lu, .Crito {background-image: url(/icons/g10.png);  }

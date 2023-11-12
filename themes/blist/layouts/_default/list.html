@@ -114,7 +114,14 @@
     {{ partial "feedback.html" . }}
   {{ end }}
 
-
 {{ end }}
+
+
+  <div class="container">
+    {{- partial "comments.html" . -}}
+  </div>
+
+
+    {{ partial "social.html" . }}
 
 {{ end }}
