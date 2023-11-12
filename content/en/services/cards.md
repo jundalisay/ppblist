@@ -1,10 +1,10 @@
 ---
 linkTitle: Cards
-title: "'Bardit' Cards for "
-wow: Offline Use
+title: "Point Cards"
+# wow: Offline Use
 description: "Pantrypoints Cards are the offline bardit system that combines barter and credit"
 youtube: ZErxZt4V2t4
-# banner: /photos/clutter.jpg
+image: /og/cards.jpg
 
 
 triconb:

@@ -1,7 +1,7 @@
 ---
-title: "The Circular Economy."
-wow: "In Points."
-image: "/photos/pantry.jpg"
+title: "Pantrypoints Circle"
+wow: "The Circular Economy"
+image: "/og/circle.jpg"
 description: "Pantrypoints Circle implements Urban Subsistence Farming and Food Rescue in order to realize the circular economy"
 youtube: HFqltUWhzfE
 

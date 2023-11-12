@@ -1,10 +1,10 @@
 ---
 linkTitle: Tax
-title: "Convenient"
-wow: Taxation
+title: "Points Taxation"
+# wow: 
 description: "Pantrypoints Tax is our implementation of Adam Smith's taxation system described in The Wealth of Nations, designed to make governments wealthy while being easy on the people"
 youtube: "HOtK8qR7LYI"
-banner: /photos/taxes.jpg
+image: /og/tax.jpg
 
 cta:
   buttons:

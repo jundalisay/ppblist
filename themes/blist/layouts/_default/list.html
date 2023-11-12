@@ -1,9 +1,10 @@
 {{ define "main" }}
 
-{{ if or (eq .Section "news") (eq .Section "works") (eq .Section "trisactions") }}
+{{ if or (eq .Section "news") (eq .Section "works") (eq .Section "services") (eq .Section "docs") (eq .Section "trisactions") }}
 
   <div class="container px-6 pt-8 sm:pt-16 mx-auto"> 
     <h1 class="container text-3xl font-bold">{{ .Title }}</h1>
+    <h2 class="container text-xl ">{{ .Description }}</h2>
 
       <div id="breadcrumbs" class="text-gray-700 dark:text-gray-100 mb-4" style="text-decoration: none;">
         <small>
@@ -40,7 +41,6 @@
 
   {{- partial "pagination.html" . -}}
   
-  {{- partial "social.html" . -}}
 
 {{ else }}  
 

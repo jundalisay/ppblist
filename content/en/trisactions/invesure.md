@@ -1,55 +1,52 @@
 ---
-title: "Moneyless Investment and Insurance"
-image: "/photos/pawns.jpg"
+title: "Pantrypoints Invesure"
+wow: "Moneyless Investment and Insurance"
+image: "/og/invesure.jpg"
 description: "Pantrypoints Invesure facilitates moneyless investment and insurance within the Pantrypoints system through Investment and Insurance Points"
 youtube: ro_8TZ7MTPU
 
 
 
-personas:
-  image: "/photos/shake.jpg"
+trimg:
+  banner: "/photos/shake.jpg"
   title : "Everyone an entrepreneur"
   items:
-    - name : "For the Poor"
-      icon: /icons/banker.png
-      content : "Get investments in kind without any bank account"
-    - name : "For the Young"
-      icon: /icons/appraise.png    
-      content : "Get small, gradual investments without the fear of debt traps"
-    - name : "For Companies"
-      icon: /icons/investor.png
-      content : "Keep growing despite uncertainty or crises"
+    - title: "For the Poor"
+      img: /icons/banker.png
+      sub: "Get investments in kind without any bank account"
+    - title: "For the Young"
+      img: /icons/appraise.png    
+      sub: "Get small, gradual investments without the fear of debt traps"
+    - title: "For Companies"
+      img: /icons/investor.png
+      sub: "Keep growing despite uncertainty or crises"
 
-
-
-######################### Service #####################
 
 how:
   title : "How it Works"
   steps:
-    # - image: "/screens/shop/bec.jpg"
-    - content: "Post your investment proposals"
-      image: "/screens/pantryinvestshow.jpg"
+    - title: "Post your investment proposals"
+      img: "/screens/pantryinvestshow.jpg"
       id: 1
-    - content: "Get offers for points"
-      image: "/screens/pantryinvestnew.jpg"
+    - title: "Get offers for points"
+      img: "/screens/pantryinvestnew.jpg"
       id: 2    
-    - content: "Pay back in the output of your company"
-      image: "/photos/tomatoes.jpg"
+    - title: "Pay back in the output of your company"
+      img: "/photos/tomatoes.jpg"
       id: 3
 
 
 segment:
   articles:
     - title : "Clearing Fund Data"
-      image: "/screens/fundsui.png"
-      content : "Pantrypoints Invesure will include 'Clearing Funds' which will provide trade financing for imports and exports." 
+      img: "/screens/fundsui.png"
+      sub: "Pantrypoints Invesure will include 'Clearing Funds' which will provide trade financing for imports and exports." 
       button:
         label: "What are Clearing Funds?"
         link : "https://www.superphysics.org/research/schumacher/pool-clearing/part-3"
     - title : "Moneyless Insurance"
-      image: "/points/insurance.png"
-      content : "Insurance points allow moneyless insurance." 
+      img: "/points/insurance.png"
+      sub: "Insurance points allow moneyless insurance." 
       # button:
       #   label: "What are Clearing Funds?"
       #   link : "https://www.superphysics.org/research/schumacher/pool-clearing/part-3"
@@ -61,17 +58,11 @@ req:
   avatar: "/avatars/smith.png"
 
 
-##################### Call to action #####################
-
 cta:
-  title : "Register in the Waitlist"
   buttons:
-    - text: "Sure!"
-      color: bg-blue-100
+    - text: "Register in the Waitlist"
       link: "https://hub.pantrypoints.com/signup"
     - text: "I need to know more"
-      color: bg-red-100    
       link : "https://superphysics.org/social/economics/why-business-is-immoral"
 
 ---
-

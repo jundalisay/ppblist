@@ -1,16 +1,16 @@
 ---
 linkTitle: Predict
-title: "Know your nation"
+title: "ISAIAH Predict"
+# Know your nation
 description: "ISAIAH Predict is the social prediction tool of Pantrypoints System that uses Supersociology"
 youtube: "5vmCe8w3UEg"
-banner: "/photos/code.jpg"
+image: "/og/predict.jpg"
 
 
 req:
   title: Based on the requirements in The Republic
   link: "https://superphysics.org/research/socrates/simple-republic/book-8/chapter-1/"
   avatar: "/avatars/socrates.png"
-
 
 
 personas:
@@ -57,11 +57,9 @@ segment:
         link : "https://www.superphysics.org/research/schumacher/pool-clearing/part-3"
 
 
-
 cta:
   buttons:
     - text: "Send us a Predict-question"
       link: "/contact"
   
-
 ---

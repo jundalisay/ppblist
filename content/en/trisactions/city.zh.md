@@ -2,7 +2,7 @@
 title: "弹性智能城市"
 description: "'PantryPoints City' 是城市中进行超本地'三交易'的平台"
 youtube: GVkVoJzLn2g
-img: "/photos/inca.jpg"
+image: "/og/city.jpg"
 
 
 triconb:
@@ -61,7 +61,6 @@ feedback:
       img: "/icons/uhack200.jpg"
       sub: "Top 10 U:Hack 2019" 
       link: "http://ubx.ph"
-
 
 
 cta:

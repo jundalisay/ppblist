@@ -1,11 +1,12 @@
 ---
 linkTitle: XCoins
-title: "Your Access to the"
-wow: Metaverse
+title: "XCoins"
+wow: "Your Access to the Metaverse"
 description: "XCoins connect Pantrypoints to the Metaverse and facilitates Pantrypoints World"
 youtube: "wKR3-nLxec8"
-applink: https://hub.pantrypoints.com/signup
-apptext: "Register in the Waitlist"
+image: "/og/xcoins.jpg"
+# applink: https://hub.pantrypoints.com/signup
+# apptext: "Register in the Waitlist"
 
 
 

@@ -1,9 +1,10 @@
 ---
 linkTitle: Pantrylitics
-title: "Pantrypoints"
-wow: Analytics
+title: "Pantrylitics"
+wow: Analytics for Pantrypoints
 description: "Pantrylitics provides real-time analytics for the Pantrypoints System"
 youtube: KOl-RwPLXxY
+image: "/og/pantrylitics.jpg"
 
 
 req:

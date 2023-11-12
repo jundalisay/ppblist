@@ -77,87 +77,91 @@ paginate = 12
 #   link = "/pantrypreneur/rewards"
 
     [[languages.en.menu.main]]
-        name = "/icons/swap.png"
-        link = "trisactions"
+        name = "Trisactions"
+        # name = "/icons/swap.png"
+        url = "trisactions"
         weight = 1
 
-    [[languages.en.menu.main]]
-        name = "/icons/maps.png"
-        link = "/trisactions/city"
-        weight = 6
+    # [[languages.en.menu.main]]
+    #     # name = "/icons/maps.png"
+    #     name = "Pantrypreneur"
+    #     url = "/trisactions/city"
+    #     weight = 6
+
+    # [[languages.en.menu.main]]
+    #     name = "/icons/circle.png"
+    #     link = "/trisactions/circle"
+    #     weight = 8
+
+    # [[languages.en.menu.main]]
+    #     name = "/icons/dd.png"
+    #     link = "/trisactions/health"
+    #     weight = 9
+
+    # [[languages.en.menu.main]]
+    #     name = "/icons/banker.png"
+    #     link = "/trisactions/banking"
+    #     weight = 10
+
+    # [[languages.en.menu.main]]
+    #   name = "/icons/w.png"
+    #   link = "/trisactions/world"
+    #   # name = "/icons/t.png"
+    #   # link = "/services/tax"
+    #   weight = 11
+
 
     [[languages.en.menu.main]]
-        name = "/icons/circle.png"
-        link = "/trisactions/circle"
-        weight = 8
-
-    [[languages.en.menu.main]]
-        name = "/icons/dd.png"
-        link = "/trisactions/health"
-        weight = 9
-
-    [[languages.en.menu.main]]
-        name = "/icons/banker.png"
-        link = "/trisactions/banking"
-        weight = 10
-
-    [[languages.en.menu.main]]
-      name = "/icons/w.png"
-      link = "/trisactions/world"
-      # name = "/icons/t.png"
-      # link = "/services/tax"
-      weight = 11
-
-
-    [[languages.en.menu.main]]
-        name = "/icons/shop.png"
-        link = "/pantrypreneur/"
+        # name = "/icons/shop.png"
+        name = "Pantrypreneur"
+        url = "/pantrypreneur/"
         weight = 14
 
     [[languages.en.menu.main]]
-        name = "/icons/cards.png"
-        link = "/services/cards"
+        # name = "/icons/cards.png"
+        name = "Services"
+        url = "/services"
         weight = 17
 
-    [[languages.en.menu.main]]
-        name = "/icons/decen.png"
-        link = "/services/match"
-        weight = 16
+    # [[languages.en.menu.main]]
+    #     name = "/icons/decen.png"
+    #     link = "/services/match"
+    #     weight = 16
+
+    # [[languages.en.menu.main]]
+    #     name = "/icons/charts.png"
+    #     link = "/services/pantrylitics/"
+    #     weight = 18
+
+    # [[languages.en.menu.main]]
+    #     name = "/icons/maps.png"
+    #     link = "/services/predict/"
+    #     weight = 20
 
     [[languages.en.menu.main]]
-        name = "/icons/charts.png"
-        link = "/services/pantrylitics/"
-        weight = 18
-
-    [[languages.en.menu.main]]
-        name = "/icons/maps.png"
-        link = "/services/predict/"
-        weight = 20
-
-    [[languages.en.menu.main]]
-        name = "/icons/book.png"
-        link = "/docs/intro/overview/"
+        name = "Docs"
+        #name = "/icons/book.png"
+        url = "/docs/intro/overview/"
         weight = 22
 
     [[languages.en.menu.main]]
-        name = "/icons/cal.png"
-        link = "news"
+        name = "News"
+        # name = "/icons/cal.png"
+        url = "news"
         weight = 24
 
     [[languages.en.menu.main]]
-        name = "/icons/question.png"
-        link = "faq"
+        #name = "/icons/question.png"
+        name = "FAQ"
+        url = "faq"
         weight = 26
 
     [[languages.en.menu.main]]
-        name = "/icons/about.png"
-        link = "company"
+        # name = "/icons/about.png"
+        name = "About"
+        url = "company"
         weight = 28
 
-    # [[languages.en.menu.main]]
-    #     name = "/icons/heart.png"
-    #     link = "help"
-    #     weight = 30
 
     [languages.en.params]
       main = "The Circular Economy That Solves"

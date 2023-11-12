@@ -1,11 +1,9 @@
 ---
-title: "Towards "
+title: "Pantrypoints Health"
 wow: "Health Democracy"
-image: "/photos/tomatoes.jpg"
+image: "/og/diet.jpg"
 description: "Diet-Disease Reference is a reference app that allows the five health paradigms of Western Medicine, Ayurveda, Chinese Medicine, Naturopathy, and Homeopathy"
 youtube: M8ztGBQOVDM
-aliases:
-  /health
 
 
 req:
@@ -16,7 +14,7 @@ req:
 
 triconb:  
   title: "Five paradigms are better than one"
-  subtitle: "Diet Disease Reference implements Medical Superphysics to use the 5 major medical belief-systems to solve diseases"
+  sub: "Diet Disease Reference implements Medical Superphysics to use the 5 major medical belief-systems to solve diseases"
   banner: "/photos/yoga2k.jpg"
   items:
     - title: "Western Medicine"
@@ -95,11 +93,8 @@ feedback:
     #   link: "https://mon.rocks"
 
 
-
 cta:
   buttons:
     - text: "Check out the App"
       link: "https://play.google.com/store/apps/details?id=com.pantrypoints.diet&pli=1"
-
 ---
-

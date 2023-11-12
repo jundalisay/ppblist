@@ -1,8 +1,8 @@
 ---
 linkTitle: Build
-wow: Business
-title: Build the Online Presence for Your  
-banner: "/photos/yay.jpg"
+title: Build Package  
+wow: For Micro-Small Businesses
+image: "/og/build.jpg"
 description: We build the online presence -- website, web app, social media, SEO -- for your businesses with minimal money-cost
 youtube: zIrblIJF4Nk
 

@@ -4,6 +4,7 @@ wow: "A Unified Economy"
 description: "Pantrypoints Nation is a clearing system between Pantrypoints Cities"
 youtube: LmN4WlEghHE
 image: /photos/coop.jpg
+draft: true
 
 
 req:

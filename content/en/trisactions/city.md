@@ -1,8 +1,8 @@
 ---
-title: "The Resilient, "
-wow: "Smart City"
+title: "Pantrypoints City"
+wow: "The Resilient, Smart City"
 description: "Pantrypoints City is the platform for hyperlocal trisactions in the city"
-image: "/photos/inca.jpg"
+image: "/og/city.jpg"
 youtube: GVkVoJzLn2g
 
 
@@ -47,9 +47,6 @@ how:
     - img: "/screens/po3.jpg"
       id: 3
       title: "Use the app for transactions with or without money"
-
-
-
 
 
 feedback:
