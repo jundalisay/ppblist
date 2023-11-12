@@ -1,6 +1,6 @@
-baseurl = "https://maharlika.superphysics.org"
+baseurl = "https://www.pantrypoints.com"
 metaDataFormat = "yaml"
-title = "Maharlikanism"
+title = "Pantrypoints"
 theme = "blist"
 
 DefaultContentLanguage = "en"
@@ -15,6 +15,66 @@ paginate = 12
     weight = 1
     languageName = "English"
 
+# [[menu.main]]
+# identifier = "Trisactions"
+# name = "/icons/pantry50.png"
+# weight = 1
+# url = "/trisactions"
+
+# [[menu.main]]
+#   name = "/icons/banker.png"
+#   weight = 2
+#   url = "/trisactions/banking/"
+
+# [[menu.main]]
+#   name = "/icons/energy.png"
+#   weight = 3
+#   url = "/trisactions/circle/"
+
+# [[menu.main]]
+#   name = "/icons/place.png"
+#   weight = 4
+#   url = "/trisactions/city"
+
+# [[menu.main]]
+#   name = "/icons/banking.png"
+#   weight = 5
+#   url = "/trisactions/health/"
+
+# [[menu.main]]
+#   name = "/icons/investor.png"
+#   weight = 6
+#   url = "/trisactions/invesure"
+
+# [[menu.main]]
+#   name = "/icons/medal.png"
+#   weight = 7
+#   url = "/trisactions/nation"
+
+# [[menu.main]]
+#   name = "/icons/w.png"
+#   weight = 10
+#   url = "/trisactions/world/"
+
+# [[menu.main]]
+#   name = "/icons/p.png"
+#   weight = 11
+#   url = "/pantrypreneur"
+
+# [[menu.main]]
+#   name = "/icons/teacher.png"
+#   weight = 12
+#   url = "/pantrypreneur/educate"
+
+# [[menu.main]]
+#   name = "/icons/plants.png"
+#   weight = 13
+#   url = "/pantrypreneur/farm"
+
+# [[menu.main]]
+#   name = "/icons/loy.png"
+#   weight = 16
+#   url = "/pantrypreneur/rewards"
 
     [[languages.en.menu.main]]
         name = "/icons/megaphone.png"
@@ -22,43 +82,43 @@ paginate = 12
         weight = 1
 
     [[languages.en.menu.main]]
-        name = "/icons/help.png"
-        url = "culture"
+        name = "/icons/shop.png"
+        url = "/services/build/"
         weight = 2
 
     [[languages.en.menu.main]]
-        name = "/icons/economic.png"
-        url = "economics"
+        name = "/icons/cards.png"
+        url = "/services/cards"
         weight = 3
 
     [[languages.en.menu.main]]
-        name = "/icons/gavel.png"
-        url = "governance"
+        name = "/icons/t.png"
+        url = "/services/tax"
         weight = 4
 
     [[languages.en.menu.main]]
-        name = "/icons/book.png"
-        url = "history"
+        name = "/icons/decen.png"
+        url = "/services/match"
         weight = 5
 
     [[languages.en.menu.main]]
-        name = "/icons/quill.png"
-        url = "laws"
+        name = "/icons/charts.png"
+        url = "/services/pantrylitics/"
         weight = 6
 
     [[languages.en.menu.main]]
-        name = "/icons/tao.png"
-        url = "metaphysics"
+        name = "/icons/maps.png"
+        url = "/services/predict/"
         weight = 7
 
     [[languages.en.menu.main]]
-        name = "/icons/politician.png"
-        url = "politicians"
+        name = "/icons/book.png"
+        url = "/docs/intro/overview/"
         weight = 8
 
     [[languages.en.menu.main]]
-        name = "/icons/pen.png"
-        url = "writers"
+        name = "/icons/cal.png"
+        url = "news"
         weight = 9
 
     [[languages.en.menu.main]]
@@ -77,79 +137,29 @@ paginate = 12
         weight = 12
 
     [languages.en.params]
-      heading = "An advocacy to change the name, culture, and socio-economics of the Philippines into Maharlika"
-      intro = "The Circular Economy That Solves Inflation"
+      main = "The Circular Economy That Solves"
       sub = "Pantrypoints is a resilient and disruptive new economic system that uses bilateral points through meetups in order to stop inflation, allow full employment, and realize the circular economy"
       banner = "/photos/holdhands.jpg"
+      wow = "Inflation"
       youtube = "AfByl9Mywi4"
 
     [languages.en.params.cta]
       title = ""
-
     [languages.en.params.cta.buttons.a]
       link = "https://hub.pantrypoints.com/signup"
       text = "Register in the Waitlist"
       color = ""
-
-
     [languages.en.params.cta.buttons.b]
       link = "https://www.superphysics.org/social/economics"
       text = "Check out the science"
       color = ""
 
-      
-
-# countries:
-#   title : "Locations"
-#   sub: Here are the cities where we are prototyping our system. Feel free to add your city by registering in the waitlist. 
-#   flags:
-#     - name : "Las Pinas"
-#       icon : "/flags/ph.png"
-#     - name : "San Pedro Laguna"
-#       icon : "/flags/ph.png"
-#     - name : "Kuala Lumpur (coming soon!)"
-#       icon : "/flags/my.png"
-#     - name : "Hanoi (coming soon!)"
-#       icon : "/flags/vn.png"
-#     - name : "Saigon (coming soon!)"
-#       icon : "/flags/vn.png"      
-
-
-# how:
-#   title : "How it Works"  
-#   steps:
-#     - content: "Post your item using a points price instead of a money price"
-#       image: "/screens/pantryshow.jpg"
-#       id: 1
-#     - content: "Meetup with the buyers of your item"
-#       image: "/photos/shake.jpg"
-#       id: 2    
-#     - content: "Pay in points"
-#       image: "/screens/pay.jpg"
-#       id: 3
-      
-
-# duo2:
-#   title : "Originally Built by the Inca"
-#   subtitle: "The Inca made a large scale points-based economic system using strings for points. The Spanish destroyed it and replaced it with the current crisis-prone money-based system."
-#   banner: "/photos/inca.jpg"
-#   link: "https://gizmodo.com/the-greatest-mystery-of-the-inca-empire-was-its-strange-5872764"
-#   linktext: "Read how the Inca system worked"  
-#   items:
-#     - image: "/photos/qullqa.jpg"
-#       imagetext: "We implement the Qulqa <br> as pantries"
-#     - image: "/photos/quipu.jpg"
-#       imagetext: "We implement the Quipu <br> as points, thus Pantrypoints"
-
-
     [languages.en.params.req]
       title = "Among the Mongols who are ignorant of the use of money, cattle are the measures of value. Wealth to them consisted in cattle, as to the Spaniards it consisted in gold and silver. Of the two, the Mongol notion, was nearest to the truth. (Adam Smith)"
       avatar = "/avatars/smith.png"
 
-
     [languages.en.params.feedback]
-      title = "Feedback"
-
+      title = "What Experts Say"
     [languages.en.params.feedback.items.a]
       icon = "/avatars/dhanjoo.jpg"
       sub = "Prof. Dhanjoo Ghista, University 2020 Foundation President"
@@ -162,16 +172,9 @@ paginate = 12
       url = "http://adamsmithslostlegacy.blogspot.com"
 
 
-
-
-      ## SP = Advocacy
     [languages.en.params.tricon1]
-      # heading = "The Nature of the Soul"
       title = "Introducing Asynchronous Tri-sactions"
       sub = "Trisactions allow money, moneyless, or metaverse transactions without waiting for fulfillment from the other party. This allows the economy to run under any social conditions, allowing true economic freedom"
-      #youtube = "dc4VNkfqs1s"
-      #icon = "/icons/sp.png"
-      #link= "/superphysics/principles"
     [languages.en.params.tricon1.items.a]
       url = "/trisactions/invesure/"
       img= "/icons/moneyno.png"
@@ -186,22 +189,17 @@ paginate = 12
       url = "/trisactions/banking"
       img = "/icons/eth.png"
       title = "3: Metaverse"
-      sub = "The points can be converted to Pantry Coins<br> to allow regulated transactions<br> from the Metaverse via Ethereum. <br> This is useful for cross-border transactions and<br> our proposed 'crypto-easing'<br> (our alternative to quantitative easing)"
+      sub = "The points can be converted to Pantry Coins to allow regulated transactions from the Metaverse via Ethereum.  This is useful for cross-border transactions and our proposed 'crypto-easing' (our alternative to quantitative easing)"
 
 
-## mat law
     [languages.en.params.tricon2]
-      # heading = "The Soul of the Physical Universe"
       title = "Which Are You?"
-      # sub = "Philippines versus Maharlika"
-      # youtube = "3l9J6tH4iD0"
-      # icon = "/icons/spmat.png"
-      # link= "/material/principles"
+      sub = "Pantrypoints is for everyone"
 
     [languages.en.params.tricon2.items.a]
       url = "services/build/"
       img= "/icons/shop.png"
-      title = "I'm a teacher"
+      title = "I'm a micro-small business owner"
       sub = "I need online presence as a website, web app, mobile app, or social media"
     [languages.en.params.tricon2.items.b]
       url = "https://circle.pantrypoints.com/"
@@ -218,16 +216,11 @@ paginate = 12
       img= "/icons/apple.png"
       title = "I'm health-conscious"
       sub = "Healtcare is expensive so I need to eat right"
-    [languages.en.params.tricon2.items.e]
-      url = "/pantrypreneur/educate"
-      img= "/icons/teacher.png"
-      title = "I'm a teacher"
-      sub = "I need to take attendance and visualize student performance"
     [languages.en.params.tricon2.items.f]
-      url = "/pantrypreneur/educate"
-      img= "/icons/teacher.png"
-      title = "I'm a teacher"
-      sub = "I need to take attendance and visualize student performance"
+      url = "/trisactions/invesure/"
+      img= "/icons/investor.png"
+      title = "I'm an investor"
+      sub = "I want my investments to make a lot of impact"
     [languages.en.params.tricon2.items.g]
       url = "/trisactions/banking"
       img = "icons/banker.png"
@@ -244,9 +237,6 @@ paginate = 12
       title = "I'm with the Government"
       sub = "We need to earn more revenue for public services"
 
-
-
-      ## SP = Advocacy
     [languages.en.params.tricon3]
       title = "Locations"
       sub = "Here are the cities where we are prototyping our system. Feel free to add your city by registering in the waitlist."
@@ -266,19 +256,19 @@ paginate = 12
       img = "/flags/my.png"
       title = "Kuala Lumpur"
 
-      ## bio econ
     [languages.en.params.inca]
       title = "Originally Built by the Inca"
       sub = "The Inca made a large scale points-based economic system using strings for points. The Spanish destroyed it and replaced it with the current crisis-prone money-based system."
       banner = "/photos/inca.jpg"
+      link = "https://gizmodo.com/the-greatest-mystery-of-the-inca-empire-was-its-strange-5872764"
+      linktext = "Read how the Inca system worked"  
+
     [languages.en.params.inca.items.a]
       img = "/photos/qullqa.jpg"
       title = "We implement the Qulqa as pantries"
-      # sub = "Transition to an Advanced Country"
     [languages.en.params.inca.items.b]
       img = "photos/quipu.jpg"
       title = "We implement the Quipu as points, thus Pantrypoints"
-
 
     [languages.en.params.how]
       title = "How it Works"
@@ -298,179 +288,148 @@ paginate = 12
       id = 3
 
 
-    [languages.en.params.tricon4]
-      # heading = "The Soul of Society"
-      title = "Culture and the Arts"
-      sub = "Maharlikan Puso or Heart"
-      # youtube = "AfByl9Mywi4"
-      icon = "/icons/spsoc.png"
-    [languages.en.params.tricon4.items.a]
-      url = "/infrastructure/climate-change"
-      img = "/photos/flood.jpg"
-      title = "How Maharlika Dealt with Climate Change"
-      sub = "By Prediction and Mitigation"
-    [languages.en.params.tricon4.items.b]
-      url = "/culture/war-adobo"
-      img = "/photos/food/adobopork.jpg"
-      title = "War on Adobo"
-      sub = "Maharlikan Food versus Philippine Food"
-    [languages.en.params.tricon4.items.c]
-      url = "/culture/war-adobo/"
-      img= "/photos/basket.jpg"
-      title = "Bayong Ball"
-      sub = "Basketball for short people"
 
-
-
-  [languages.tl]
-    contentDir = "content/tl"
+  [languages.zh]
+    contentDir = "content/zh"
     weight = 2
-    languageName = "Tagalog"
-    [[languages.tl.menu.main]]
+    languageName = "简体中"
+    [[languages.zh.menu.main]]
         name = "/icons/question.png"
         url = "faq"
         weight = 8
-    [[languages.tl.menu.main]]
+    [[languages.zh.menu.main]]
         name = "/icons/about.png"
         url = "about"
         weight = 9
-    [[languages.tl.menu.main]]
-        name = "/icons/heart.png"
-        url = "help"
-        weight = 10
+    [languages.zh.params]
+      main = "解决通货膨胀的"
+      sub = "Pantrypoints是一个弹性的新经济体系，通过会面使用双边积分来制止通货膨胀，实现充分就业和实现循环经济"
+      banner = "/photos/holdhands.jpg"
+      wow = "循环经济"
+      youtube = "fC9dH2Du0sM"
 
-    [languages.tl.params]
-      heading = "An advocacy to change the name, culture, and socio-economics of the Philippines into Maharlika"
-      intro = "Maharlika and Maharlikanism"
-      sub = "Our main adocacies"
-      banner = "/photos/flag.jpg"
-      youtube = "PjQjps9DTXw"
+    [languages.zh.params.cta]
+      title = ""
+    [languages.zh.params.cta.buttons.a]
+      link = "https://hub.pantrypoints.com/signup"
+      text = "请在等候名单上注册"
+    [languages.zh.params.cta.buttons.b]
+      link = "https://www.superphysics.org/social/economics"
+      text = "阅读有关这个理论的内容"
 
-      ## SP = Advocacy
-    [languages.tl.params.tricon1]
-      # heading = "The Nature of the Soul"
-      title = "Advocacy and History"
-      # sub = "The analog universe streams in real-definition to create reality"
-      #youtube = "dc4VNkfqs1s"
-      #icon = "/icons/sp.png"
-      #link= "/superphysics/principles"
-    [languages.tl.params.tricon1.items.a]
-      url = "/history/meanings-maharlika"
-      img= "/photos/medieval/lapu.jpg"
-      title = "What is Maharlika?"
-      sub = "A small country where great things come from"
-    [languages.tl.params.tricon1.items.b]
-      url = "/advocacy/maharlikanism"
-      img = "/photos/idea.jpg"
-      title = "What is Maharlikanism?"
-      sub = "A plan bring back the Philippines to its true state"
-    [languages.tl.params.tricon1.items.c]
-      url = "/history/pigafetta/simplified-pigafetta"
-      img = "/photos/objects/galleon.jpg"
-      title = "Pigafetta's Accounts"
-      sub = "What did the Spanish say about Maharlika?"
-    [languages.tl.params.tricon1.items.d]
-      url = "https://superphysics.org/social/supersociology/solutions/constitutional-virtues/"
-      img = "/photos/psych/heart.jpg"
-      title = "What are Constitutional Virtues?"
-      sub = "The foundations of civilization"
+    [languages.zh.params.req]
+      title = "对于对货币一无所知的蒙古人来说，一头牛是价值的衡量标准。对他们来说，财富是以牛的数量来衡量，就像西班牙人以黄金和白银的数量来衡量财富一样。蒙古观念是正确的。（亚当·斯密）"
+      avatar = "/avatars/smith.png"
 
+    [languages.zh.params.feedback]
+      title = "专家意见"
+    [languages.zh.params.feedback.items.a]
+      icon = "/avatars/dhanjoo.jpg"
+      sub = "Prof. Dhanjoo Ghista, University 2020 Foundation President"
+      title = "I very much like this work: A Research Proposal For The Formalization Of The Science Of Supereconomics And The Establishment Of A Points-Based Economic System"
+      url = "http://www.dhanjooghista.com/"
+    [languages.zh.params.feedback.items.b]
+      icon = "/avatars/gavin.jpg"
+      title = "I believe it is developing into a worthwhile project"
+      sub = "Prof. Gavin Kennedy, a world expert on Adam Smith"
+      url = "http://adamsmithslostlegacy.blogspot.com"
 
-## mat law
-    [languages.tl.params.tricon2]
-      # heading = "The Soul of the Physical Universe"
-      title = "Politics and Law"
-      sub = "Philippines versus Maharlika"
-      # youtube = "3l9J6tH4iD0"
-      # icon = "/icons/spmat.png"
-      # link= "/material/principles"
-    [languages.tl.params.tricon2.items.a]
-      url = "/governance/federalism"
-      img= "/photos/medieval/maharlika.jpg"
-      title = "Why Federalism?"
-      sub = "Maharlika was a confederation of semi-independent states"
-    [languages.tl.params.tricon2.items.b]
-      url = "/history/colonialism/"
-      img= "/photos/medieval/magellan.jpg"
-      title = "How Did Colonizers Get a Foothold?"
-      sub = "How Divide and Conquer Works"
-    [languages.tl.params.tricon2.items.c]
-      url= "/metaphysics/democracy-is-bad"
-      img = "/photos/psych/freedom.jpg"
-      title = "Why is Democracy Bad?"
-      sub = "Maharlika was already Democratic"
-    [languages.tl.params.tricon2.items.d]
-      url = "/metaphysics/marcos-aquino-rivalry"
-      img = "/photos/coryv.jpg"
-      title = "The Marcos-Aquino Rivalry"
-      sub = "Conservative vs Liberal"
+    [languages.zh.params.tricon1]
+      title = "介绍Tri-sactions（三交易）"
+      sub = "Tri-sactions允许在任何社会条件下进行货币、无货币或元宇宙交易，以实现真正的经济自由"
+    [languages.zh.params.tricon1.items.a]
+      img= "/icons/moneyno.png"
+      title = "1: 没钱"
+      sub = "无货币交易采用储值置换方式，以点数来度量，这些点数与谷物挂钩。 这实现了亚当·斯密在《国富论》 中提到的以谷物为基础的估值方式"
+    [languages.zh.params.tricon1.items.b]
+      img = "/icons/money.png"
+      title = "2: 钱"
+      sub = "货币交易使用“货币点数”，可以通过现金或无现金银行应用程序来支付无货币交易，适用于法定经济"
+    [languages.zh.params.tricon1.items.c]
+      img = "/icons/eth.png"
+      title = "3: 元宇宙"
+      sub = "元宇宙交易则可以将点数转换为“Pantry Coins”，从而通过以太坊来进行受监管的元宇宙交易。 这对于跨境交易以及我们提出的“加密缓解”（我们替代量化宽松政策）非常有用"
 
 
-    # [languages.tl.params.tricon2.items.d]
-    #   url = "/material/solutions/fusion/"
-    #   img= "/photos/physics/elec.jpg"
-    #   title = "The Fusion Solution"
-    #   sub= "We propose anti-gravity from Cartesian spacetime vortices"
+    [languages.zh.params.tricon2]
+      title = "你的角色是什么？"
+      sub = "Pantrypoints 面向所有人"
+
+    [languages.zh.params.tricon2.items.a]
+      url = "services/build/"
+      img= "/icons/shop.png"
+      title = "我是一位微小企业主"
+      sub = "我需要在线存在，如网站、Web 应用、移动应用或社交媒体"
+    [languages.zh.params.tricon2.items.b]
+      url = "https://circle.pantrypoints.com/"
+      img = "/icons/jobless.png"
+      title = "我是失业者"
+      sub = "我需要找工作，但没有所需的技能"
+    [languages.zh.params.tricon2.items.c]
+      url = "/pantrypreneur/educate"
+      img= "/icons/teacher.png"
+      title = "我是一名教师"
+      sub = "我需要点名并可视化学生数据"
+    [languages.zh.params.tricon2.items.d]
+      url = "/trisactions/health/"
+      img= "/icons/apple.png"
+      title = "我注重健康"
+      sub = "医疗费用昂贵，所以我需要合理饮食"
+    [languages.zh.params.tricon2.items.f]
+      url = "/trisactions/invesure/"
+      img= "/icons/investor.png"
+      title = "我是一名投资者"
+      sub = "我希望我的投资产生很大的影响"
+    [languages.zh.params.tricon2.items.g]
+      url = "/trisactions/banking"
+      img = "icons/banker.png"
+      title = "我是一名银行家"
+      sub = "我需要解决银行危机的方案。压力太大了"
+    [languages.zh.params.tricon2.items.h]
+      url = "/pantrypreneur/farm/"
+      img = "/icons/farmer.png"
+      title = "我是一名农民"
+      sub = "我需要解决全球变暖的方案！"
+    [languages.zh.params.tricon2.items.i]
+      url = "/services/tax"
+      img = "/icons/gov.png"
+      title = "我在政府工作"
+      sub = "我们需要为公共服务赚取更多收入"
 
 
-# The Fourth Year of Westernized Maharlika
+    [languages.zh.params.inca]
+      title = "最初由印加人建造"
+      sub = "印加人使用绳子制定了一个大规模的基于积分的经济体系。西班牙人摧毁了它，并用当前容易陷入危机的基于货币的体系取而代之"
+      banner = "/photos/inca.jpg"
+      link = "https://gizmodo.com/the-greatest-mystery-of-the-inca-empire-was-its-strange-5872764"
+      linktext = "阅读印加体系的运作方式"
 
-      ## bio econ
-    [languages.tl.params.tricon3]
-      # heading = "The Soul of Living Entities"
-      title = "Economics"
-      sub = "Bayanihan as an Economic System"
-      # youtube= "Y6YKmtqJak4"
-      # icon = "/icons/spmed.png"
-      # link= "/bio/principles"
-    # [languages.tl.params.tricon3.items.a]
-    #   url = "/bio/principles/part-04/chapter-03/"
-    #   img= "/photos/med/cancer2.jpg"
-    #   title = "Cancers and Diseases Have Been Cured by Non-Western Medicine"
-    #   sub = "See the wave-based alternatives to particle-based Western Medicine"
-    [languages.tl.params.tricon3.items.b]
-      url = "/economics/maharlika-2050/"
-      img= "/graphics/econ/eq.jpg"
-      title = "Maharlika 2050"
-      sub = "Transition to an Advanced Country"
-    [languages.tl.params.tricon3.items.c]
-      url = "/governance/fourth-branch-government/"
-      img= "/photos/balancerock.jpg"
-      title = "The Fourth Branch of Government"
-      sub = "The Resources Department"
-    [languages.tl.params.tricon3.items.d]
-      url = "/metaphysics/poor-philippines/"
-      img= "/photos/social/poverty.jpg"
-      title = "Why the Philippines is Poor"
-      sub = "How Low Morals Causes Chronic Poverty"
+    # [languages.zh.params.inca.items.a]
+    #   img = "/photos/qullqa.jpg"
+    #   title = "We implement the Qulqa as pantries"
+    # [languages.zh.params.inca.items.b]
+    #   img = "photos/quipu.jpg"
+    #   title = "We implement the Quipu as points, thus Pantrypoints"
 
-
-    [languages.tl.params.tricon4]
-      # heading = "The Soul of Society"
-      title = "Culture and the Arts"
-      sub = "Maharlikan Puso or Heart"
-      # youtube = "AfByl9Mywi4"
-      icon = "/icons/spsoc.png"
-    [languages.tl.params.tricon4.items.b]
-      url = "/infrastructure/climate-change"
-      img = "/photos/flood.jpg"
-      title = "How Maharlika Dealt with Climate Change"
-      sub = "By Prediction and Mitigation"
-    [languages.tl.params.tricon4.items.c]
-      url = "/culture/war-adobo"
-      img = "/photos/food/adobopork.jpg"
-      title = "War on Adobo"
-      sub = "Maharlikan Food versus Philippine Food"
-    [languages.tl.params.tricon4.items.d]
-      url = "/culture/war-adobo/"
-      img= "/photos/basket.jpg"
-      title = "Bayong Ball"
-      sub = "Basketball for short people"
-
+    [languages.zh.params.how]
+      title = "工作原理如下"
+      sub = ""
+    [languages.zh.params.how.steps.a]
+      img = "/screens/pantryshow.jpg"
+      title = "使用点数价格而不是货币价格发布您的物品"
+      id = 1
+    [languages.zh.params.how.steps.b]
+      img = "/photos/shake.jpg"
+      title = "与买家会面"
+      id = 2
+    [languages.zh.params.how.steps.c]
+      img = "/screens/pay.jpg"
+      title = "用点数付款"
+      id = 3
 
 
 [params]
-  logo = "/icons/sun.png"
+  logo = "/icons/pantry.png"
   
   # Enable the darkmode toggle in header
   darkModeToggle = true
@@ -499,7 +458,7 @@ paginate = 12
 
   # Custom copyright - optional
   copyright = "Copyright © 2023 | Pantrypoints Technologies"
-  favicon = "/icons/sp30.png"
+  favicon = "/icons/pantry50.png"
 
   ascentColor = "bg-blue-100"
 
@@ -545,21 +504,21 @@ paginate = 12
 
 [params.homepage.social]
   # Global params common for both languages
-  title = "Follow or Support Us!"
-  description = "We're building a new science and new systems for a better reality"
+  # title = "Follow or Support Us!"
+  # description = "We're building a new science and new systems for a better reality"
 
   [[params.homepage.social.icons]]
     website = "twitter"
-    url = "https://twitter.com/superphysicsorg"
+    url = "https://twitter.com/pantrypoints"
   [[params.homepage.social.icons]]
     website = "youtube"
-    url = "https://www.youtube.com/@superphysicsorg"
+    url = "https://www.youtube.com/@pantrypoints"
   # [[params.homepage.social.icons]]
   #   website = "instagram"
   #   url = "https://instagram.com"
   [[params.homepage.social.icons]]
     website = "facebook"
-    url = "https://www.facebook.com/superphysicsorg"
+    url = "https://www.facebook.com/pantrypoints/"
   # [[params.homepage.social.icons]]
   #   website = "behance"
   #   url = "https://behance.net"

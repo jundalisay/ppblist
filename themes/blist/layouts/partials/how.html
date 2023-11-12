@@ -6,14 +6,14 @@
   <ul class="wrapper text-center mx-4 px-4">
     <div class="buttonWrapper">
       {{ range $i, $p := .steps }}
-        <button class="tab-button" style="" data-id={{ $p.id }}>Step {{ $p.id }}</button>
+        <button class="tab-button" style="" data-id={{ $p.id }}>{{ i18n "step" }} {{ $p.id }}</button>
       {{ end }}
     </div>
     <div class="contentWrapper">
       {{ range $i, $p := .steps }}
         <div class="contenthow text-center my-2 active" id="{{ $p.id }}">
           {{ .title | markdownify }}
-            <figure>                
+            <figure>
               <img class="p-4 image mx-auto rounded-lg" src="{{ .img | absURL }}" style="object-position: center; object-fit: cover;">
             </figure>                
         </div>

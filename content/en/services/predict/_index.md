@@ -18,33 +18,32 @@ personas:
   sub: "ISAIAH Predict uses historical data to predic outcomes in society"
   image: "/photos/freelance.jpg"  
   items:
-    - name : "Elections"
-      icon: /icons/appraise.png
-      content : "Know which candidates might win in advance"      
-    - name : "Economics"
-      icon: /icons/shop.png
-      content : "Are you sure your business will be right match for the coming economy?"
-    - name : "Social Phenomena and Trends"
-      icon: /icons/jobless.png
-      content : "Are you living in a country or city that is best for you?"
-    - name : "Criminal Tendencies (with ISAIAH Match)"
-      icon: /icons/thief.png    
-      content : "Prevent crime by pre-emptive monitoring"
+    - title : "Elections"
+      img: /imgs/appraise.png
+      sub : "Know which candidates might win in advance"      
+    - title : "Economics"
+      img: /imgs/shop.png
+      sub : "Are you sure your business will be right match for the coming economy?"
+    - title : "Social Phenomena and Trends"
+      img: /imgs/jobless.png
+      sub : "Are you living in a country or city that is best for you?"
+    - title : "Criminal Tendencies (with ISAIAH Match)"
+      img: /imgs/thief.png    
+      sub : "Prevent crime by pre-emptive monitoring"
       
-
 
 how:
   title: "Ask about the future"
   steps:
     - id: 1
-      image: "/screens/predict/1.jpg"
-      content: Ask about an event
+      img: "/screens/predict/1.jpg"
+      title: Ask about an event
     - id: 2
-      image: "/screens/predict/2.jpg"
-      content: "We'll run your question through our model to come up with an answer"
+      img: "/screens/predict/2.jpg"
+      title: "We'll run your question through our model to come up with an answer"
     - id: 3
       image: "/screens/predict/2.jpg"
-      content: "We'll run your question through our model to come up with an answer"      
+      sub: "We'll run your question through our model to come up with an answer"      
 
 
 
@@ -52,7 +51,7 @@ segment:
   articles:
     - title : "Clearing Fund Predictions"
       image: "/screens/fundsui.png"
-      content : "ISAIAH Predict is essential in predicting commodity prices in order to allocate the proper interest rates for clearing funds for respective commodities" 
+      sub : "ISAIAH Predict is essential in predicting commodity prices in order to allocate the proper interest rates for clearing funds for respective commodities" 
       button:
         label: "What are Clearing Funds?"
         link : "https://www.superphysics.org/research/schumacher/pool-clearing/part-3"
@@ -60,10 +59,9 @@ segment:
 
 
 cta:
-  title : "Send us a Predict-question to get started"
-  link1text: "Ok!"
-  link1 : "/contact"
-  link2text: "I'm not convinced yet"
-  link2 : "https://superphysics.org/social/supersociology/precrisis-years/"
+  buttons:
+    - text: "Send us a Predict-question"
+      link: "/contact"
+  
 
 ---

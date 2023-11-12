@@ -1,50 +1,52 @@
 {{ define "main" }}
-<style type="text/css">
-  .banner {
-    background: url("{{ .Params.banner }}") center center;
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-  }
-</style>
+<div class="w-screen">
+    <div class="mx-auto max-w-7xl py-8 sm:py-4">
+        <div class="space-y-8 lg:space-y-0 lg:grid lg:grid-cols-12 lg:gap-8">
+            <div class="px-6 sm:text-center md:mx-auto md:max-w-2xl lg:col-span-6 lg:flex lg:items-center lg:text-left">
+                <div class="space-y-8">
+                    <div class="space-y-4">
+                        <div class="space-y-2">
+                            <span class="rounded-full uppercase bg-cyan-500 px-3 py-0.5 text-sm font-semibold leading-5 text-white">
+                                
+                            </span>
+                            <h1 class="text-4xl font-bold tracking-tight dark:text-white text-black sm:text-5xl md:text-6xl">                
+                              {{ .Site.Params.main }}
+                              {{ with .Site.Params.wow }}
+                                <span
+                                    class="font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-green-800">{{ . }}
+                                </span>
+                              {{ end }}                                     
+                            </h1>
+                        </div>
 
+                        <p class="text-base dark:text-white text-gray-800 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
+                          {{ .Site.Params.sub }}
+                        </p>
+                    </div>
+                    <div class="border-t border-gray-700"></div>
+                    {{ with .Site.Params.cta }}
+                      {{ partial "cta.html" . }}
+                    {{ end }}                                                
+                </div>
+            </div>
 
-  <div class='banner w-full flex'>
-
-    <section class="">
-      <br>
-      <div class="px-4 mx-auto text-center lg:pt-16 lg:px-12" >
-        <h1 class="text-4xl mb-4 font-extrabold text-slate-900 tracking-tight leading-none">{{ .Params.title }}</h1>
-        <h2 class="text-lg mb-8 text-gray-900 tracking-tight leading-none ">{{ .Params.description }}</h1>        
-
-  {{ with .Params.cta }}
-    {{ partial "cta.html" . }}
-  {{ end }}
-
-
-
-        <div class="flex flex-wrap justify-center my-2">
-          
-          {{ range .Params.buttons }}
-            <a href="{{ .link }}">
-              <button type="button" class="inline-flex shadow-lg items-center px-4 py-2 text-sm font-medium rounded-lg inline-block dark:bg-secondary-100 dark:hover:bg-neutral-700 hover:bg-gray-100 mx-2 text-gray-900" style="">
-               <!-- text-transform: uppercase  -->
-                <img src="{{ .img }}" height="50px" width="50px" class="pr-4">
-                <small>{{ .label }}</small>
-              </button>
-            </a>
-          {{ end }}
+            <div class="flex items-center w-full col-span-6">
+                <div class="px-6 h-96 lg:h-100% w-full max-w-2xl col-span-6 flex items-center mx-auto">
+                    <div style="width: 100%; height: 100%;">
+                        <div style="width: 100%; height: 100%;">
+                            <iframe frameborder="0" allowfullscreen="1"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                width="100%" height="100%"
+                                src="https://www.youtube.com/embed/{{ .Site.Params.youtube }}?autoplay=0&amp;mute=0&amp;controls=0&"
+                                id="widget2">
+                            </iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-
-
-          <div class="aspect-w-16 aspect-h-9 py-4 my-2" style="height: max-content !important;">
-            <iframe class="w-full" style="aspect-ratio: 16 / 9 !important;" frameborder="0" src="https://www.youtube.com/embed/{{ if .Params.youtube }}{{ .Params.youtube }}{{ else }}5fL2_ZcRgNQ{{ end }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          </div>
-
-      </div>
-    </section>
-  </div>
+    </div>
+</div>
 
 
   {{ with .Site.Params.req }}
@@ -70,7 +72,7 @@
   {{ end }}
 
   {{ with .Site.Params.inca }}
-    {{- partial "tricon.html" . -}}
+    {{- partial "triconb.html" . -}}
   {{ end }}
 
   {{ with .Site.Params.feedback }}

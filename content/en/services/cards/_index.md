@@ -1,79 +1,55 @@
 ---
 linkTitle: Cards
-title: "'Bardit' Cards for Offline Use"
+title: "'Bardit' Cards for "
+wow: Offline Use
 description: "Pantrypoints Cards are the offline bardit system that combines barter and credit"
 youtube: ZErxZt4V2t4
-banner: /photos/clutter.jpg
+# banner: /photos/clutter.jpg
 
 
-
-personas:
-  image: "/photos/holdhands.jpg" 
+triconb:
+  banner: "/photos/holdhands.jpg" 
   title: "Bardit = Barter + Credit"
-  subtitle: "Bardit allows any 2 parties to create value"
+  sub: "Bardit allows any 2 parties to create value"
   items:
-    - name : "Moneyless"
-      icon: /icons/moneyno.png
-      content : "Money is not essential nor critical to Points Cards"
-    - name : "Decentralized"
-      icon: /icons/decen.png    
-      content : "Parties dictate their own prices relative to rice or grains"
-    - name : "Flexible"
-      icon: /icons/swap.png
-      content : "Parties can pay in goods, services, or money"
-    - name : "Natural KYC"
-      icon: /icons/jobs.png
-      content : "Knowing your customer is done through natural meetups instead of through artificial technology"
-
-    # - name : "Taxation"
-    #   content : "Knowing your customer is done through natural meetups instead of through artificial technology"
-
+    - title: "Moneyless"
+      sub: Money is not essential nor critical to Points Cards
+      img: /icons/moneyno.png
+    - title : "Decentralized"
+      img: /icons/decen.png    
+      sub : "Parties dictate their own prices relative to rice or grains"
+    - title : "Flexible"
+      img: /icons/swap.png
+      sub : "Parties can pay in goods, services, or money"
+    - title : "Natural KYC"
+      img: /icons/jobs.png
+      sub : "Knowing your customer is done through natural meetups instead of through artificial technology"
 
 
 how:
   title : "How it Works"  
   steps:
     - id: 1
-      content: "Get 2 points cards and fill them with the details of the other person"  
-      image: "/graphics/card1.jpg"
+      title: "Get 2 points cards and fill them with the details of the other person"  
+      img: "/graphics/card1.jpg"
     - id: 2 
-      image: "/graphics/card2.jpg"
-      content: "Meet up with that person and fill up the details of both cards with the actual transaction"
+      img: "/graphics/card2.jpg"
+      title: "Meet up with that person and fill up the details of both cards with the actual transaction"
     - id: 3
-      image: "/graphics/card3.jpg"
-      content: "Give the other card to the other person as his proof of the transaction. Repeat the process in a future transaction to clear the barter debt"
+      img: "/graphics/card3.jpg"
+      title: "Give the other card to the other person as his proof of the transaction. Repeat the process in a future transaction to clear the barter debt"
 
 
-req:
-  title: Based on the requirements in the Wealth of Nations
-  link: "https://superphysics.org/research/smith/wealth-of-nations/book-5/chapter-3j/"
-  avatar: "/avatars/smith.png"
-
-
-
-# feedback:
-#   title: Awards
-#   items:
-#     - user : Startup Weekend Cambodia 2017
-#       image: https://sorasystem.sirv.com/logos/startupweekend.png
-#       content: Top 5 in the Fintech Edition as Debt Clearing System
-#       link: http://communities.techstars.com
-
-#     - user : Infinity Blockchain Labs Nationwide Vietnam Blockathon 2017
-#       image: https://sorasystem.sirv.com/logos/blockathon.jpg
-#       content: 2nd Place as Social ROSCA
-#       link: http://blockchainlabs.asia
-
+# req:
+#   title: Based on the requirements in the Wealth of Nations
+#   link: "https://superphysics.org/research/smith/wealth-of-nations/book-5/chapter-3j/"
+#   avatar: "/avatars/smith.png"
 
 
 cta:
-  title : "Order Point Cards"
   buttons:
-    - text: "Sure!"
+    - text: "Order Point Cards"
       color: bg-blue-100
       link: "/contact"
-    - text: "I need to know more"
-      color: bg-red-100    
-      link2 : "https://superphysics.org/social/economics/solutions/points-banking"
 
 ---

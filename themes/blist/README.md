@@ -1,33 +1,26 @@
-Transalte to Nihongo:
-Superphysics: Wave-based Scientific Paradigm. A New Science Based on Metaphysics and Socratic Dialectics
-All Knowledge Can Be Grouped Into Three: 
-Metaphysics 0-50% Replicable: Paradoxical
-Superphysics 51-99% Replicable: Subjective
-Physics 100% Replicable: Objective
-THE NATURE OF THE SOUL
-Everything is a wave that manifests as a particle. The analog universe streams in real-definition to create reality
-We're in a Matrix! See how we can exist well in it
-Everything is an Idea.. Inside the Mind or Matrix
-A New Math for a New Science.. Has relativity baked in
-Socratic Dialectics for Solving Problems. Do you have a problem? The solution already exists!
-THE SOUL OF THE PHYSICAL UNIVERSE
-Material Superphysics. Based on Descartes and the five layers of the ancient Greek, Hindus, and Chinese
-The Five Layers of Superphysics. The Material, Radioactive, Radiant, Spatial, and Aethereal
-The Alternative to General Relativity. The Metaphysics of Spacetime
-Aethereal Propulsion. We bring back the theory of gravity from Kepler and Descartes
-Electrons are Positive, Protons are Negative. We use male-female to avoid confusion
-THE SOUL OF LIVING ENTITIES
-Bio Superphysics. Based on the dynamics of the sentient energy
-Cancers and Diseases Have Been Cured by Non-Western Medicine. Read the wave-based alternatives to particle-based Western Medicine
-You Have 3 Billion Selves. 'You' are made up of a changing wave of 'yous'
-Adam Smith the Vegetarian. He preferred vegetables, specifically potatoes, over meat
-How to Stop Covid. Read how NATO could have stopped Covid back in 2020
-THE SOUL OF SOCIETY
-Social Superphysics. Fellow-Feeling Instead of Selfish-Interest
-The Ego is the Cause of Problems in Society. Read how supersociology can fix it
-The Metaphysics of Value and the Four Laws of Value. Supereconomics deals with resource allocation and socio-economic issues
-The Socratic Law of Social Cycles. How can we use it to predict events like presidential elections and recessions?
-Social Cycles Predictions. Read our model's predictions for various countries
+Quel est votre rôle ?
+PantryPoints est destiné à tout le monde.
+Je suis propriétaire d'une micro-petite entreprise. J'ai besoin d'une présence en ligne sous la forme d'un site web, d'une application web, d'une application mobile ou sur les réseaux sociaux.
+Je suis au chômage. J'ai besoin de trouver un emploi mais je n'ai pas les compétences requises.
+Je suis enseignant. J'ai besoin de prendre les présences et de visualiser les données des étudiants.
+Je suis soucieux de ma santé. Les soins de santé sont chers, donc j'ai besoin de bien manger.
+Je suis investisseur. Je veux que mes investissements aient un impact important.
+Je suis banquier. Je veux une solution aux crises bancaires. Le stress est trop important.
+Je suis agriculteur. J'ai besoin d'une solution au réchauffement climatique !
+Je travaille pour le gouvernement. Nous devons générer plus de revenus pour les services publics.
+
+Spanish:
+¿Cuál es tu rol?
+Pantrypoints es para todos.
+Soy dueño de un micropequeño negocio. Necesito presencia en línea en forma de un sitio web, aplicación web, aplicación móvil o en redes sociales.
+Estoy desempleado. Necesito conseguir un trabajo pero no tengo las habilidades requeridas.
+Soy maestro. Necesito tomar asistencia y visualizar datos de estudiantes.
+Soy consciente de la salud. La atención médica es cara, así que necesito comer bien.
+Soy inversor. Quiero que mis inversiones tengan un gran impacto.
+Soy banquero. Quiero una solución a las crisis bancarias. El estrés es demasiado.
+Soy agricultor. ¡Necesito una solución para el calentamiento global!
+Trabajo para el gobierno. Necesitamos generar más ingresos para los servicios públicos.
+
 
 ### Search
 

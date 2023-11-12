@@ -1,17 +1,9 @@
 ---
 linkTitle: Pantrylitics
-title: "Analytics for Pantrypoints"
+title: "Pantrypoints"
+wow: Analytics
 description: "Pantrylitics provides real-time analytics for the Pantrypoints System"
 youtube: KOl-RwPLXxY
-banner: /photos/freelance.jpg
-
-# buttons:
-#   - label : "Register in the Waitlist"
-#     link : "https://hub.pantrypoints.com/signup"
-#     img: "/icons/pantry50.png"
-#   - label : "Check out the science"
-#     link : "https://superphysics.org/social/economics/"
-#     img: "/icons/sp100.png"
 
 
 req:
@@ -19,41 +11,37 @@ req:
   link: "https://superphysics.org/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d1a2"
   avatar: "/avatars/smith.png"
 
+## banner: /photos/freelance.jpg
 
-
-personas:
-  image: "/photos/news2k.jpg"
+tricon:
+  banner: "/photos/news2k.jpg"
   title : "Nowcasting the Global Supereconomics"
-  subtitle: "Pantrylitics is the machine learning system for the Pantry Network"
+  sub: "Pantrylitics is the machine learning system for the Pantry Network"
   items:
-    - name : "Local Trade"
-      icon: /icons/shop.png
-      content : "See the supereconomy of each city in real-time"
-    - name : "External Trade"
-      icon: /icons/ship.png    
-      content : "Know which commodities are actively being trade in Pantrypoints World"
-    - name : "Clearing Funds"
-      icon: /icons/swap.png
-      content : "Check the investment rates for each commodity and connect to Pantrypoints Invest"
-
+    - title : "Local Trade"
+      img: /icons/shop.png
+      sub : "See the supereconomy of each city in real-time"
+    - title : "External Trade"
+      img: /icons/ship.png    
+      sub : "Know which commodities are actively being trade in Pantrypoints World"
+    - title : "Clearing Funds"
+      img: /icons/swap.png
+      sub : "Check the investment rates for each commodity and connect to Pantrypoints Invest"
 
 
 how:
   title: "External Trade Data via Pantrypoints World"
   steps:
     - id: 1
-      image: "/screens/worldui.png"
-      content: World Pantrylitics shows what foreign commodities are being bought and sold between participating countries. This will prevent speculation and currency fluctuations
+      img: "/screens/worldui.png"
+      title: World Pantrylitics shows what foreign commodities are being bought and sold between participating countries. This will prevent speculation and currency fluctuations
     - id: 2
-      image: "/screens/plitics.png"
-      content: "Pantrylitics shows the trade being generated in each city: services, products, real estate, etc. This helps people know where goods and services are lacking or overabundant"
+      img: "/screens/plitics.png"
+      title: "Pantrylitics shows the trade being generated in each city: services, products, real estate, etc. This helps people know where goods and services are lacking or overabundant"
     - id: 3
-      image: "/screens/fundsui.png"
-      content: "Clearing Fund Pantrylitics shows the clearing fund rates for various commodities in each Pantrypoints City and in Pantrypoints World. This will allow people to invest directly in productive labor"      
-    # - id: 4
-    #   image: "/screens/fundsui.png"
-    #   content: "Pantrylitics traverses the trisactions ledger in order to create a real-time 'economic table' of the local economy"
-
+      img: "/screens/fundsui.png"
+      title: "Clearing Fund Pantrylitics shows the clearing fund rates for various commodities in each Pantrypoints City and in Pantrypoints World. This will allow people to invest directly in productive labor"      
+    
 
 # segment:
 #   articles:
@@ -94,14 +82,10 @@ how:
 
 
 
-cta:
-  title : "Register in the Waitlist"
-  buttons:
-    - text: "Sure!"
-      color: bg-blue-100
-      link: "https://hub.pantrypoints.com/signup"
-    - text: "I need to know more"
-      color: bg-red-100    
-      link : "https://superphysics.org/superphysics/solutions/isaiah"
+# cta:
+#   buttons:
+#     - text: "What is "
+#       color: bg-red-100    
+#       link : "https://superphysics.org/superphysics/solutions/isaiah"
   
 ---
