@@ -114,6 +114,10 @@
     {{ partial "feedback.html" . }}
   {{ end }}
 
+  {{ with .Params.feedback2 }}
+    {{ partial "feedback.html" . }}
+  {{ end }}
+
 {{ end }}
 
 

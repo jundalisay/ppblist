@@ -58,32 +58,28 @@ how:
       title: "Your website connects to a custom Pantrypreneur web app where you can view the customer queries or orders. It will allow you to record staff attendance using a Klock Module, as well as to appraise them through an Appraise Module"
     - img: "/screens/rewards/rewards.jpg"
       id: 3
-      sub: "Add modules such as one for rewarding your customers for their repeat purchases"
+      title: "Add modules such as one for rewarding your customers for their repeat purchases"
 
 
-circles1:
+tricon:
   title : "Current Implementations"
-  subtitle: "Pantrypreneur is currently being tested by the following"
-  cards:
+  sub: "Pantrypreneur is currently being tested by the following"
+  items:
     - title : Bambang PWD Association
       img : /icons/bambang.jpg
       sub : "Bambang PWD Association is testing Pantrypreneur jobs to get jobs for disabled people"
-      # link: world
       footer: "<span class='has-text-dark'>Pasig</span>"
     - title : AMSAI E-Learning
       img : /logos/amsai.png
       sub : "AMSAI E-Learning is testing appraise as a student grading system"
-      # link: world
       footer: "<span class='has-text-dark'>Laguna</span>"
     - title : Elivir's Restaurant
       img : /icons/elivirs.png
       sub : "Elivir's Restaurant is testing Pantrypreneur Rewards as a Loyalty system"
-      # link: pantrylitics
       footer: "<span class='has-text-dark'>Quezon City</span>"      
     - title : Ayus
       img : /logos/ayus.png
       sub : "Ayus is a homeopathy practice that is testing Query for customer queries"
-      # ISAIAH Health for predicting disease probability
       footer: "<span class='has-text-dark'>Las Pinas</span>"
 
 
