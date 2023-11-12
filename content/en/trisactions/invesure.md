@@ -1,6 +1,6 @@
 ---
 title: "Moneyless Investment and Insurance"
-banner: "/photos/pawns.jpg"
+image: "/photos/pawns.jpg"
 description: "Pantrypoints Invesure facilitates moneyless investment and insurance within the Pantrypoints system through Investment and Insurance Points"
 youtube: ro_8TZ7MTPU
 

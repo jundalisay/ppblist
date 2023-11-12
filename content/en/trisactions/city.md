@@ -2,7 +2,7 @@
 title: "The Resilient, "
 wow: "Smart City"
 description: "Pantrypoints City is the platform for hyperlocal trisactions in the city"
-banner: "/photos/inca.jpg"
+image: "/photos/inca.jpg"
 youtube: GVkVoJzLn2g
 
 
@@ -55,11 +55,11 @@ how:
 feedback:
   title: "Competitions"
   items:
-    - user : "Urban Land Institute Philippines"
+    - sub : "Urban Land Institute Philippines"
       img: "/icons/uli200.jpg"
       title: "Top 5 ULI Urban Innovation Challenge 2019"
       link: "http://philippines.uli.org"
-    - user : "UBX"
+    - sub : "UBX"
       img: "/icons/uhack200.jpg"
       title: "Top 10 U:Hack 2019" 
       link: "http://ubx.ph"
@@ -68,7 +68,7 @@ feedback:
 feedback2:
   title: "Feedback"
   items:
-    - user : "brandvertisor.com"
+    - sub : "brandvertisor.com"
       img: "/icons/brandvertisor.jpg"
       title: "You might be interested to make a city-centric problems & solutions voting.. transparency in citizens votes per problem can help a lot in lost time/money"
       link: "https://brandvertisor.com"
@@ -80,11 +80,11 @@ feedback2:
     #   img: "icons/leanhire100.jpg"
     #   title: "I like city-tech. There's a lot to be done!" 
     #   link: "https://leanhire.com"
-    - user : "itini.me"
+    - sub : "itini.me"
       img: "/icons/itini.jpg"
       title: "I'd like the following services: apartment rent pricing in different regions, events where cool people gather, local transportation, fresh food and supermarkets!" 
       link: "https://itini.me"
-    - user : "writeemote.com"
+    - sub : "writeemote.com"
       img: "/icons/emote.jpg"
       title: "Starting with helping owners file their property taxes more efficiently would be HUGE. Helping people find parking would be HUGE." 
       link: "https://writeemote.com"

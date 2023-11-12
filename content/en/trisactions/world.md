@@ -1,6 +1,6 @@
 ---
 title: "Adam Smith's Free Trade System Realized"
-banner: /photos/ship.jpg
+image: /photos/ship.jpg
 description: "Pantrypoints World is an import-export platform that allows local currency or barter"
 youtube: LsWUjsr0paA
 buttons:

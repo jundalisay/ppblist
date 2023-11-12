@@ -7,23 +7,6 @@ description: We build the online presence -- website, web app, social media, SEO
 youtube: zIrblIJF4Nk
 
 
-tricon:
-  title : "Our Build Package"
-  subtitle: "Put your business online without the hassle"
-  items:
-    - title: "Basic graphics and logos"
-      sub: We build basic graphics using Canva and other online tools"
-      img: "/icons/harrys.png"
-    - title : "Website, Domain, basic content"
-      img : "/screens/harrysweb.jpg"
-      sub : "We build your site based on our templates and add your own original content, optimized for search engines"
-    - title : "Social Network and Youtube"
-      img : "/screens/harrys.jpg"
-      sub : "We build your Facebook Page and Youtube Channel if you haven't done them yet"
-    - title : "Analytics"
-      img : "/screens/ganalytics2.jpg"
-      sub : "We set up a Google Analytics and Search Console for you"
-
 
 how:
   title : "Start Building the Digital Presence of Your Business"  

@@ -1,4 +1,4 @@
-baseurl = "https://www.pantrypoints.com"
+baselink = "https://www.pantrypoints.com"
 metaDataFormat = "yaml"
 title = "Pantrypoints"
 theme = "blist"
@@ -19,127 +19,145 @@ paginate = 12
 # identifier = "Trisactions"
 # name = "/icons/pantry50.png"
 # weight = 1
-# url = "/trisactions"
+# link = "/trisactions"
 
 # [[menu.main]]
 #   name = "/icons/banker.png"
 #   weight = 2
-#   url = "/trisactions/banking/"
+#   link = "/trisactions/banking/"
 
 # [[menu.main]]
 #   name = "/icons/energy.png"
 #   weight = 3
-#   url = "/trisactions/circle/"
+#   link = "/trisactions/circle/"
 
 # [[menu.main]]
 #   name = "/icons/place.png"
 #   weight = 4
-#   url = "/trisactions/city"
+#   link = "/trisactions/city"
 
 # [[menu.main]]
 #   name = "/icons/banking.png"
 #   weight = 5
-#   url = "/trisactions/health/"
+#   link = "/trisactions/health/"
 
 # [[menu.main]]
 #   name = "/icons/investor.png"
 #   weight = 6
-#   url = "/trisactions/invesure"
+#   link = "/trisactions/invesure"
 
 # [[menu.main]]
 #   name = "/icons/medal.png"
 #   weight = 7
-#   url = "/trisactions/nation"
+#   link = "/trisactions/nation"
 
 # [[menu.main]]
 #   name = "/icons/w.png"
 #   weight = 10
-#   url = "/trisactions/world/"
+#   link = "/trisactions/world/"
 
 # [[menu.main]]
 #   name = "/icons/p.png"
 #   weight = 11
-#   url = "/pantrypreneur"
+#   link = "/pantrypreneur"
 
 # [[menu.main]]
 #   name = "/icons/teacher.png"
 #   weight = 12
-#   url = "/pantrypreneur/educate"
+#   link = "/pantrypreneur/educate"
 
 # [[menu.main]]
 #   name = "/icons/plants.png"
 #   weight = 13
-#   url = "/pantrypreneur/farm"
+#   link = "/pantrypreneur/farm"
 
 # [[menu.main]]
 #   name = "/icons/loy.png"
 #   weight = 16
-#   url = "/pantrypreneur/rewards"
+#   link = "/pantrypreneur/rewards"
 
     [[languages.en.menu.main]]
         name = "/icons/swap.png"
-        url = "trisactions"
+        link = "trisactions"
         weight = 1
 
     [[languages.en.menu.main]]
         name = "/icons/maps.png"
-        url = "/trisactions/city"
-        weight = 2
-
-    [[languages.en.menu.main]]
-        name = "/icons/shop.png"
-        url = "/pantrypreneur/"
-        weight = 2
-
-    [[languages.en.menu.main]]
-        name = "/icons/cards.png"
-        url = "/services/cards"
-        weight = 3
-
-    [[languages.en.menu.main]]
-        name = "/icons/t.png"
-        url = "/services/tax"
-        weight = 4
-
-    [[languages.en.menu.main]]
-        name = "/icons/decen.png"
-        url = "/services/match"
-        weight = 5
-
-    [[languages.en.menu.main]]
-        name = "/icons/charts.png"
-        url = "/services/pantrylitics/"
+        link = "/trisactions/city"
         weight = 6
 
     [[languages.en.menu.main]]
-        name = "/icons/maps.png"
-        url = "/services/predict/"
-        weight = 7
-
-    [[languages.en.menu.main]]
-        name = "/icons/book.png"
-        url = "/docs/intro/overview/"
+        name = "/icons/circle.png"
+        link = "/trisactions/circle"
         weight = 8
 
     [[languages.en.menu.main]]
-        name = "/icons/cal.png"
-        url = "news"
+        name = "/icons/dd.png"
+        link = "/trisactions/health"
         weight = 9
 
     [[languages.en.menu.main]]
-        name = "/icons/question.png"
-        url = "faq"
+        name = "/icons/banker.png"
+        link = "/trisactions/banking"
         weight = 10
 
     [[languages.en.menu.main]]
-        name = "/icons/about.png"
-        url = "company"
-        weight = 11
+      name = "/icons/w.png"
+      link = "/trisactions/world"
+      # name = "/icons/t.png"
+      # link = "/services/tax"
+      weight = 11
+
 
     [[languages.en.menu.main]]
-        name = "/icons/heart.png"
-        url = "help"
-        weight = 12
+        name = "/icons/shop.png"
+        link = "/pantrypreneur/"
+        weight = 14
+
+    [[languages.en.menu.main]]
+        name = "/icons/cards.png"
+        link = "/services/cards"
+        weight = 17
+
+    [[languages.en.menu.main]]
+        name = "/icons/decen.png"
+        link = "/services/match"
+        weight = 16
+
+    [[languages.en.menu.main]]
+        name = "/icons/charts.png"
+        link = "/services/pantrylitics/"
+        weight = 18
+
+    [[languages.en.menu.main]]
+        name = "/icons/maps.png"
+        link = "/services/predict/"
+        weight = 20
+
+    [[languages.en.menu.main]]
+        name = "/icons/book.png"
+        link = "/docs/intro/overview/"
+        weight = 22
+
+    [[languages.en.menu.main]]
+        name = "/icons/cal.png"
+        link = "news"
+        weight = 24
+
+    [[languages.en.menu.main]]
+        name = "/icons/question.png"
+        link = "faq"
+        weight = 26
+
+    [[languages.en.menu.main]]
+        name = "/icons/about.png"
+        link = "company"
+        weight = 28
+
+    # [[languages.en.menu.main]]
+    #     name = "/icons/heart.png"
+    #     link = "help"
+    #     weight = 30
 
     [languages.en.params]
       main = "The Circular Economy That Solves"
@@ -166,35 +184,66 @@ paginate = 12
     [languages.en.params.feedback]
       title = "What Experts Say"
     [languages.en.params.feedback.items.a]
-      icon = "/avatars/dhanjoo.jpg"
+      img = "/avatars/dhanjoo.jpg"
       sub = "Prof. Dhanjoo Ghista, University 2020 Foundation President"
       title = "I very much like this work: A Research Proposal For The Formalization Of The Science Of Supereconomics And The Establishment Of A Points-Based Economic System"
-      url = "http://www.dhanjooghista.com/"
+      link = "http://www.dhanjooghista.com/"
     [languages.en.params.feedback.items.b]
-      icon = "/avatars/gavin.jpg"
+      img = "/avatars/gavin.jpg"
       title = "I believe it is developing into a worthwhile project"
       sub = "Prof. Gavin Kennedy, a world expert on Adam Smith"
-      url = "http://adamsmithslostlegacy.blogspot.com"
+      link = "http://adamsmithslostlegacy.blogspot.com"
 
 
     [languages.en.params.tricon1]
       title = "Introducing Asynchronous Tri-sactions"
       sub = "Trisactions allow money, moneyless, or metaverse transactions without waiting for fulfillment from the other party. This allows the economy to run under any social conditions, allowing true economic freedom"
     [languages.en.params.tricon1.items.a]
-      url = "/trisactions/invesure/"
+      link = "/trisactions/invesure/"
       img= "/icons/moneyno.png"
       title = "1: Moneyless"
       sub = "Moneyless transactions use barter-credits measured in points which are pegged to grains. This implements the grain-based valuation mentioned in The Wealth of Nations by Adam Smith"
     [languages.en.params.tricon1.items.b]
-      url = "/trisactions/banking"
+      link = "/trisactions/banking"
       img = "icons/money.png"
       title = "2: Money"
       sub = "'Money points' allow money to pay for the moneyless transactions via cash or cashless banking apps of the fiat economy"
     [languages.en.params.tricon1.items.c]
-      url = "/trisactions/banking"
+      link = "/trisactions/banking"
       img = "/icons/eth.png"
       title = "3: Metaverse"
       sub = "The points can be converted to Pantry Coins to allow regulated transactions from the Metaverse via Ethereum.  This is useful for cross-border transactions and our proposed 'crypto-easing' (our alternative to quantitative easing)"
+
+
+# triconb:
+#   banner: "/photos/dish.jpg"
+#   title : "The Points Economy"
+#   sub: "Unlike fiat money which is an arbitrary store of value, points are pegged to rice or grains. This allows easier points-taxation, points-accounting and analytics, while eliminating the need for currency exchange."
+#   items:
+#     - name : Loyalty Points
+#       icon: /icons/loy.png
+#       content : "These are points given by businesses<br> to their customers to incentivize repeat purchases.<br> This is used to 'train' people<br> in the use of points"
+#     - name : Donation Points
+#       icon: /icons/donate.png
+#       content : "These are points used for donations<br> and relief. We use this primarily to incentivize<br> [food rescue](https://circle.pantrypoints.com) and plastic waste collection<br> to realize a moneyless circular economy"
+#     - name : Exchange Points
+#       icon: /icons/swap.png
+#       content : "These are points for barter transactions.<br> Unlike social points which do not <br>seek something in return, trade points do.<br> This is the foundation of Points-banking"
+#     - name : Investment Points  
+#       icon: /icons/invest.png
+#       content : "These are exchange points designed<br> to spur investments when money is lacking.<br> This requires the other point-types<br> to be working beforehand."
+#     - name : Insurance Points
+#       icon: /icons/insure.png
+#       content : "These are exchange points for long term claim,<br> upon old age. We implement this as<br> social insurance in case money-based insurance<br> becomes oppressive"
+#     - name : Energy Points
+#       icon: /icons/energy.png
+#       content : "These are exchange points for electricity,<br> usually from biomass sources.<br> This incentivizes waste segregation<br> and is part of the circular economy"
+#     - name : Money Points
+#       icon: /icons/money.png
+#       content : "These are exchange points paid in money<br> to reduce existing trade points balance"
+#     - name : Tax Points
+#       icon: /icons/tax.png
+#       content : "These are points given by businesses<br> to their customers to incentivize<br> repeat purchases. This is used<br> to 'train' people in the use of points"
 
 
     [languages.en.params.tricon2]
@@ -202,42 +251,42 @@ paginate = 12
       sub = "Pantrypoints is for everyone"
 
     [languages.en.params.tricon2.items.a]
-      url = "services/build/"
+      link = "services/build/"
       img= "/icons/shop.png"
       title = "I'm a micro-small business owner"
       sub = "I need online presence as a website, web app, mobile app, or social media"
     [languages.en.params.tricon2.items.b]
-      url = "https://circle.pantrypoints.com/"
+      link = "https://circle.pantrypoints.com/"
       img = "/icons/jobless.png"
       title = "I'm Unemployed"
       sub = "I need to get a job but don't have the required skills"
     [languages.en.params.tricon2.items.c]
-      url = "/pantrypreneur/educate"
+      link = "/pantrypreneur/educate"
       img= "/icons/teacher.png"
       title = "I'm a teacher"
       sub = "I need to take attendance and visualize student performance"
     [languages.en.params.tricon2.items.d]
-      url = "/trisactions/health/"
+      link = "/trisactions/health/"
       img= "/icons/apple.png"
       title = "I'm health-conscious"
       sub = "Healtcare is expensive so I need to eat right"
     [languages.en.params.tricon2.items.f]
-      url = "/trisactions/invesure/"
+      link = "/trisactions/invesure/"
       img= "/icons/investor.png"
       title = "I'm an investor"
       sub = "I want my investments to make a lot of impact"
     [languages.en.params.tricon2.items.g]
-      url = "/trisactions/banking"
+      link = "/trisactions/banking"
       img = "icons/banker.png"
       title = "I'm a banker"
       sub = "I want a solution to banking crises. The stress is too much"
     [languages.en.params.tricon2.items.h]
-      url = "/pantrypreneur/farm/"
+      link = "/pantrypreneur/farm/"
       img = "/icons/farmer.png"
       title = "I'm a farmer"
       sub = "I need a solution to global warming!"
     [languages.en.params.tricon2.items.i]
-      url = "/services/tax"
+      link = "/services/tax"
       img = "/icons/gov.png"
       title = "I'm with the Government"
       sub = "We need to earn more revenue for public services"
@@ -300,11 +349,11 @@ paginate = 12
     languageName = "简体中"
     [[languages.zh.menu.main]]
         name = "/icons/question.png"
-        url = "faq"
+        link = "faq"
         weight = 8
     [[languages.zh.menu.main]]
         name = "/icons/about.png"
-        url = "about"
+        link = "about"
         weight = 9
     [languages.zh.params]
       main = "解决通货膨胀的"
@@ -329,15 +378,15 @@ paginate = 12
     [languages.zh.params.feedback]
       title = "专家意见"
     [languages.zh.params.feedback.items.a]
-      icon = "/avatars/dhanjoo.jpg"
+      img = "/avatars/dhanjoo.jpg"
       sub = "Prof. Dhanjoo Ghista, University 2020 Foundation President"
       title = "I very much like this work: A Research Proposal For The Formalization Of The Science Of Supereconomics And The Establishment Of A Points-Based Economic System"
-      url = "http://www.dhanjooghista.com/"
+      link = "http://www.dhanjooghista.com/"
     [languages.zh.params.feedback.items.b]
-      icon = "/avatars/gavin.jpg"
+      img = "/avatars/gavin.jpg"
       title = "I believe it is developing into a worthwhile project"
       sub = "Prof. Gavin Kennedy, a world expert on Adam Smith"
-      url = "http://adamsmithslostlegacy.blogspot.com"
+      link = "http://adamsmithslostlegacy.blogspot.com"
 
     [languages.zh.params.tricon1]
       title = "介绍Tri-sactions（三交易）"
@@ -361,42 +410,42 @@ paginate = 12
       sub = "Pantrypoints 面向所有人"
 
     [languages.zh.params.tricon2.items.a]
-      url = "services/build/"
+      link = "services/build/"
       img= "/icons/shop.png"
       title = "我是一位微小企业主"
       sub = "我需要在线存在，如网站、Web 应用、移动应用或社交媒体"
     [languages.zh.params.tricon2.items.b]
-      url = "https://circle.pantrypoints.com/"
+      link = "https://circle.pantrypoints.com/"
       img = "/icons/jobless.png"
       title = "我是失业者"
       sub = "我需要找工作，但没有所需的技能"
     [languages.zh.params.tricon2.items.c]
-      url = "/pantrypreneur/educate"
+      link = "/pantrypreneur/educate"
       img= "/icons/teacher.png"
       title = "我是一名教师"
       sub = "我需要点名并可视化学生数据"
     [languages.zh.params.tricon2.items.d]
-      url = "/trisactions/health/"
+      link = "/trisactions/health/"
       img= "/icons/apple.png"
       title = "我注重健康"
       sub = "医疗费用昂贵，所以我需要合理饮食"
     [languages.zh.params.tricon2.items.f]
-      url = "/trisactions/invesure/"
+      link = "/trisactions/invesure/"
       img= "/icons/investor.png"
       title = "我是一名投资者"
       sub = "我希望我的投资产生很大的影响"
     [languages.zh.params.tricon2.items.g]
-      url = "/trisactions/banking"
+      link = "/trisactions/banking"
       img = "icons/banker.png"
       title = "我是一名银行家"
       sub = "我需要解决银行危机的方案。压力太大了"
     [languages.zh.params.tricon2.items.h]
-      url = "/pantrypreneur/farm/"
+      link = "/pantrypreneur/farm/"
       img = "/icons/farmer.png"
       title = "我是一名农民"
       sub = "我需要解决全球变暖的方案！"
     [languages.zh.params.tricon2.items.i]
-      url = "/services/tax"
+      link = "/services/tax"
       img = "/icons/gov.png"
       title = "我在政府工作"
       sub = "我们需要为公共服务赚取更多收入"
@@ -463,7 +512,7 @@ paginate = 12
 
   # Custom copyright - optional
   copyright = "Copyright © 2023 | Pantrypoints Technologies"
-  favicon = "/icons/pantry50.png"
+  favimg = "/icons/pantry50.png"
 
   ascentColor = "bg-blue-100"
 
@@ -514,19 +563,19 @@ paginate = 12
 
   [[params.homepage.social.icons]]
     website = "twitter"
-    url = "https://twitter.com/pantrypoints"
+    link = "https://twitter.com/pantrypoints"
   [[params.homepage.social.icons]]
     website = "youtube"
-    url = "https://www.youtube.com/@pantrypoints"
+    link = "https://www.youtube.com/@pantrypoints"
   # [[params.homepage.social.icons]]
   #   website = "instagram"
-  #   url = "https://instagram.com"
+  #   link = "https://instagram.com"
   [[params.homepage.social.icons]]
     website = "facebook"
-    url = "https://www.facebook.com/pantrypoints/"
+    link = "https://www.facebook.com/pantrypoints/"
   # [[params.homepage.social.icons]]
   #   website = "behance"
-  #   url = "https://behance.net"
+  #   link = "https://behance.net"
 
 [build]
   writeStats = true
