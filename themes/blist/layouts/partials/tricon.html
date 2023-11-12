@@ -1,0 +1,49 @@
+<style type="text/css">
+  .back {
+    background: url("{{ .banner }}") center center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+  }
+</style>
+
+
+<div class='back w-full flex'>
+
+  <section class="my-6 p-6">
+    <div class="px-4 mx-auto text-center lg:pt-16 lg:px-12">
+      <small style="text-transform: uppercase;">{{ .Heading }}</small>    
+      <h2 class="text-4xl font-bold">{{ .Title }}</h2>
+      <p class="text-lg mb-6">{{ .Sub }}</p>
+
+        
+      {{ with .Youtube }}
+        <div class='w-full flex'>
+          <section class="mx-auto">
+              <div class="aspect-w-16 aspect-h-9 py-4 my-2" style="height: max-content !important;">
+                <iframe class="w-full" style="aspect-ratio: 16 / 9 !important;" frameborder="0" src="https://www.youtube.com/embed/{{ . }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </div>
+          </section>
+        </div>    
+      {{ end }}
+    </div>
+
+    <br>
+
+     <div class="py-6 mx-auto p-6 grid grid-cols-3 gap-1">
+      {{ range .items }}
+        <div class="col-span-1 flex flex-col border rounded-xl shadow-xl dark:text-white mx-4 zoom" data-sal="slide-down">
+          <a href="{{ .url }}"> 
+          <img class="rounded-xl mx-auto p-4" src="{{ .img }}" alt="" />
+          <div class="text-center p-4">
+            <h5 class="mb-2 text-xl font-bold leading-none">{{ .title }}</h5>
+            <p class="mb-3 font-normal leading-none">{{ .sub }}</p>
+          </div>      
+          </a>
+        </div>
+      {{ end }}
+    </div>
+
+  </section>
+</div>

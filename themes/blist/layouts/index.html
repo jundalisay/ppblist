@@ -1,0 +1,89 @@
+{{ define "main" }}
+<style type="text/css">
+  .banner {
+    background: url("{{ .Params.banner }}") center center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+  }
+</style>
+
+
+  <div class='banner w-full flex'>
+
+    <section class="">
+      <br>
+      <div class="px-4 mx-auto text-center lg:pt-16 lg:px-12" >
+        <h1 class="text-4xl mb-4 font-extrabold text-slate-900 tracking-tight leading-none">{{ .Params.title }}</h1>
+        <h2 class="text-lg mb-8 text-gray-900 tracking-tight leading-none ">{{ .Params.description }}</h1>        
+
+  {{ with .Params.cta }}
+    {{ partial "cta.html" . }}
+  {{ end }}
+
+
+
+        <div class="flex flex-wrap justify-center my-2">
+          
+          {{ range .Params.buttons }}
+            <a href="{{ .link }}">
+              <button type="button" class="inline-flex shadow-lg items-center px-4 py-2 text-sm font-medium rounded-lg inline-block dark:bg-secondary-100 dark:hover:bg-neutral-700 hover:bg-gray-100 mx-2 text-gray-900" style="">
+               <!-- text-transform: uppercase  -->
+                <img src="{{ .img }}" height="50px" width="50px" class="pr-4">
+                <small>{{ .label }}</small>
+              </button>
+            </a>
+          {{ end }}
+        </div>
+
+
+          <div class="aspect-w-16 aspect-h-9 py-4 my-2" style="height: max-content !important;">
+            <iframe class="w-full" style="aspect-ratio: 16 / 9 !important;" frameborder="0" src="https://www.youtube.com/embed/{{ if .Params.youtube }}{{ .Params.youtube }}{{ else }}5fL2_ZcRgNQ{{ end }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+
+      </div>
+    </section>
+  </div>
+
+
+  {{ with .Site.Params.req }}
+    {{ partial "req.html" . }}
+  {{ end }}
+
+
+  {{ with .Site.Params.tricon1 }}
+    {{- partial "tricon.html" . -}}
+  {{ end }}
+
+
+  {{ with .Site.Params.how }}
+    {{ partial "how.html" . }}
+  {{ end }}    
+
+  {{ with .Site.Params.tricon2 }}
+    {{- partial "tricon.html" . -}}
+  {{ end }}
+
+  {{ with .Site.Params.tricon3 }}
+    {{- partial "tricon.html" . -}}
+  {{ end }}
+
+  {{ with .Site.Params.inca }}
+    {{- partial "tricon.html" . -}}
+  {{ end }}
+
+  {{ with .Site.Params.feedback }}
+    {{ partial "feedback.html" . }}
+  {{ end }}
+
+
+  <div class="container">
+    {{- partial "comments.html" . -}}
+  </div>
+
+
+
+  {{- partial "social.html" . -}}
+
+{{- end }}
