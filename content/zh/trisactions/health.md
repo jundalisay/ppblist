@@ -1,52 +1,60 @@
 ---
 title: "健康"
 # Pantrypoints Health"
-wow: "Health Democracy"
+wow: "健康民主"
 image: "/og/diet.jpg"
-description: "Diet-Disease Reference is a reference app that allows the five health paradigms of Western Medicine, Ayurveda, Chinese Medicine, Naturopathy, and Homeopathy"
+description: "《饮食疾病参考》是一款参考应用程序，允许使用西医学、阿育吠陀、中医、自然疗法和顺势疗法这五种健康范式"
 youtube: M8ztGBQOVDM
 
 
+cta:
+  buttons:
+    - text: "查看应用程序"
+      link: "https://play.google.com/store/apps/details?id=com.pantrypoints.diet&pli=1"
+
+
+
 req:
-  title: Based on the requirements in Book 3, Chapter 3 of the Republic
+  title: 基于《共和国》第3卷第3章的要求
   link: "https://superphysics.org/research/socrates/simple-republic/book-3/chapter-3"
   avatar: "/avatars/socrates.png"
 
 
 triconb:  
-  title: "Five paradigms are better than one"
-  subtitle: "Diet Disease Reference implements Medical Superphysics to use the 5 major medical belief-systems to solve diseases"
+  title: "五个范式胜过一个"
+  subtitle: "《饮食疾病参考》实施了“医学超物理学”。它使用五种主要医学信仰体系来解决疾病"
   banner: "/photos/yoga2k.jpg"
   items:
-    - title: "Western Medicine"
+    - title: "西医学"
       img: /icons/meds.png
-      sub: "Western Medicine focuses on chemical cures"
-    - title: "Ayurveda"
+      sub: "西医学专注于化学疗法"
+    - title: "阿育吠陀"
       img: /icons/herb2.png
-      sub: "Ayurveda is based on the princples of vata, pitta, kapha"
-    - title: "Chinese Medicine"
+      sub: "阿育吠陀基于vata、pitta、kapha的原则"
+    - title: "中医"
       img: /icons/treatment.png
-      sub: "Chinese medicine is based on the metaphysical life force called chi"
-    - title: "Naturopathy"
+      sub: "中医基于被称为气的形而上生命力"
+    - title: "自然疗法"
       img: /icons/herb.png
-      sub: "Naturopathy is based on acidic-alkaline and natural cures"
-    - title: "Homeopathy"
+      sub: "自然疗法基于酸碱和自然疗法"
+    - title: "顺势疗法"
       img: /icons/homeo.png
-      sub: "Homeopathy uses like properties to cure like diseases"      
+      sub: "顺势疗法使用相似的特性治愈类似的疾病"      
 
 
 how:
-  title: "How it Works"
+  title: "它是如何工作的"
   steps:
     - img: "/screens/health/dd1.jpg"
       id: 1
-      title: "Browse the disease reference to know more about the symptoms and known treatments"  
+      title: "浏览疾病参考，了解更多关于症状和已知治疗的信息"  
     - img: "/screens/health/dd2.jpg"
       id: 2
-      title: "Learn about the natural remedies for your chosen disease"
+      title: "了解有关您选择的疾病的自然疗法"
     - img: "/screens/health/dd6.jpg"
       id: 3
-      title: "Browse the healthcare providers and food sellers for your health problem"      
+      title: "浏览健康问题的医疗服务提供商和食品销售商"      
+
 
 # duo:
 #   banner: "/photos/holdhands.jpg"
@@ -62,7 +70,7 @@ how:
 
 
 feedback:
-  title: "Feedback"
+  title: "反馈"
   items:
     - sub: "remotehour.co"
       img: "/icons/remotehourco.png"
@@ -93,12 +101,6 @@ feedback:
     #   title: "Good effort. Anything medtech is especially crucial these days" 
     #   link: "https://mon.rocks"
 
-
-
-cta:
-  buttons:
-    - text: "Check out the App"
-      link: "https://play.google.com/store/apps/details?id=com.pantrypoints.diet&pli=1"
 
 ---
 

@@ -331,6 +331,167 @@ paginate = 12
     # [languages.zh.params.feedback]
     #   title = "专家意见"
 
+  [languages.es]
+    contentDir = "content/es"
+    weight = 10
+    languageName = "Español"
+    [[languages.es.menu.main]]
+        name = "Trisactions"
+        url  = "trisactions"
+        weight = 1
+    [[languages.es.menu.main]]
+        name = "FAQ"
+        url = "faq"
+        weight = 8
+    [languages.es.params]
+      main = "The Circular Economy That Solves"
+      sub = "Pantrypoints is a resilient and disruptive new economic system that uses bilateral points through meetups in order to stop inflation, allow full employment, and realize the circular economy"
+      banner = "/photos/holdhands.jpg"
+      wow = "Inflation"
+      youtube = "AfByl9Mywi4"
+
+    [languages.es.params.cta]
+      title = ""
+    [languages.es.params.cta.buttons.a]
+      link = "https://hub.pantrypoints.com/signup"
+      text = "Register in the Waitlist"
+      color = ""
+    [languages.es.params.cta.buttons.b]
+      link = "https://www.superphysics.org/social/economics"
+      text = "Check out the science"
+      color = ""
+
+    [languages.es.params.req]
+      title = "Among the Mongols who are ignorant of the use of money, cattle are the measures of value. Wealth to them consisted in cattle, as to the Spaniards it consisted in gold and silver. Of the two, the Mongol notion, was nearest to the truth. (Adam Smith)"
+      avatar = "/avatars/smith.png"
+
+    [languages.es.params.tricon1]
+      title = "Introducing Asynchronous Tri-sactions"
+      sub = "Trisactions allow money, moneyless, or metaverse transactions without waiting for fulfillment from the other party. This allows the economy to run under any social conditions, allowing true economic freedom"
+    [languages.es.params.tricon1.items.a]
+      link = "/trisactions/invesure/"
+      img= "/icons/moneyno.png"
+      title = "1: Moneyless"
+      sub = "Moneyless transactions use barter-credits measured in points which are pegged to grains. This implements the grain-based valuation mentioned in The Wealth of Nations by Adam Smith"
+    [languages.es.params.tricon1.items.b]
+      link = "/trisactions/banking"
+      img = "icons/money.png"
+      title = "2: Money"
+      sub = "'Money points' allow money to pay for the moneyless transactions via cash or cashless banking apps of the fiat economy"
+    [languages.es.params.tricon1.items.c]
+      link = "/trisactions/banking"
+      img = "/icons/eth.png"
+      title = "3: Metaverse"
+      sub = "The points can be converted to Pantry Coins to allow regulated transactions from the Metaverse via Ethereum.  This is useful for cross-border transactions and our proposed 'crypto-easing' (our alternative to quantitative easing)"
+
+    [languages.es.params.feedback]
+      title = "What Experts Say"
+    [languages.es.params.feedback.items.a]
+      img = "/avatars/dhanjoo.jpg"
+      sub = "Prof. Dhanjoo Ghista, University 2020 Foundation President"
+      title = "I very much like this work: A Research Proposal For The Formalization Of The Science Of Supereconomics And The Establishment Of A Points-Based Economic System"
+      link = "http://www.dhanjooghista.com/"
+    [languages.es.params.feedback.items.b]
+      img = "/avatars/gavin.jpg"
+      title = "I believe it is developing into a worthwhile project"
+      sub = "Prof. Gavin Kennedy, a world expert on Adam Smith"
+      link = "http://adamsmithslostlegacy.blogspot.com"
+
+    [languages.es.params.tricon2]
+      title = "Which Are You?"
+      sub = "Pantrypoints is for everyone"
+
+    [languages.es.params.tricon2.items.a]
+      link = "services/build/"
+      img= "/icons/shop.png"
+      title = "I'm a micro-small business owner"
+      sub = "I need online presence as a website, web app, mobile app, or social media"
+    [languages.es.params.tricon2.items.b]
+      link = "https://circle.pantrypoints.com/"
+      img = "/icons/jobless.png"
+      title = "I'm Unemployed"
+      sub = "I need to get a job but don't have the required skills"
+    [languages.es.params.tricon2.items.c]
+      link = "/pantrypreneur/educate"
+      img= "/icons/teacher.png"
+      title = "I'm a teacher"
+      sub = "I need to take attendance and visualize student performance"
+    [languages.es.params.tricon2.items.d]
+      link = "/trisactions/health/"
+      img= "/icons/apple.png"
+      title = "I'm health-conscious"
+      sub = "Healtcare is expensive so I need to eat right"
+    [languages.es.params.tricon2.items.f]
+      link = "/trisactions/invesure/"
+      img= "/icons/investor.png"
+      title = "I'm an investor"
+      sub = "I want my investments to make a lot of impact"
+    [languages.es.params.tricon2.items.g]
+      link = "/trisactions/banking"
+      img = "icons/banker.png"
+      title = "I'm a banker"
+      sub = "I want a solution to banking crises. The stress is too much"
+    [languages.es.params.tricon2.items.h]
+      link = "/pantrypreneur/farm/"
+      img = "/icons/farmer.png"
+      title = "I'm a farmer"
+      sub = "I need a solution to global warming!"
+    [languages.es.params.tricon2.items.i]
+      link = "/services/tax"
+      img = "/icons/gov.png"
+      title = "I'm with the Government"
+      sub = "We need to earn more revenue for public services"
+
+    [languages.es.params.tricon3]
+      title = "Locations"
+      sub = "Here are the cities where we are prototyping our system. Feel free to add your city by registering in the waitlist."
+    [languages.es.params.tricon3.items.a]
+      img = "/flags/ph.png"
+      title = "Las Pinas"
+    [languages.es.params.tricon3.items.b]
+      img = "/flags/ph.png"
+      title = "San Pedro Laguna"
+    [languages.es.params.tricon3.items.c]
+      img = "/flags/vn.png"
+      title = "Ho Chi Minh"
+    [languages.es.params.tricon3.items.d]
+      img = "/flags/vn.png"
+      title = "Hanoi"
+    [languages.es.params.tricon3.items.e]
+      img = "/flags/my.png"
+      title = "Kuala Lumpur"
+
+    [languages.es.params.inca]
+      title = "Originally Built by the Inca"
+      sub = "The Inca made a large scale points-based economic system using strings for points. The Spanish destroyed it and replaced it with the current crisis-prone money-based system."
+      banner = "/photos/inca.jpg"
+      link = "https://gizmodo.com/the-greatest-mystery-of-the-inca-empire-was-its-strange-5872764"
+      linktext = "Read how the Inca system worked"  
+
+    [languages.es.params.inca.items.a]
+      img = "/photos/qullqa.jpg"
+      title = "We implement the Qulqa as pantries"
+    [languages.es.params.inca.items.b]
+      img = "photos/quipu.jpg"
+      title = "We implement the Quipu as points, thus Pantrypoints"
+
+    [languages.es.params.how]
+      title = "How it Works"
+      sub = "The Inca made a large scale points-based economic system using strings for points. The Spanish destroyed it and replaced it with the current crisis-prone money-based system."
+      banner = "/photos/inca.jpg"
+    [languages.es.params.how.steps.a]
+      img = "/photos/qullqa.jpg"
+      title = "Post your item using a points price instead of a money price"
+      id = 1
+    [languages.es.params.how.steps.b]
+      img = "/photos/shake.jpg"
+      title = "Meetup with the buyers of your item"
+      id = 2
+    [languages.es.params.how.steps.c]
+      img = "/screens/pay.jpg"
+      title = "Pay in points"
+      id = 3
+
 
 [params]
   logo = "/icons/pantry.png"
