@@ -81,12 +81,12 @@ paginate = 12
       link = "/trisactions/invesure/"
       img= "/icons/moneyno.png"
       title = "1: Moneyless"
-      sub = "Moneyless transactions use barter-credits measured in points which are pegged to grains. This implements the grain-based valuation mentioned in The Wealth of Nations by Adam Smith"
+      sub = "Moneyless transactions use barter-credits measured in points which are pegged to grains"
     [languages.en.params.tricon1.items.b]
       link = "/trisactions/banking"
       img = "icons/money.png"
       title = "2: Money"
-      sub = "'Money points' allow money to pay for the moneyless transactions via cash or cashless banking apps of the fiat economy"
+      sub = "'Money points' allow money to pay for the moneyless transactions via cash or cashless apps of the fiat economy"
     [languages.en.params.tricon1.items.c]
       link = "/trisactions/banking"
       img = "/icons/eth.png"
