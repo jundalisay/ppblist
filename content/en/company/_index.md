@@ -77,8 +77,6 @@ tricon:
       sub: "We use the crisis to move businesses online and into our trisactions system to prove that our system can alleviate the crisis that it was designed for. We successfully test barter-credits (bardits) for food to address food inflation"
 
 
-##################### Call to action #####################
-
 cta:
   buttons:
     - text: "Check out our Works"

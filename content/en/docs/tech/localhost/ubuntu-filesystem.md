@@ -1,15 +1,9 @@
-+++
-title = "Ubuntu Filesystem"
-image = "https://sorasystem.sirv.com/photos/magic.jpg"
-date = 2016-11-12
+---
+title: "Ubuntu Filesystem"
+image: "/photos/code.jpg"
+date: 2016-11-12
 # description: "The ASEAN's Next Great Idea contest looks for the Top 20 ideas in Southeast Asia. We're very thankful to have made it to the list!"
-# linkb: "news/hanoi-techest-2016"
-# linkbtext: "hanoi-techest"
-# linkf: "news/startup-weekend-cambodia"
-# linkftext: "startup-weekend"
-draft = true
-+++
-
+---
 
 ## /lost+found
 

@@ -4,9 +4,6 @@ description: We list how to deploy Phoenix 1.6.2 to Gigalixir and Heroku
 image: "/img/tech.jpg"
 tags: ['Phoenix', 'Gigalixir', 'Heroku']
 date: 2021-12-11
-aliases:
-  /blog/deploy-phoenix-gigalixir-heroku
-  /articles/deploy-phoenix-gigalixir-heroku
 ---
 
 

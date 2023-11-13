@@ -21,7 +21,7 @@ req:
 
 
 
-tricon:
+trimg:
   image: "/photos/taxes.jpg"
   title : "Only 3 tax classes"
   items:

@@ -18,23 +18,23 @@ personas:
   sub: "积分银行允许用户之间受监管的积分转移"
   items:
     - title: "无货币"
-      icon: /icons/moneyno.png
+      img: /icons/moneyno.png
       sub: "积分银行使经济在完全金融崩溃后仍能运转。"
     - title: "去中心化"
-      icon: /icons/decen.png    
+      img: /icons/decen.png    
       sub: "人们保留自己的信息，防止“信息不对称”"
     - title: "灵活"
-      icon: /icons/cards.png
+      img: /icons/cards.png
       sub: "积分银行可以脱机运行"
     - title: "成本效益"
-      icon: /icons/clock.png
+      img: /icons/clock.png
       sub: "积分银行可以部署在云上，以降低成本"      
     # - title: "Cost Effective"
-    #   icon: /icons/money.png
+    #   img: /icons/money.png
     #   sub: "Points Banking can be deployed on the cloud to reduce costs"
     - title: "与税收整合"
       sub: "积分银行将与Pointtax整合，允许以实物支付税款"
-      icon: /icons/tax.png
+      img: /icons/tax.png
 
 
 
@@ -42,14 +42,14 @@ how:
   title : "How it Works"  
   steps:
     - id: 1
-      sub: "与无货币经济中的其他用户和公司获得积分"
+      title: "与无货币经济中的其他用户和公司获得积分"
       img: "/screens/po3.jpg"
     - id: 2 
       img: "/screens/xfer.png"
-      sub: "将您的积分转移到其他用户，以获得他们的商品和服务"
+      title: "将您的积分转移到其他用户，以获得他们的商品和服务"
     - id: 3
       img: "/screens/po1.jpg"
-      sub: "像往常一样使用您的积分"
+      title: "像往常一样使用您的积分"
 
 
 
@@ -67,12 +67,11 @@ feedback:
 
 
 cta:
-  title : "在等待名单中注册"
   buttons:
-    - text: "是的！"
+    - text: "在等待名单中注册"
       link: "https://hub.pantrypoints.com/signup"
-    - text: "暂时不要"
-      link : "https://superphysics.org/social/economics/solutions/points-banking"
+    # - text: "暂时不要"
+    #   link : "https://superphysics.org/social/economics/solutions/points-banking"
 
 ---
 

@@ -2,11 +2,9 @@
 title: "How to Hotlink Images from Google Drive and Dropbox"
 # subtitle: "modify the URL"
 date: 2020-07-05
-image: "/photos/tomatoes.jpg"
+image: "/photos/code.jpg"
 description : "How to Hotlink Images from Google Drive and Dropbox"
 author: Juan
-# icon: https://superphysics.org/icons/pantry.png
-# icontext: Pantrypoints icon
 aliases:
   /articles/hotlink/
 ---

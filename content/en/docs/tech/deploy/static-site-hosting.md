@@ -1,13 +1,10 @@
 ---
 title: Firebase vs Github vs Netlify vs Render vs Cloudflare
-subtitle: Which is best for Free Static Site Hosting?
+heading: Which is best for Free Static Site Hosting?
 description: We tried different static site hosts and liked Cloudflare the best. See the pros and cons of each
 image: "/img/firebasenetlify.jpg"
 tags: ['Static Site Hosting']
 date: 2021-11-15
-# aliases:
-#   /tech/static-site-hosting
-#   /articles/static-site-hosting
 ---
 
 

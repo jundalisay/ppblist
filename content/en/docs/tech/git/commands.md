@@ -1,11 +1,11 @@
 ---
 title: "Git Commands"
 description: "Git Commands"
-lead: ""
 date: 2022-10-06T08:49:15+00:00
 lastmod: 2022-10-06T08:49:15+00:00
-images: []
 weight: 70
+image: "/photos/code.jpg"
+draft: true
 ---
 
 

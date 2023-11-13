@@ -1,7 +1,8 @@
 ---
 linkTitle: Match
 title: "ISAIAH Match"
-# wow: "Find the right match. Or just avoid the bad ones"
+wow: "Not Just for Matchmaking"
+# Find the right match. Or just avoid the bad ones"
 description: "ISAIAH Match is our personality matching system for education, jobs, products, fake news, and relationships, as a part of a new morality-based socio-economic system"
 image: "/og/match.jpg"
 youtube: 5alMsLDgc00
@@ -36,23 +37,19 @@ triconb:
       sub: "Reduce the chance of criminal behavior in your event or organization"
 
 
-platform:
-  title : "Match allows robust, granular, yet efficient personality profiling that is physically verifiable"
-  item:
-    - name : "Myers-Briggs"
-      image : "/icons/chartmyers.jpg"
-      content : "Myers-Briggs has 4 dimensions"
+tricon:
+  title: "Match allows robust, granular, yet efficient personality profiling that is physically verifiable"
+  items:
+    - title: "Myers-Briggs"
+      img : "/icons/chartmyers.jpg"
+      sub : "Myers-Briggs has 4 dimensions"
+    - title: "Match"
+      img : "/icons/chartmatch.png"
+      sub : "Match has 10 -- The job applicant answers fewer questions than Myers-Briggs, but reveals much more information"
+    - title: "IBM Personality Insights"
+      img : "https://ik.imagekit.io/sora/charts/ibmpersonality_aaYPK09FT.jpg"
+      sub : "IBM Personality Insights has too many"
 
-    - name : "Match"
-      image : "/icons/chartmatch.png"
-      content : "Match has 10 -- The job applicant answers fewer questions than Myers-Briggs, but reveals much more information"
-
-    - name : "IBM Personality Insights"
-      image : "https://ik.imagekit.io/sora/charts/ibmpersonality_aaYPK09FT.jpg"
-      content : "IBM Personality Insights has too many"
-
-
-######################### Service #####################
 
 how:
   title : "How it Works"
@@ -87,11 +84,11 @@ feedback:
   title: "Feedback"
   items:
     - sub : "whoelse.ai"
-      icon: "/icons/whoelse.png"
+      img: "/icons/whoelse.png"
       title: "Amazing progress! I really liked how you turned a theory into a product offering. Keep up the good work!"
       link: "https://whoelse.ai"
     - sub : "brainsprays.com"
-      icon: "/icons/brainsprays.png"
+      img: "/icons/brainsprays.png"
       title: "I'm a long time Myers Briggs (ENTJ) and Enneagram (9) fan so love this stuff" 
       link: "https://brainsprays.com"
 

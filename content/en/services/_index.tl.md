@@ -17,27 +17,27 @@ shots:
   title : "Mga Serbisyo"
   # subtitle: "Put your business online without the hassle"
   cards:
-    - name : "Build"
+    - title: "Build"
       image : "/icons/b.png"
       content : "Binibigyan naming ng online presence ang inyong negosyo at organisasyon"
 
-    - name : "Coins"
+    - title: "Coins"
       image : "/icons/bank.png"
       content : "Ang Coins ang nagpapagana sa cross-border na transaksyon gamit ang puntos"
       
-    - name : "Match"
+    - title: "Match"
       image : "/icons/match.png"
       content : "Magkakasakit ka ba? Tinitingnan ng Match kung ano ang iyong potensyal na magkasakit"
 
-    - name : "Analytics"
+    - title: "Analytics"
       image : "/icons/pantrylitics.png"
       content : "Tingnan ang points dynamics ng iyong negosyo o lipunan"
 
-    - name : "Predict"
+    - title: "Predict"
       image : "/icons/ip.png"
       content : "Ano ang mga pwedeng mangyari sa iyong lipunan o bansa?"
 
-    - name : "Points-Taxation"
+    - title: "Points-Taxation"
       image : "/icons/t.png"
       content : "Magbayad ng buwis gamit ang puntos"
 

@@ -141,7 +141,7 @@ paginate = 12
     [[languages.en.menu.main]]
         name = "Docs"
         #name = "/icons/book.png"
-        url = "/docs/intro/overview/"
+        url = "/docs/"
         weight = 22
 
     [[languages.en.menu.main]]
@@ -352,13 +352,18 @@ paginate = 12
     weight = 2
     languageName = "简体中"
     [[languages.zh.menu.main]]
-        name = "/icons/question.png"
-        link = "faq"
-        weight = 8
+        name = "Trisactions"
+        url  = "trisactions"
+        weight = 1
     [[languages.zh.menu.main]]
-        name = "/icons/about.png"
-        link = "about"
-        weight = 9
+        name = "Pantrypreneur"
+        url  = "pantrypreneur"
+        weight = 3
+    [[languages.zh.menu.main]]
+        name = "问题"
+        url = "faq"
+        weight = 8
+
     [languages.zh.params]
       main = "解决通货膨胀的"
       sub = "Pantrypoints是一个弹性的新经济体系，通过会面使用双边积分来制止通货膨胀，实现充分就业和实现循环经济"
