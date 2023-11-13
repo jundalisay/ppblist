@@ -1,3 +1,15 @@
+    field :address, :string
+    field :avatar, :string
+    field :city, :string
+    field :content, :string
+    field :country, :string
+    field :email, :string
+    field :name, :string
+    field :phone, :string
+    field :user_id, :id
+
+
+
 Translate to Spanish, French, German, Hindi, Japanese
 What is your role? Pantrypoints is for everyone.
 I'm a micro-small business owner. I need online presence as a website, web app, mobile app, or social media.
