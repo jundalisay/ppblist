@@ -1,6 +1,3 @@
-<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
-
-
 <div class="{{ .Site.Params.ascentColor | default "bg-pink-50" }} dark:bg-gray-900" style="background-color: teal;">
   <div class="container px-4 py-12 mx-auto max-w-4xl grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
     <a href="/help" class="zoom-sm">
@@ -25,7 +22,7 @@
 
       <input name="email[address]" id="source" type="hidden" value="{{ .Permalink }}" class="p-2">                             
  
-      <div class="p-2 cf-turnstile" data-sitekey="0x4AAAAAAACSZuKkFhl_KkiU" data-callback="javascriptCallback"></div>
+      <div id="example-container" class="p-2 cf-turnstile" data-sitekey="0x4AAAAAAACSZuKkFhl_KkiU" data-callback="javascriptCallback"></div>
       <div class="p-2 checkbox mb-3"></div>           
 
       <button class="w-full hover:bg-teal-300 text-sm border-4 text-white m-2 rounded" type="button">
@@ -35,6 +32,18 @@
   
     </div>
   </form>
+
+<script type="text/javascript">
+  window.onloadTurnstileCallback = function () {
+    turnstile.render('#example-container', {
+        sitekey: '0x4AAAAAAACSZuKkFhl_KkiU',
+        callback: function(token) {
+            console.log(`Challenge Success ${token}`);
+        },
+    });
+};
+
+</script>
 
 
     <ul class="flex justify-center gap-x-3 flex-wrap gap-y-2 pt-4">

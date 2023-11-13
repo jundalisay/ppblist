@@ -344,45 +344,47 @@ paginate = 12
         url = "faq"
         weight = 8
     [languages.es.params]
-      main = "The Circular Economy That Solves"
-      sub = "Pantrypoints is a resilient and disruptive new economic system that uses bilateral points through meetups in order to stop inflation, allow full employment, and realize the circular economy"
+      main = "La Economía Circular que Resuelve "
+      sub = "Pantrypoints es un nuevo sistema económico resiliente que utiliza puntos bilaterales a través de reuniones para detener la inflación, permitir el pleno empleo y lograr la economía circular"
       banner = "/photos/holdhands.jpg"
-      wow = "Inflation"
-      youtube = "AfByl9Mywi4"
+      wow = "la Inflación"
+      youtube = "q04lTIW48Oo"
 
     [languages.es.params.cta]
       title = ""
     [languages.es.params.cta.buttons.a]
       link = "https://hub.pantrypoints.com/signup"
-      text = "Register in the Waitlist"
+      text = "Regístrese en la lista de espera"
       color = ""
     [languages.es.params.cta.buttons.b]
       link = "https://www.superphysics.org/social/economics"
-      text = "Check out the science"
+      text = "Lea acerca de la teoría"
       color = ""
 
+    # Regístrate en la aplicación. Lee la Ciencia de nuestro sistema.
+
     [languages.es.params.req]
-      title = "Among the Mongols who are ignorant of the use of money, cattle are the measures of value. Wealth to them consisted in cattle, as to the Spaniards it consisted in gold and silver. Of the two, the Mongol notion, was nearest to the truth. (Adam Smith)"
+      title = "Para los mongoles que desconocían el uso del dinero, una vaca era la medida de valor. La riqueza para ellos se medía en la cantidad de vacas, al igual que para los españoles la riqueza se medía en la cantidad de oro y plata. La noción mongol es más correcta. (Adam Smith)"
       avatar = "/avatars/smith.png"
 
     [languages.es.params.tricon1]
-      title = "Introducing Asynchronous Tri-sactions"
-      sub = "Trisactions allow money, moneyless, or metaverse transactions without waiting for fulfillment from the other party. This allows the economy to run under any social conditions, allowing true economic freedom"
+      title = "Presentando Tri-sacciones"
+      sub = "Tri-sacciones permiten transacciones con dinero, sin dinero o en el metaverso para permitir que la economía funcione bajo cualquier condición social, permitiendo una verdadera libertad económica"
     [languages.es.params.tricon1.items.a]
       link = "/trisactions/invesure/"
       img= "/icons/moneyno.png"
-      title = "1: Moneyless"
-      sub = "Moneyless transactions use barter-credits measured in points which are pegged to grains. This implements the grain-based valuation mentioned in The Wealth of Nations by Adam Smith"
+      title = "1: Sin dinero"
+      sub = "Las transacciones sin dinero utilizan<br> trueque de valor almacenado medido en puntos<br> que están ligados a granos.<br> Esto implementa la valoración basada<br> en granos mencionada en La Riqueza de las Naciones<br> de Adam Smith"
     [languages.es.params.tricon1.items.b]
       link = "/trisactions/banking"
       img = "icons/money.png"
-      title = "2: Money"
-      sub = "'Money points' allow money to pay for the moneyless transactions via cash or cashless banking apps of the fiat economy"
+      title = "2: Dinero"
+      sub = "Los puntos monetarios permiten utilizar<br> dinero para pagar las transacciones sin dinero a través<br> de efectivo o aplicaciones bancarias sin efectivo<br> de la economía fiduciaria"
     [languages.es.params.tricon1.items.c]
       link = "/trisactions/banking"
       img = "/icons/eth.png"
-      title = "3: Metaverse"
-      sub = "The points can be converted to Pantry Coins to allow regulated transactions from the Metaverse via Ethereum.  This is useful for cross-border transactions and our proposed 'crypto-easing' (our alternative to quantitative easing)"
+      title = "3: Metaverso"
+      sub = "Los puntos pueden convertirse en<br> Monedas de Despensa para permitir transacciones reguladas<br> desde el metaverso a través de Ethereum.<br> Esto es útil para transacciones internacionales<br> y nuestra propuesta de cripto-alivio<br> (nuestra alternativa a la flexibilización cuantitativa)"
 
     [languages.es.params.feedback]
       title = "What Experts Say"
@@ -476,12 +478,12 @@ paginate = 12
       title = "We implement the Quipu as points, thus Pantrypoints"
 
     [languages.es.params.how]
-      title = "How it Works"
-      sub = "The Inca made a large scale points-based economic system using strings for points. The Spanish destroyed it and replaced it with the current crisis-prone money-based system."
+      title = "Cómo funciona"
+      sub = "Publica tu artículo usando un precio en puntos en lugar de un precio en dinero"
       banner = "/photos/inca.jpg"
     [languages.es.params.how.steps.a]
       img = "/photos/qullqa.jpg"
-      title = "Post your item using a points price instead of a money price"
+      title = "Reúnete con los compradores de tu artículo"
       id = 1
     [languages.es.params.how.steps.b]
       img = "/photos/shake.jpg"
@@ -489,8 +491,9 @@ paginate = 12
       id = 2
     [languages.es.params.how.steps.c]
       img = "/screens/pay.jpg"
-      title = "Pay in points"
+      title = "Paga con puntos"
       id = 3
+
 
 
 [params]
