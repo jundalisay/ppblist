@@ -4,7 +4,7 @@ linkTitle: Overview
 description: "Pantrypreneur Educate is a small-school administration system"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
-images: []
+image: "/og/educate.jpg"
 menu:
   docs:
     parent: "educate"

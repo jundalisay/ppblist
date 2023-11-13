@@ -4,7 +4,7 @@ description: "Pantrypreneur Jobs is a job application system"
 lead: "Pantrypreneur Jobs is a job application system"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
-images: []
+image: "/og/work.jpg"
 menu:
   docs:
     parent: "preneur_features"

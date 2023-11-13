@@ -4,7 +4,7 @@ description: "Pantrypreneur Appraise is a user-appraisal system"
 lead: "Pantrypreneur Appraise is a user-appraisal system"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
-images: []
+image: "/og/preneur.jpg"
 menu:
   docs:
     parent: "preneur_features"

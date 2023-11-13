@@ -4,7 +4,7 @@ description: "Pantrypreneur Rewards is designed for businesses with frequent pur
 lead: "Pantrypreneur Rewards is designed for businesses with frequent purchases such as restaurants, food items, and consummables"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
-images: []
+image: "/og/rewards.jpg"
 menu:
   docs:
     parent: "preneur_features"

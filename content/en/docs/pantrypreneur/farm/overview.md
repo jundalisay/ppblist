@@ -5,7 +5,7 @@ description: "Pantrypreneur Farm is a farm administration app that implements Ma
 # lead: "Pantry Circle is designed for food rescue and plastic waste recycling"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
-images: []
+image: "/og/farm.jpg"
 menu:
   docs:
     parent: "farm"

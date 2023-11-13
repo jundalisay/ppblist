@@ -4,7 +4,7 @@ description: "ISAIAH stands for Impartial Spectator Automated Intelligence Aggre
 lead: "ISAIAH stands for Impartial Spectator Automated Intelligence Aggregation Hub"
 date: 2022-01-18T19:58:14+01:00
 lastmod: 2022-01-18T19:58:14+01:00
-images: []
+image: "/og/predict.jpg" 
 menu:
   docs:
     identifier: "isaiah"

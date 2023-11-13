@@ -1,11 +1,10 @@
 ---
 title: "Pantrypreneur Educate"
 linkTitle: Educate
-description: "Pantrypreneur Educate"
-lead: "Pantrypreneur Educate is a business platform for schools and teaching organizations"
+description: "Pantrypreneur Educate is a business platform for schools and teaching organizations"
 date: 2022-01-18T19:58:14+01:00
 lastmod: 2022-01-18T19:58:14+01:00
-images: []
+image: "/og/educate.jpg"
 menu:
   docs:
     identifier: "educate"

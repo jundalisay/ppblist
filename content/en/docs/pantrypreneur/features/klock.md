@@ -4,7 +4,7 @@ description: "Pantrypreneur Klock is an digital bundy clock"
 lead: "Pantrypreneur Klock is an digital bundy clock"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
-images: []
+image: "/og/preneur.jpg"
 menu:
   docs:
     parent: "preneur_features"
