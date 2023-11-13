@@ -1,5 +1,6 @@
 ---
-title: "弹性智能城市"
+title: "城市"
+wow: "弹性智能城市"
 description: "'PantryPoints City' 是城市中进行超本地'三交易'的平台"
 youtube: GVkVoJzLn2g
 image: "/og/city.jpg"

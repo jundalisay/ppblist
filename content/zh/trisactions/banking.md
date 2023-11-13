@@ -1,6 +1,7 @@
 ---
 linkTitle: Banking
-title: 银行无银行
+title: 银行业
+wow: 银行无银行
 description: "Pantrypoints Banking 是一个低成本的无货币银行系统，为未被金融系统服务的人群提供服务"
 youtube: WbV48G5dFtc
 image: /og/banking.jpg

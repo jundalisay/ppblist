@@ -1,5 +1,6 @@
 ---
-title: "Pantrypoints Health"
+title: "健康"
+# Pantrypoints Health"
 wow: "Health Democracy"
 image: "/og/diet.jpg"
 description: "Diet-Disease Reference is a reference app that allows the five health paradigms of Western Medicine, Ayurveda, Chinese Medicine, Naturopathy, and Homeopathy"

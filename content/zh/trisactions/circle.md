@@ -1,5 +1,6 @@
 ---
-title: 点中的循环经济。
+title: 圆圈
+wow: 点中的循环经济。
 image: "/photos/pantry.jpg"
 description: Pantrypoints Circle实施'城市自给农业'和'食物拯救'，以实现真正的循环经济
 youtube: HFqltUWhzfE

@@ -15,149 +15,38 @@ paginate = 12
     weight = 1
     languageName = "English"
 
-# [[menu.main]]
-# identifier = "Trisactions"
-# name = "/icons/pantry50.png"
-# weight = 1
-# link = "/trisactions"
-
-# [[menu.main]]
-#   name = "/icons/banker.png"
-#   weight = 2
-#   link = "/trisactions/banking/"
-
-# [[menu.main]]
-#   name = "/icons/energy.png"
-#   weight = 3
-#   link = "/trisactions/circle/"
-
-# [[menu.main]]
-#   name = "/icons/place.png"
-#   weight = 4
-#   link = "/trisactions/city"
-
-# [[menu.main]]
-#   name = "/icons/banking.png"
-#   weight = 5
-#   link = "/trisactions/health/"
-
-# [[menu.main]]
-#   name = "/icons/investor.png"
-#   weight = 6
-#   link = "/trisactions/invesure"
-
-# [[menu.main]]
-#   name = "/icons/medal.png"
-#   weight = 7
-#   link = "/trisactions/nation"
-
-# [[menu.main]]
-#   name = "/icons/w.png"
-#   weight = 10
-#   link = "/trisactions/world/"
-
-# [[menu.main]]
-#   name = "/icons/p.png"
-#   weight = 11
-#   link = "/pantrypreneur"
-
-# [[menu.main]]
-#   name = "/icons/teacher.png"
-#   weight = 12
-#   link = "/pantrypreneur/educate"
-
-# [[menu.main]]
-#   name = "/icons/plants.png"
-#   weight = 13
-#   link = "/pantrypreneur/farm"
-
-# [[menu.main]]
-#   name = "/icons/loy.png"
-#   weight = 16
-#   link = "/pantrypreneur/rewards"
-
     [[languages.en.menu.main]]
         name = "Trisactions"
         # name = "/icons/swap.png"
         url = "trisactions"
         weight = 1
 
-    # [[languages.en.menu.main]]
-    #     # name = "/icons/maps.png"
-    #     name = "Pantrypreneur"
-    #     url = "/trisactions/city"
-    #     weight = 6
-
-    # [[languages.en.menu.main]]
-    #     name = "/icons/circle.png"
-    #     link = "/trisactions/circle"
-    #     weight = 8
-
-    # [[languages.en.menu.main]]
-    #     name = "/icons/dd.png"
-    #     link = "/trisactions/health"
-    #     weight = 9
-
-    # [[languages.en.menu.main]]
-    #     name = "/icons/banker.png"
-    #     link = "/trisactions/banking"
-    #     weight = 10
-
-    # [[languages.en.menu.main]]
-    #   name = "/icons/w.png"
-    #   link = "/trisactions/world"
-    #   # name = "/icons/t.png"
-    #   # link = "/services/tax"
-    #   weight = 11
-
-
     [[languages.en.menu.main]]
-        # name = "/icons/shop.png"
         name = "Pantrypreneur"
         url = "/pantrypreneur/"
         weight = 14
 
     [[languages.en.menu.main]]
-        # name = "/icons/cards.png"
         name = "Services"
         url = "/services"
         weight = 17
 
-    # [[languages.en.menu.main]]
-    #     name = "/icons/decen.png"
-    #     link = "/services/match"
-    #     weight = 16
-
-    # [[languages.en.menu.main]]
-    #     name = "/icons/charts.png"
-    #     link = "/services/pantrylitics/"
-    #     weight = 18
-
-    # [[languages.en.menu.main]]
-    #     name = "/icons/maps.png"
-    #     link = "/services/predict/"
-    #     weight = 20
-
     [[languages.en.menu.main]]
         name = "Docs"
-        #name = "/icons/book.png"
         url = "/docs/"
         weight = 22
 
     [[languages.en.menu.main]]
         name = "News"
-        # name = "/icons/cal.png"
         url = "news"
         weight = 24
 
     [[languages.en.menu.main]]
-        #name = "/icons/question.png"
         name = "FAQ"
         url = "faq"
         weight = 26
 
     [[languages.en.menu.main]]
-        # name = "/icons/about.png"
         name = "About"
         url = "company"
         weight = 28
@@ -185,20 +74,6 @@ paginate = 12
       title = "Among the Mongols who are ignorant of the use of money, cattle are the measures of value. Wealth to them consisted in cattle, as to the Spaniards it consisted in gold and silver. Of the two, the Mongol notion, was nearest to the truth. (Adam Smith)"
       avatar = "/avatars/smith.png"
 
-    [languages.en.params.feedback]
-      title = "What Experts Say"
-    [languages.en.params.feedback.items.a]
-      img = "/avatars/dhanjoo.jpg"
-      sub = "Prof. Dhanjoo Ghista, University 2020 Foundation President"
-      title = "I very much like this work: A Research Proposal For The Formalization Of The Science Of Supereconomics And The Establishment Of A Points-Based Economic System"
-      link = "http://www.dhanjooghista.com/"
-    [languages.en.params.feedback.items.b]
-      img = "/avatars/gavin.jpg"
-      title = "I believe it is developing into a worthwhile project"
-      sub = "Prof. Gavin Kennedy, a world expert on Adam Smith"
-      link = "http://adamsmithslostlegacy.blogspot.com"
-
-
     [languages.en.params.tricon1]
       title = "Introducing Asynchronous Tri-sactions"
       sub = "Trisactions allow money, moneyless, or metaverse transactions without waiting for fulfillment from the other party. This allows the economy to run under any social conditions, allowing true economic freedom"
@@ -218,36 +93,19 @@ paginate = 12
       title = "3: Metaverse"
       sub = "The points can be converted to Pantry Coins to allow regulated transactions from the Metaverse via Ethereum.  This is useful for cross-border transactions and our proposed 'crypto-easing' (our alternative to quantitative easing)"
 
+    [languages.en.params.feedback]
+      title = "What Experts Say"
+    [languages.en.params.feedback.items.a]
+      img = "/avatars/dhanjoo.jpg"
+      sub = "Prof. Dhanjoo Ghista, University 2020 Foundation President"
+      title = "I very much like this work: A Research Proposal For The Formalization Of The Science Of Supereconomics And The Establishment Of A Points-Based Economic System"
+      link = "http://www.dhanjooghista.com/"
+    [languages.en.params.feedback.items.b]
+      img = "/avatars/gavin.jpg"
+      title = "I believe it is developing into a worthwhile project"
+      sub = "Prof. Gavin Kennedy, a world expert on Adam Smith"
+      link = "http://adamsmithslostlegacy.blogspot.com"
 
-# triconb:
-#   banner: "/photos/dish.jpg"
-#   title : "The Points Economy"
-#   sub: "Unlike fiat money which is an arbitrary store of value, points are pegged to rice or grains. This allows easier points-taxation, points-accounting and analytics, while eliminating the need for currency exchange."
-#   items:
-#     - name : Loyalty Points
-#       icon: /icons/loy.png
-#       content : "These are points given by businesses<br> to their customers to incentivize repeat purchases.<br> This is used to 'train' people<br> in the use of points"
-#     - name : Donation Points
-#       icon: /icons/donate.png
-#       content : "These are points used for donations<br> and relief. We use this primarily to incentivize<br> [food rescue](https://circle.pantrypoints.com) and plastic waste collection<br> to realize a moneyless circular economy"
-#     - name : Exchange Points
-#       icon: /icons/swap.png
-#       content : "These are points for barter transactions.<br> Unlike social points which do not <br>seek something in return, trade points do.<br> This is the foundation of Points-banking"
-#     - name : Investment Points  
-#       icon: /icons/invest.png
-#       content : "These are exchange points designed<br> to spur investments when money is lacking.<br> This requires the other point-types<br> to be working beforehand."
-#     - name : Insurance Points
-#       icon: /icons/insure.png
-#       content : "These are exchange points for long term claim,<br> upon old age. We implement this as<br> social insurance in case money-based insurance<br> becomes oppressive"
-#     - name : Energy Points
-#       icon: /icons/energy.png
-#       content : "These are exchange points for electricity,<br> usually from biomass sources.<br> This incentivizes waste segregation<br> and is part of the circular economy"
-#     - name : Money Points
-#       icon: /icons/money.png
-#       content : "These are exchange points paid in money<br> to reduce existing trade points balance"
-#     - name : Tax Points
-#       icon: /icons/tax.png
-#       content : "These are points given by businesses<br> to their customers to incentivize<br> repeat purchases. This is used<br> to 'train' people in the use of points"
 
 
     [languages.en.params.tricon2]
@@ -349,16 +207,16 @@ paginate = 12
 
   [languages.zh]
     contentDir = "content/zh"
-    weight = 2
+    weight = 3
     languageName = "简体中"
     [[languages.zh.menu.main]]
         name = "Trisactions"
         url  = "trisactions"
         weight = 1
-    [[languages.zh.menu.main]]
-        name = "Pantrypreneur"
-        url  = "pantrypreneur"
-        weight = 3
+    # [[languages.zh.menu.main]]
+    #     name = "Pantrypreneur"
+    #     url  = "pantrypreneur"
+    #     weight = 3
     [[languages.zh.menu.main]]
         name = "问题"
         url = "faq"
@@ -383,19 +241,6 @@ paginate = 12
     [languages.zh.params.req]
       title = "对于对货币一无所知的蒙古人来说，一头牛是价值的衡量标准。对他们来说，财富是以牛的数量来衡量，就像西班牙人以黄金和白银的数量来衡量财富一样。蒙古观念是正确的。（亚当·斯密）"
       avatar = "/avatars/smith.png"
-
-    [languages.zh.params.feedback]
-      title = "专家意见"
-    [languages.zh.params.feedback.items.a]
-      img = "/avatars/dhanjoo.jpg"
-      sub = "Prof. Dhanjoo Ghista, University 2020 Foundation President"
-      title = "I very much like this work: A Research Proposal For The Formalization Of The Science Of Supereconomics And The Establishment Of A Points-Based Economic System"
-      link = "http://www.dhanjooghista.com/"
-    [languages.zh.params.feedback.items.b]
-      img = "/avatars/gavin.jpg"
-      title = "I believe it is developing into a worthwhile project"
-      sub = "Prof. Gavin Kennedy, a world expert on Adam Smith"
-      link = "http://adamsmithslostlegacy.blogspot.com"
 
     [languages.zh.params.tricon1]
       title = "介绍Tri-sactions（三交易）"
@@ -434,7 +279,7 @@ paginate = 12
       title = "我是一名教师"
       sub = "我需要点名并可视化学生数据"
     [languages.zh.params.tricon2.items.d]
-      link = "/trisactions/health/"
+      link = "trisactions/health/"
       img= "/icons/apple.png"
       title = "我注重健康"
       sub = "医疗费用昂贵，所以我需要合理饮食"
@@ -444,8 +289,8 @@ paginate = 12
       title = "我是一名投资者"
       sub = "我希望我的投资产生很大的影响"
     [languages.zh.params.tricon2.items.g]
-      link = "/trisactions/banking"
-      img = "icons/banker.png"
+      link = "trisactions/banking"
+      img = "/icons/banker.png"
       title = "我是一名银行家"
       sub = "我需要解决银行危机的方案。压力太大了"
     [languages.zh.params.tricon2.items.h]
@@ -467,13 +312,6 @@ paginate = 12
       link = "https://gizmodo.com/the-greatest-mystery-of-the-inca-empire-was-its-strange-5872764"
       linktext = "阅读印加体系的运作方式"
 
-    # [languages.zh.params.inca.items.a]
-    #   img = "/photos/qullqa.jpg"
-    #   title = "We implement the Qulqa as pantries"
-    # [languages.zh.params.inca.items.b]
-    #   img = "photos/quipu.jpg"
-    #   title = "We implement the Quipu as points, thus Pantrypoints"
-
     [languages.zh.params.how]
       title = "工作原理如下"
       sub = ""
@@ -489,6 +327,9 @@ paginate = 12
       img = "/screens/pay.jpg"
       title = "用点数付款"
       id = 3
+
+    # [languages.zh.params.feedback]
+    #   title = "专家意见"
 
 
 [params]
