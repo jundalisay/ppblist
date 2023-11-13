@@ -1,3 +1,16 @@
+Translate to Spanish, French, German, Hindi, Japanese
+What is your role? Pantrypoints is for everyone.
+I'm a micro-small business owner. I need online presence as a website, web app, mobile app, or social media.
+I'm Unemployed. I need to get a job. But I don't have the required skills.
+I'm a teacher. I need to record the attendance and performance of my students.
+I'm health-conscious. Healthcare is expensive so I need to eat right.
+I'm an investor. I want my investments to have a lot of impact on the economy.
+I'm a banker. I want a solution to banking crises. I am so stressed.
+I'm a farmer. I need a solution to global warming!
+I work in the Government. We need to earn more revenue for public services
+
+
+
 Quel est votre rôle ?
 PantryPoints est destiné à tout le monde.
 Je suis propriétaire d'une micro-petite entreprise. J'ai besoin d'une présence en ligne sous la forme d'un site web, d'une application web, d'une application mobile ou sur les réseaux sociaux.
