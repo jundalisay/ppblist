@@ -2,7 +2,8 @@
 title: "Pantrypreneur"
 wow: for Micro-Small Businesses
 image: "/og/preneur.jpg"
-description: "Pantrypreneur is a platform for micro and small businesses for digitalizing common business tasks. It is part of our Build Package which jumpstarts your digital transformation"
+description: "Pantrypreneur is a platform for micro and small businesses for digitalizing common business tasks."
+# It is part of our Build Package which jumpstarts your digital transformation
 youtube: zIrblIJF4Nk
 weight: 2
 

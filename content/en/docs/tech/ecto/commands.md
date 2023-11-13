@@ -1,7 +1,7 @@
 ---
 title: Ecto Commands
 description: Ecto commands
-image: "/img/phx.jpg"
+image: "/graphics/elixir.jpg"
 tags: ['Phoenix']
 date: 2022-04-15
 ---

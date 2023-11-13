@@ -1,10 +1,10 @@
 ---
 linkTitle: Rewards
-title: "for Loyalty"
+title: Rewards
+wow: "for Loyalty"
 image: /og/rewards.jpg
 description: "Pantrypreneur Rewards gives incentives to frequent purchases to keep the economy going"
 youtube: 8dUlVl-ApdM
-
 
 
 # req:

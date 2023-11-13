@@ -84,7 +84,7 @@ paginate = 12
       sub = "Moneyless transactions use barter-credits measured in points which are pegged to grains"
     [languages.en.params.tricon1.items.b]
       link = "/trisactions/banking"
-      img = "icons/money.png"
+      img = "/icons/money.png"
       title = "2: Money"
       sub = "'Money points' allow money to pay for the moneyless transactions via cash or cashless apps of the fiat economy"
     [languages.en.params.tricon1.items.c]
@@ -374,17 +374,17 @@ paginate = 12
       link = "/trisactions/invesure/"
       img= "/icons/moneyno.png"
       title = "1: Sin dinero"
-      sub = "Las transacciones sin dinero utilizan<br> trueque de valor almacenado medido en puntos<br> que están ligados a granos.<br> Esto implementa la valoración basada<br> en granos mencionada en La Riqueza de las Naciones<br> de Adam Smith"
+      sub = "Las transacciones sin dinero utilizan trueque de valor almacenado medido en puntos que están ligados a granos"
     [languages.es.params.tricon1.items.b]
       link = "/trisactions/banking"
       img = "icons/money.png"
       title = "2: Dinero"
-      sub = "Los puntos monetarios permiten utilizar<br> dinero para pagar las transacciones sin dinero a través<br> de efectivo o aplicaciones bancarias sin efectivo<br> de la economía fiduciaria"
+      sub = "Los puntos monetarios permiten utilizar dinero para pagar las transacciones sin dinero a través de efectivo o aplicaciones bancarias sin efectivo de la economía fiduciaria"
     [languages.es.params.tricon1.items.c]
       link = "/trisactions/banking"
       img = "/icons/eth.png"
       title = "3: Metaverso"
-      sub = "Los puntos pueden convertirse en<br> Monedas de Despensa para permitir transacciones reguladas<br> desde el metaverso a través de Ethereum.<br> Esto es útil para transacciones internacionales<br> y nuestra propuesta de cripto-alivio<br> (nuestra alternativa a la flexibilización cuantitativa)"
+      sub = "Los puntos pueden convertirse en Monedas de Despensa para permitir transacciones reguladas desde el metaverso a través de Ethereum. Esto es útil para transacciones internacionales y nuestra propuesta de cripto-alivio (nuestra alternativa a la flexibilización cuantitativa)"
 
     [languages.es.params.feedback]
       title = "What Experts Say"
@@ -400,68 +400,67 @@ paginate = 12
       link = "http://adamsmithslostlegacy.blogspot.com"
 
     [languages.es.params.tricon2]
-      title = "Which Are You?"
-      sub = "Pantrypoints is for everyone"
-
+      title = "¿Cuál es tu rol?"
+      sub = "Pantrypoints es para todos."
     [languages.es.params.tricon2.items.a]
       link = "services/build/"
       img= "/icons/shop.png"
-      title = "I'm a micro-small business owner"
-      sub = "I need online presence as a website, web app, mobile app, or social media"
+      title = "Soy dueño de un micropequeño negocio."
+      sub = "Necesito presencia en línea, ya sea como un sitio web, aplicación web, aplicación móvil o en redes sociales."
     [languages.es.params.tricon2.items.b]
       link = "https://circle.pantrypoints.com/"
       img = "/icons/jobless.png"
-      title = "I'm Unemployed"
-      sub = "I need to get a job but don't have the required skills"
+      title = "Estoy desempleado"
+      sub = "Necesito conseguir un trabajo, pero no tengo las habilidades requeridas."
     [languages.es.params.tricon2.items.c]
       link = "/pantrypreneur/educate"
       img= "/icons/teacher.png"
-      title = "I'm a teacher"
-      sub = "I need to take attendance and visualize student performance"
+      title = "Soy profesor"
+      sub = "Necesito llevar un registro de la asistencia y el rendimiento de mis estudiantes."
     [languages.es.params.tricon2.items.d]
       link = "/trisactions/health/"
       img= "/icons/apple.png"
-      title = "I'm health-conscious"
-      sub = "Healtcare is expensive so I need to eat right"
+      title = "Soy consciente de la salud"
+      sub = "La atención médica es costosa, así que necesito alimentarme bien."
     [languages.es.params.tricon2.items.f]
       link = "/trisactions/invesure/"
       img= "/icons/investor.png"
-      title = "I'm an investor"
-      sub = "I want my investments to make a lot of impact"
+      title = "Soy inversor"
+      sub = "Quiero que mis inversiones tengan un gran impacto en la economía"
     [languages.es.params.tricon2.items.g]
       link = "/trisactions/banking"
       img = "icons/banker.png"
-      title = "I'm a banker"
-      sub = "I want a solution to banking crises. The stress is too much"
+      title = "Soy banquero"
+      sub = "Necesito una solución para las crisis bancarias. Estoy muy estresado"
     [languages.es.params.tricon2.items.h]
       link = "/pantrypreneur/farm/"
       img = "/icons/farmer.png"
-      title = "I'm a farmer"
-      sub = "I need a solution to global warming!"
+      title = "Soy agricultor"
+      sub = "¡Necesito una solución para el calentamiento global!"
     [languages.es.params.tricon2.items.i]
       link = "/services/tax"
       img = "/icons/gov.png"
-      title = "I'm with the Government"
-      sub = "We need to earn more revenue for public services"
+      title = "Trabajo en el Gobierno"
+      sub = "Necesitamos obtener más ingresos para los servicios públicos."
 
-    [languages.es.params.tricon3]
-      title = "Locations"
-      sub = "Here are the cities where we are prototyping our system. Feel free to add your city by registering in the waitlist."
-    [languages.es.params.tricon3.items.a]
-      img = "/flags/ph.png"
-      title = "Las Pinas"
-    [languages.es.params.tricon3.items.b]
-      img = "/flags/ph.png"
-      title = "San Pedro Laguna"
-    [languages.es.params.tricon3.items.c]
-      img = "/flags/vn.png"
-      title = "Ho Chi Minh"
-    [languages.es.params.tricon3.items.d]
-      img = "/flags/vn.png"
-      title = "Hanoi"
-    [languages.es.params.tricon3.items.e]
-      img = "/flags/my.png"
-      title = "Kuala Lumpur"
+    # [languages.es.params.tricon3]
+    #   title = "Locations"
+    #   sub = "Here are the cities where we are prototyping our system. Feel free to add your city by registering in the waitlist."
+    # [languages.es.params.tricon3.items.a]
+    #   img = "/flags/ph.png"
+    #   title = "Las Pinas"
+    # [languages.es.params.tricon3.items.b]
+    #   img = "/flags/ph.png"
+    #   title = "San Pedro Laguna"
+    # [languages.es.params.tricon3.items.c]
+    #   img = "/flags/vn.png"
+    #   title = "Ho Chi Minh"
+    # [languages.es.params.tricon3.items.d]
+    #   img = "/flags/vn.png"
+    #   title = "Hanoi"
+    # [languages.es.params.tricon3.items.e]
+    #   img = "/flags/my.png"
+    #   title = "Kuala Lumpur"
 
     [languages.es.params.inca]
       title = "Originally Built by the Inca"
@@ -577,16 +576,16 @@ paginate = 12
 
   [[params.homepage.social.icons]]
     website = "twitter"
-    link = "https://twitter.com/pantrypoints"
+    url = "https://twitter.com/pantrypoints"
   [[params.homepage.social.icons]]
     website = "youtube"
-    link = "https://www.youtube.com/@pantrypoints"
+    url = "https://www.youtube.com/@pantrypoints"
   # [[params.homepage.social.icons]]
   #   website = "instagram"
   #   link = "https://instagram.com"
   [[params.homepage.social.icons]]
     website = "facebook"
-    link = "https://www.facebook.com/pantrypoints/"
+    url = "https://www.facebook.com/pantrypoints/"
   # [[params.homepage.social.icons]]
   #   website = "behance"
   #   link = "https://behance.net"

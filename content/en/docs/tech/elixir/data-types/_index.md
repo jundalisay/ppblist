@@ -1,6 +1,6 @@
 ---
 title: "Data Types"
-image: "/img/tech.jpg"
+image: "/graphics/elixir.jpg"
 description: "Articles on Elixir"
 weight: 4
 ---

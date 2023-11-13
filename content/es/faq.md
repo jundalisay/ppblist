@@ -5,153 +5,166 @@ image: /og/pantrypoints.jpg
 ---
 
 
-{{< r a="Asker" >}}
-Qu'est-ce que Pantrypoints?
+
+---
+title: "Socratic FAQ"
+description: "FAQs about Superphysics, Socrates-style"
+image: /covers/spblack.jpg
+toc: false
+---
+
+
+{{< r a="asker" >}}
+¿Qué es Pantrypoints?
 {{< /r >}}
 
+
+
+
 {{< l a="Pantrypoints" >}}
-C'est un système économique basé sur les points qui met en œuvre la proposition de la 'valorisation basée sur les céréales' d'Adam Smith dans 'The Wealth of Nations'.
+Es un sistema económico basado en puntos que implementa la propuesta de "valorización basada en cereales" de Adam Smith en 'La riqueza de las naciones'.
 {{< /l >}}
 
-{{< r a="Asker" >}}
-Qu'est-ce qui ne va pas avec le système économique actuel ? 
+{{< r a="asker" >}}
+¿Qué está mal con el sistema económico actual?
 {{< /r >}}
 
 {{< l a="Pantrypoints" >}}
-Il est basé sur l'égoïsme. Cela entraîne un écart entre les riches et les pauvres.
+Está basado en el egoísmo. Esto resulta en una brecha entre ricos y pobres.
 {{< /l >}}
 
-{{< r a="Asker" >}}
-Quel est le problème de l'inégalité? Je suis déjà riche. Pourquoi la pauvreté des autres devrait-elle être mon problème?
+<!-- PREGUNTADOR -->
+
+{{< r a="asker" >}}
+¿Cuál es el problema de la desigualdad? Ya soy rico. ¿Por qué la pobreza de los demás debería ser mi problema?
 {{< /r >}}
 
 {{< l a="Pantrypoints" >}}
-Il n'y a pas de problème si vous êtes riche. Le problème réside dans l'augmentation du nombre de personnes pauvres. Cela conduit à la criminalité, à la malnutrition, à la faible intelligence, au chômage, à la surpopulation dans les villes où les pauvres se rassemblent pour trouver du travail, etc. 
-
-Cela affecte tout le monde, même les riches. La pauvreté augmente pendant les crises économiques, comme l'actuelle inflation mondiale.
+No hay problema si eres rico. El problema radica en el aumento de personas pobres, lo que conduce a la criminalidad, la desnutrición, la baja inteligencia, el desempleo, la sobrepoblación en ciudades donde los pobres se congregan para buscar trabajo, etc. Esto afecta a todos, incluso a los ricos. La pobreza aumenta durante las crisis económicas, como la actual inflación mundial.
 {{< /l >}}
 
-
-## Barter Credits
-
-{{< r a="Asker" >}}
-Comment Pantrypoints peut-il résoudre la pauvreté, l'inflation et les crises économiques? 
+{{< r a="asker" >}}
+¿Cómo puede Pantrypoints resolver la pobreza, la inflación y las crisis económicas?
 {{< /r >}}
 
 {{< l a="Pantrypoints" >}}
-Pantrypoints déploie un système économique basé sur les points en tant que "Économie en tant que Service". Ce service facilite les "crédits de troc" sans argent en tant qu'alternative à la monnaie, de sorte que vous avez la possibilité d'acheter soit avec de l'argent, soit avec des points.
+Pantrypoints implementa un sistema económico basado en puntos como "Economía como Servicio". Este servicio facilita los "créditos de trueque" sin dinero como alternativa a la moneda, para que tengas la opción de comprar ya sea con dinero o con puntos.
 {{< /l >}}
 
-{{< r a="Asker" >}}
-Pourquoi les gens paieraient-ils en points?
+{{< r a="asker" >}}
+¿Por qué la gente pagaría con puntos? El dinero ya funciona.
 {{< /r >}}
 
+
 {{< l a="Pantrypoints" >}}
-L'argent fonctionne déjà. | L'argent est coûteux. Il doit être imprimé ou stocké dans des coffres, gardé et transporté dans votre poche. Il perd de la valeur en raison de l'inflation. Les cartes de crédit sont sujettes à la fraude, aux frais et aux taux d'intérêt. L'offre d'argent est finalement contrôlée par les banques, pas par les gens, comme l'explique Jeremy Grantham :
+El dinero es costoso. Debe imprimirse o almacenarse en bóvedas, guardarse y transportarse en tu bolsillo. Pierde valor debido a la inflación. Las tarjetas de crédito son propensas a fraudes, cargos y tasas de interés. La oferta de dinero está finalmente controlada por los bancos, no por la gente, como explica Jeremy Grantham:
 {{< /l >}}
 
 {{< youtube hIKG2YpFoFQ >}}
 
 
+
 {{< r a="Asker" >}}
-Les points sont-ils moins chers? 
+¿Son más baratos los puntos?
 {{< /r >}}
 
 {{< l a="Pantrypoints" >}}
-Bien sûr. Les points sont stockés en ligne ou sur des cartes en papier qui ne peuvent pas être utilisées par des tiers. Ils n'ont pas besoin de coffres coûteux ni de distributeurs automatiques. La valeur de chaque point est fixée à 1 kilogramme de riz, qui "influe" beaucoup moins que l'argent. Avec Pantrypoints, vous pouvez aller dans un magasin et acheter des choses à crédit en vous fiant à la confiance entre vous et le vendeur.
+Claro. Los puntos se almacenan en línea o en tarjetas de papel que no pueden ser utilizadas por terceros. No necesitan bóvedas costosas ni cajeros automáticos. El valor de cada punto está fijado en 1 kilogramo de arroz, que "influye" mucho menos que el dinero. Con Pantrypoints, puedes ir a una tienda y comprar cosas a crédito confiando en la confianza entre tú y el vendedor.
 {{< /l >}}
 
 {{< r a="Asker" >}}
-Comment êtes-vous sûr que les crédits de troc fonctionneront? 
+¿Cómo estás seguro de que los créditos de trueque funcionarán?
 {{< /r >}}
 
 {{< l a="Pantrypoints" >}}
-Nous utilisons le système depuis 2017 pour réduire nos dépenses en argent pendant que nous établissons notre startup. Donc, cela fonctionne déjà. Historiquement, il a été utilisé à grande échelle par l'Empire inca, l'Empire khmer, l'Arabie, les Mongols et la plupart des pays avant d'être colonisés par les Européens qui ont imposé l'utilisation de la monnaie.
+Hemos estado utilizando el sistema desde 2017 para reducir nuestros gastos en dinero mientras establecemos nuestra startup. Así que ya funciona. Históricamente, fue utilizado a gran escala por el Imperio inca, el Imperio jemer, Arabia, los mongoles y la mayoría de los países antes de ser colonizados por los europeos que impusieron el uso de la moneda.
 {{< /l >}}
 
 {{< r a="Asker" >}}
-Il y a actuellement une crise du riz. Les prix du riz augmentent dans la plupart des pays. Est-ce que la hausse soudaine des prix des céréales ne rendra pas le système des points soudainement cher aussi? 
+Actualmente hay una crisis del arroz. Los precios del arroz están subiendo en la mayoría de los países. ¿La repentina subida de los precios de los cereales no hará que el sistema de puntos sea repentinamente caro también?
 {{< /r >}}
 
 {{< l a="Pantrypoints" >}}
-La valeur est basée sur le prix commun ou habituel des céréales, pas sur leur prix en temps de crise.
+El valor se basa en el precio común u habitual de los cereales, no en su precio en tiempos de crisis.
 {{< /l >}}
 
 
 ## Points-Banking and Points-Taxation
 
 {{< r a="Asker" >}}
-Qui administre les points? 
+¿Quién administra los puntos?
 {{< /r >}}
 
 {{< l a="Pantrypoints" >}}
-Ils sont administrés par un banquier de points. Il vérifie si les points correspondent à la productivité réelle des personnes qui prétendent produire de tels points.
+Son administrados por un banquero de puntos. Verifica si los puntos coinciden con la productividad real de las personas que pretenden producir esos puntos.
 {{< /l >}}
 
 {{< r a="Banker" >}}
-Je suis banquier de profession. Est-ce que Pantrypoints veut remplacer la banque et la finance ? [Cela a été demandé par un vice-président d'une division d'une banque australienne en 2018].
+Soy banquero de profesión. ¿Pantrypoints quiere reemplazar al banco y las finanzas? [Esto fue preguntado por un vicepresidente de una división de un banco australiano en 2018].
 {{< /r >}}
 
 {{< l a="Pantrypoints" >}}
- Non. Les points fonctionnent aux côtés de l'argent pour faire circuler la valeur. C'est similaire aux données mobiles qui fonctionnent aux côtés du Wi-Fi. Vous pouvez choisir entre l'argent ou les points, tout comme vous pouvez choisir entre vous connecter à Internet via le Wi-Fi ou via les données mobiles. Les points sont destinés aux personnes que vous connaissez. L'argent est destiné aux personnes que vous ne connaissez pas.
+No. Los puntos funcionan junto con el dinero para hacer circular el valor. Es similar a los datos móviles que funcionan junto con el Wi-Fi. Puedes elegir entre el dinero o los puntos, al igual que puedes elegir entre conectarte a Internet a través de Wi-Fi o mediante datos móviles. Los puntos son para personas que conoces. El dinero es para personas que no conoces.
 {{< /l >}}
 
 {{< r a="Banker" >}}
-Comment le gouvernement gagnera-t-il de l'argent s'il n'y a pas d'argent dans Pantrypoints? 
+¿Cómo ganará dinero el gobierno si no hay dinero en Pantrypoints?
 {{< /r >}}
 
 {{< l a="Pantrypoints" >}}
-Le gouvernement peut percevoir une taxe en points par transaction, qui peut être réclamée sous forme de biens et de services de la personne taxée. De cette manière, Pantrypoints devient également un système d'emploi.
+El gobierno puede cobrar un impuesto en puntos por transacción, que puede reclamarse en forma de bienes y servicios de la persona gravada. De esta manera, Pantrypoints también se convierte en un sistema de empleo.
 {{< /l >}}
 
 
 ## Pantrypreneur and ISAIAH
 
 {{< r a="Banker" >}}
-Alors, vous voulez que l'économie entière soit dominée par le gouvernement? 
+Entonces, ¿quieren que toda la economía esté dominada por el gobierno?
 {{< /r >}}
 
 {{< l a="Pantrypoints" >}}
-Non. Il y aura des versions privées que les entreprises pourront utiliser pour leurs opérations. Par exemple, cela peut être utilisé pour donner des points aux employés afin que l'entreprise puisse économiser de l'argent. Nous appelons cela Pantrypreneur, qui aura son propre système d'apprentissage automatique appelé ISAIAH.
+No. Habrá versiones privadas que las empresas podrán utilizar para sus operaciones. Por ejemplo, esto se puede usar para dar puntos a los empleados para que la empresa pueda ahorrar dinero. Lo llamamos Pantrypreneur, que tendrá su propio sistema de aprendizaje automático llamado ISAIAH.
 {{< /l >}}
 
 
 ## Pool Clearing
 
 {{< r a="Asker" >}}
-Vous avez dit que Pantrypoints peut être utilisé pour résoudre les crises économiques à l'échelle mondiale. Comment cela peut-il être fait lorsque chaque Pantrypoints ne fonctionne que pour chaque pays, et non pour tous les pays? 
+Dijiste que Pantrypoints se puede usar para resolver crisis económicas a nivel mundial. ¿Cómo se puede hacer esto cuando cada Pantrypoints solo funciona para cada país, y no para todos los países?
 {{< /r >}}
 
 {{< l a="Pantrypoints" >}}
-Les Pantrypoints de chaque pays seront connectés les uns aux autres grâce à un mécanisme de compensation.
+Los Pantrypoints de cada país estarán conectados entre sí a través de un mecanismo de compensación.
 {{< /l >}}
 
 {{< r a="Asker" >}}
-Qu'est-ce que Pool Clearing?
+¿Qué es Pool Clearing?
 {{< /r >}}
-
 
 {{< l a="Pantrypoints" >}}
-C'est un système commercial proposé par l'économiste britannique EF Schumacher, dans lequel les pays commerçants agissent comme un pool unique. Les membres du pool coordonnent constamment leurs actions pour rendre le commerce mondial plus efficace. 
+Es un sistema comercial propuesto por el economista británico EF Schumacher, en el cual los países comerciantes actúan como un grupo único. Los miembros del grupo coordinan constantemente sus acciones para hacer que el comercio mundial sea más eficiente.
 
-Cela diffère considérablement du système commercial mondial actuel établi par les accords de Bretton Woods, dans lequel les États-Unis occupent une position supérieure et le dollar américain est la monnaie de réserve internationale. Dans le mécanisme de compensation, le prix des céréales est la mesure commune.
+Esto difiere significativamente del actual sistema comercial mundial establecido por los acuerdos de Bretton Woods, en el cual Estados Unidos ocupa una posición superior y el dólar estadounidense es la moneda de reserva internacional. En el mecanismo de compensación, el precio de los cereales es la medida común.
 {{< /l >}}
 
 {{< r a="Asker" >}}
-Comment les céréales peuvent-elles devenir une alternative au dollar américain en tant que monnaie de réserve internationale ? Nous travaillons sur une blockchain qui est liée aux céréales telles que le riz ou le blé. Une pièce en Asie représente la valeur d'1 kilogramme de riz, par exemple. 
-
-Cette monnaie n'est échangeable qu'entre les gouvernements. Elle correspond à l'or bancaire, qui est différent de l'or commercialisé par les citoyens.
+¿Cómo pueden los cereales convertirse en una alternativa al dólar estadounidense como moneda de reserva internacional? 
 {{< /r >}}
+
+{{< l a="Pantrypoints" >}}
+Estamos trabajando en una cadena de bloques que está vinculada a cereales como arroz o trigo. Una moneda en Asia representa el valor de 1 kilogramo de arroz, por ejemplo. Esta moneda solo es intercambiable entre gobiernos. Corresponde al oro bancario, que es diferente del oro comercializado por los ciudadanos.
+{{< /l >}}
 
 
 
 ## Try It
 
 {{< r a="Asker" >}}
-Comment puis-je m'inscrire? 
+¿Cómo puedo registrarme?
 {{< /r >}}
 
 
 {{< l a="Pantrypoints" >}}
-Vous pouvez vous inscrire sur la liste d'attente ou nous envoyer un message, ou nous envoyer un e-mail à pantrypoints@gmail.com ou hello@pantrypoints.com.
+Puede registrarse en la lista de espera o enviarnos un mensaje, o enviarnos un correo electrónico a pantrypoints@gmail.com o hello@pantrypoints.com.
 {{< /l >}}
+

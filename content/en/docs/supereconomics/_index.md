@@ -1,6 +1,6 @@
 ---
 title: Supereconomics
-image: "/photos/holdhands.jpg"
+image: "/photos/coop.jpg"
 description: "Articles About Supereconomics"
 menu:
   docs:

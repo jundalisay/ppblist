@@ -1,7 +1,8 @@
 ---
 description: "Pantrypoints implements trisactions in order to create an Economy-as-a-Service or EaaS platform" 
-image: "/photos/yay.jpg"
+image: "/og/tri.jpg"
 title: Trisactions
+wow: "A Better Economic System"
 youtube: 6b9R04CgS6w
 weight: 1
 

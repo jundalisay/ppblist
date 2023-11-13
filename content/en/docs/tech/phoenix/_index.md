@@ -1,7 +1,6 @@
 ---
 title: "Phoenix Web Framework"
-# subtitle: Tech
-image: "/img/tech.jpg"
+image: "/img/phx.jpg"
 description: "Articles on Phoenix Web Framework"
 weight: 160
 ---

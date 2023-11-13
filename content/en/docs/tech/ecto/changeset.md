@@ -1,7 +1,7 @@
 ---
 title: Ecto Changeset
 description: Ecto Changeset
-image: "/img/phx.jpg"
+image: "/graphics/elixir.jpg"
 tags: ['Phoenix']
 date: 2022-04-15
 ---

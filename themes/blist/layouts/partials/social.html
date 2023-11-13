@@ -16,7 +16,7 @@
     </form>    
 
 
-  <form class="w-full max-w-sm" action="https://hub.pantrypoints.com/api/email" method="post" target="_blank">  
+  <form class="w-full max-w-sm" id="email" action="https://hub.pantrypoints.com/api/email" method="post" target="_blank">  
     <div class="flex items-center flex-wrap py-2">
       <input class="bg-transparent border-b w-full text-white mr-3 p-2 m-2 leading-tight focus:outline-none" name="email[email]" required type="text" placeholder="My email" aria-label="Email">
 
@@ -25,7 +25,7 @@
       <div id="example-container" class="p-2 cf-turnstile" data-sitekey="0x4AAAAAAACSZuKkFhl_KkiU" data-callback="javascriptCallback"></div>
       <div class="p-2 checkbox mb-3"></div>           
 
-      <button class="w-full hover:bg-teal-300 text-sm border-4 text-white m-2 rounded" type="button">
+      <button class="w-full text-sm border-4 text-white m-2 rounded" form="email" type="submit" value="Submit">
         {{ i18n "email" }} 
       </button>
 

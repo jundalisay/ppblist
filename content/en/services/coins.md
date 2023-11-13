@@ -1,13 +1,10 @@
 ---
-linkTitle: XCoins
-title: "XCoins"
+linkTitle: XCoins and Coin-Easing
+title: "XCoins and Coin-Easing"
 wow: "Your Access to the Metaverse"
 description: "XCoins connect Pantrypoints to the Metaverse and facilitates Pantrypoints World"
 youtube: "wKR3-nLxec8"
-image: "/og/xcoins.jpg"
-# applink: https://hub.pantrypoints.com/signup
-# apptext: "Register in the Waitlist"
-
+image: "/og/easing.jpg"
 
 
 req:

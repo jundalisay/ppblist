@@ -1,7 +1,7 @@
 ---
 title: Ecto Queries
 description: Ecto queries come in 2 flavors
-image: "/img/tech.jpg"
+image: "/graphics/elixir.jpg"
 tags: ['Phoenix']
 date: 2022-02-15
 weight: 12

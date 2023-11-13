@@ -49,7 +49,7 @@ The easiest to use is Imgbb:
 
 ![Step 3](/screens/img/img3.jpg)
 
-4. Paste the link in image field in your Pantry account or Item
+4. Paste the link in image field in your Pantrypoints account or Item
 
 ![Step 4](/screens/img/img4.png)
 
@@ -76,7 +76,7 @@ https://drive.google.com/file/d/1jV8pJUdecO6g3Gemr_GPrHEFKVTMwC0d/view?usp=shari
 https://drive.google.com/uc?id=1jV8pJUdecO6g3Gemr_GPrHEFKVTMwC0d
 ```
 
-4. Copy the link and post into your Pantry Item or Account
+4. Copy the link and post into your Pantrypoints Item or Account
 
 
 ## How to Hotlink from Dropbox
@@ -93,4 +93,4 @@ https://www.dropbox.com/s/a6i8y0khkc4us8h/taonet512.png?dl=1
 https://www.dropbox.com/s/a6i8y0khkc4us8h/taonet512.png?raw=1
 ```
 
-3. Copy the link and post into your Pantry Item or Account
+3. Copy the link and post into your Pantrypoints Item or Account
