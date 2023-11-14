@@ -1,7 +1,6 @@
 ---
 title: "News"
-subtitle: ""
 image: "images/pantry.png"
-description: "Here are the latest News about Pantrypoints"
+description: "Here is the latest news about Pantrypoints"
 weight: 7
 ---

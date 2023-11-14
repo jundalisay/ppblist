@@ -19,19 +19,19 @@ triconb:
   items:
     - title: "For the Unemployed"
       img: /icons/jobless.png
-      sub: "Avoid hunger by doing something<br> useful for your community"      
+      sub: "Avoid hunger by doing something useful for your community"      
     - title: "For Restaurants and Food Retailers"
       img: /icons/herb2.png
-      sub: "Get non-monetary incentives<br> for giving away food waste"
+      sub: "Get non-monetary incentives for giving away food waste"
     - title: "For Urban and Rural Farmers"
       img: "/icons/herb.png"
-      sub: "Get compost in exchange<br> for excess harvest"
+      sub: "Get compost in exchange for excess harvest"
     - title: "For Recyclers"
       img: /icons/banking.png
-      sub: "Get more recyclable material<br> at lower cost"
+      sub: "Get more recyclable material at lower cost"
     - title: "For Government"
       img: /icons/gov.png
-      sub: "Provide welfare for the poor<br> at a much lower cost and<br> get updated data quickly"
+      sub: "Provide welfare for the poor at a much lower cost and get updated data quickly"
 
 
 

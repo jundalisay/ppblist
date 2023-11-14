@@ -20,21 +20,21 @@ triconb:
   items:
     - title: "Moneyless Ok!"
       img: /icons/moneyno.png
-      sub: "Points Banking allows economies<br> to work even after a total financial collapse"
+      sub: "Points Banking allows economies to work even after a total financial collapse"
     - title: "Decentralized"
       img: /icons/decen.png    
-      sub: "Parties keep their own information,<br> preventing info asymmetry"
+      sub: "Parties keep their own information, preventing info asymmetry"
     - title: "Flexible"
       img: /icons/cards.png
-      sub: "Points Banking does not use blockchain<br> and can work offline, just as the Inca were offline"
+      sub: "Points Banking does not use blockchain and can work offline, just as the Inca were offline"
     - title: "Asynchronous"
       img: /icons/clock.png
-      sub: "Parties do not need to fulfill<br> their part immediately"      
+      sub: "Parties do not need to fulfill their part immediately"      
     - title: "Cost Effective"
       img: /icons/money.png
-      sub: "Points Banking can be deployed<br> on the cloud to reduce costs"
+      sub: "Points Banking can be deployed on the cloud to reduce costs"
     - title: "Integrates with Taxation"
-      sub: "Points Banking will integrate with<br> Pointtax to allow tax payments in kind"
+      sub: "Points Banking will integrate with Pointtax to allow tax payments in kind"
       img: /icons/tax.png
 
 

@@ -1,7 +1,6 @@
 ---
 title: "Overview"
 description: "Pantrypreneur is a points-based business platform"
-# lead: "Pantry Circle is designed for food rescue and plastic waste recycling"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 image: "/og/preneur.jpg"
