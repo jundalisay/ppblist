@@ -13,7 +13,7 @@ icon: /icons/pantry.png
 > Update June 2020: In 2015, our model predicted a huge global crisis starting in 2019 to be felt many years afterwards. This is now known as the Covid-19 pandemic. Our model predicts inflation next, as a result of governments applying sophistical mercantile solutions, now known as "bailouts", on supply and demand problems. These bailouts will be paid for by either inflation (as college debt, rising bills, rent, etc) or by increased taxation, both will lead to unrest (as seen in the US riots) or a change in government. Here, we propose the proper solution to those future new governments for them to not make the mistakes of the current ones.
 
 
-[Pointtax](https://pantrypoints.com/pointtax) is a points-based taxation system that follows [Adam Smith's four taxation maxims](https://superphysics.org/social/economics/principles/taxation-maxims), derived from [Book 5 Chapter 2 of The Wealth of Nations](https://superphysics.org/research/smith/wealth-of-nations/book-5/chapter-2/part-2a-tax-maxims). 
+[Pointtax](https://pantrypoints.com/services/tax) is a points-based taxation system that follows [Adam Smith's four taxation maxims](https://www.superphysics.org/social/economics/principles/part-4/chapter-02b/), derived from [Book 5 Chapter 2 of The Wealth of Nations](https://superphysics.org/research/smith/wealth-of-nations/book-5/chapter-2/part-2a-tax-maxims). 
 
 The taxation of modern Economics suffers from two problems:
 
@@ -64,11 +64,10 @@ Because of this, taxation becomes unnecessarily burdensome and leaky, causing pe
 
 All of these then leads to lower tax revenues and higher budget deficits, weaking government and reducing the infrastructure and services available to the people, even causing governments to privatize its most essential parts. America now has a $22 trillion debt and its government shuts down parts of itself more often.
 
-<div class="squote smith" data-sal="slide-right">
+
+{{< q a="Adam-Smith" c="Wealth Of Nations, Book 5, Chapter 2" >}}
 The impossibility of taxing people according to their revenue by any capitation led to the invention of taxes on consumable commodities. The state, not knowing how to directly and proportionally tax the revenue of its subjects, taxes it indirectly by taxing their expence. Their expence is supposed to be proportional to their revenue.
-<br>
-<cite>Wealth Of Nations, Book 5, Chapter 2</cite>
-</div>
+{{< /q >}}
 
 
 ## Our Solution: Points-taxation system
@@ -80,11 +79,8 @@ Our solution is a new process that factors in the nature of the revenue and the 
 3. Categorize all transactions as based on either labor, professional-services, raw materials, basic goods, finished products, luxuries, etc. and assign each item in the transaction a proper tax rate
 4. The government transfers the appropriate points to itself and claims the value when the points are accumulated
 
-<br>
-
 {{< youtube Yh5uY0gJWus >}}
 
-<br>
 
 This system can work totally offline with pen, paper, and seals since it was proposed by Adam Smith in the 18th century.  This system has the following advantages:
 
@@ -102,10 +98,10 @@ unnecessary.  very difficult because the seller has to pay thesame tax as the bu
 
 Pointtax can serve as the stepping stone towards a regulated democratic system wherein only the taxpayers are allowed to vote for the leaders who will spend those taxes. 
 
-<blockquote class="squote hume" data-sal="slide-right">
-<p>Let all the freeholders of £20 a year in the county, and all the householders worth £500 in the town parishes meet annually in the parish church, and vote some freeholder of the county to be the county representative.</p>
-<cite>David Hume, Idea Of The Perfect Commonwealth</cite>
-</blockquote>
+
+{{< q a="David-Hume" c="Idea Of The Perfect Commonwealth" >}}
+Let all the freeholders of £20 a year in the county, and all the householders worth £500 in the town parishes meet annually in the parish church, and vote some freeholder of the county to be the county representative.</p>
+{{< /q >}}
 
 
 ## Mini-FAQ 

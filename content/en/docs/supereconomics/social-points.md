@@ -4,20 +4,18 @@ image: "/photos/pantry.jpg"
 description: "Social Points implement the moneyless version of nominal prices as the First Law of Value"
 tags: ['Points']
 date: 2022-07-20
-# aliases:
-#   /pantrynomics/social-points
 ---
 
 
-Pantrypoints uses 4 types of points which represent the 4 prices and the [four laws of value](https://superphysics.org/social/economics/principles/four-laws-of-value):
+Pantrypoints uses 4 types of points which represent the 4 prices and the [four laws of value](https://www.superphysics.org/social/economics/principles/intro/chapter-04/):
 
 
 Point Type | Purpose | Example 
 --- | --- | --- | ---
-Social Points | [nominal value](https://superphysics.org/social/economics/principles/first-law) | Donations
-Loyalty Points | [real value](https://superphysics.org/social/economics/principles/second-law) | Frequent Purchases
-Trade Points | [market value](https://superphysics.org/social/economics/principles/third-law) | Barter
-Investment Points | [natural value](https://superphysics.org/social/economics/principles/fourth-law) | Investing in kind (Equipment, seeds, training, etc)
+Donation Points | [nominal value](https://www.superphysics.org/social/economics/principles/part-1/chapter-01/) | Donations
+Loyalty Points | [real value](https://www.superphysics.org/social/economics/principles/part-2/chapter-01/) | Frequent Purchases
+Exchange Points | [market value](https://www.superphysics.org/social/economics/principles/part-3/chapter-01/) | Barter
+Investment Points | [natural value](https://www.superphysics.org/social/economics/principles/part-4/chapter-01/) | Investing in kind (Equipment, seeds, training, etc)
 
 
 
@@ -61,7 +59,7 @@ Unlike trade points, [loyalty points](/docs/supereconomics/loyalty-points), and 
 
 Assuming the food owner has 50 kilos of unsold tomatoes which are no longer sellable but still edible for 3 days with refrigeration and processing (cleaning and removing the moldy ones). 
 
-![](/photos/tomatoes.jpg)
+![Tomatoes](/photos/tomatoes.jpg)
 
 
 A food rescue could be done in the following steps:
@@ -88,15 +86,15 @@ As it is 3 days before expiry or zero value, we assign it a 10% value at 175 pes
 We then convert the pesos into a points price wherein 1 point = 1 kilo of NFA rice which is 38 pesos. This leads to 4.6 points*. 
 
 
-<div class="box" >
-<h2>Why must the points-value be pegged to rice?</h2>
+{{< box >}}
+### Why must the points-value be pegged to rice?
 
 Pegging the value to rice makes the system inflation-resistant. 
 
 For example, if the points were pegged to currency then it would lead to 175 points. If prices rise 2x in the next year, then the 175 points would only purchase 87.5 pesos of what it could get this year or 50%. This would discourage the donors. 
 
 However, if rice prices only increase to 60 pesos per kilo while other prices were doubled, then the 4.6 points would be worth 276 pesos or 79%.  
-</div>
+{{< /box >}}
 
 
 Assuming it takes 2 people to manually carry the tomatoes in a non-aircon bus* 2-way or around 50 pesos, then the total monetary expense or loss is 50 pesos.

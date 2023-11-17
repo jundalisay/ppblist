@@ -63,7 +63,8 @@ feedback:
     - sub: "Arewa Kasuwa"
       img: "/logos/arewa.png"
       title: "I love the global trading idea. I would love to use your platform if it works well for Africans" 
-      link: "https://arewaKasuwa.com.ng"
+      link: "https://arewakasuwa.com/"
+
 
 # feedback:
 #   title: Awards

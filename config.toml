@@ -113,7 +113,7 @@ paginate = 12
       sub = "Pantrypoints is for everyone"
 
     [languages.en.params.tricon2.items.a]
-      link = "services/build/"
+      link = "/services/build/"
       img= "/icons/shop.png"
       title = "I'm a micro-small business owner"
       sub = "I need online presence as a website, web app, mobile app, or social media"
@@ -264,7 +264,7 @@ paginate = 12
       sub = "Pantrypoints 面向所有人"
 
     [languages.zh.params.tricon2.items.a]
-      link = "services/build/"
+      link = "/services/build/"
       img= "/icons/shop.png"
       title = "我是一位微小企业主"
       sub = "我需要在线存在，如网站、Web 应用、移动应用或社交媒体"
@@ -403,7 +403,7 @@ paginate = 12
       title = "¿Cuál es tu rol?"
       sub = "Pantrypoints es para todos."
     [languages.es.params.tricon2.items.a]
-      link = "services/build/"
+      link = "/services/build/"
       img= "/icons/shop.png"
       title = "Soy dueño de un micropequeño negocio."
       sub = "Necesito presencia en línea, ya sea como un sitio web, aplicación web, aplicación móvil o en redes sociales."

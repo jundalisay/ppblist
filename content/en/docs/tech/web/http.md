@@ -1,7 +1,7 @@
 ---
 title: "Status Codes"
 date: 2023-08-05
-image: "https://miro.medium.com/max/4000/0*dCDJ_JD54Ndje_bB.png"
+image: "/photos/code.jpg"
 description : "Status Codes"
 author: Juan
 ---
@@ -113,7 +113,7 @@ A chunk of extension codes can be found in [RFC2326 Real Time Streaming Protocol
 
 For a full up-to-date list, continue reading on [HTTP Status Code Registry](https://www.iana.org/assignments/http-status-codes/http-status-codes.xml), [Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_status_codes).
 
-## Sources
+<!-- ## Sources
 
 * [RFC7231 Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://tools.ietf.org/html/rfc7231#)
 * [RFC7232 Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests](https://tools.ietf.org/html/rfc7232#)
@@ -121,7 +121,4 @@ For a full up-to-date list, continue reading on [HTTP Status Code Registry](http
 * [RFC2616 Hypertext Transfer Protocol -- HTTP/1.1](https://tools.ietf.org/html/rfc2616#)
 * [RFC2518 HTTP Extensions for Distributed Authoring -- WEBDAV](https://tools.ietf.org/html/rfc2518)
 * [RFC6585 Additional HTTP Status Codes](https://tools.ietf.org/html/rfc6585#)
-* [Dana Contreras](https://twitter.com/DanaDanger)
-* [John Barton](http://whoisjohnbarton.com)
-* [Urban Dictionary](http://www.urbandictionary.com)
-* Yours truly
+ -->

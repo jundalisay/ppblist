@@ -22,15 +22,15 @@ The internet has allowed software to be accessed remotely leading to different k
 Supereconomics adds to this innovation by creating Economy-as-a-Service. This has all the features of a resource allocation system:
 
 - valuation of resources
-  - this will be done through [Basic Universal Revenue or BUR](https://superphysics.org/social/economics/solutions/bur) and [the Modern Economic Table](https://superphysics.org/social/economics/solutions/modern-economic-table) 
+  - this will be done through [Basic Points Revenue or BPR](https://www.superphysics.org/social/economics/principles/part-1/chapter-03b/) and [the Modern Economic Table](https://www.superphysics.org/social/economics/principles/part-3/chapter-08/) 
 - storage of the valuation
-  - this will be done through [points banking](https://superphysics.org/social/economics/solutions/points-banking) 
+  - this will be done through [points banking](/trisactions/banking/) 
 - exchange of the resources
   - this will be done through a tri-media system of exchange of fiat, [barter contracts](https://superphysics.org/social/economics/why-business-is-immoral), and BUR points
 - taxation to maintain the system
-  - this will be done through [Pointtax](https://pantrypoints.com/pointtax)
+  - this will be done through [Pointtax](https://www.pantrypoints.com/services/tax/)
 - real-time analytics to nowcast the economy
-  - this will be done through [Pantrylitics](https://pantrypoints.com/pantrylitics)
+  - this will be done through [Pantrylitics](https://www.pantrypoints.com/services/pantrylitics/)
 - communication between users
 
 

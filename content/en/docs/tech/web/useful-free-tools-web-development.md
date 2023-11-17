@@ -69,7 +69,7 @@ Text Tools | Purpose
 [Remove Line Breaks](http://www.removelinebreaks.net/) | remove line breaks in text
 [Word to HTML](https://wordtohtml.net/) | convert Word to HTML
 [Remove Letter Accents](http://www.unit-conversion.info/texttools/remove-letter-accents/) | Useful for non-english text
-[ERB to Slim](https://erb2slim.com/) | HTML to slim converter for Ruby templates
+[ERB to Slim](https://tools.kaklabs.com/slim-converter.html) | HTML to slim converter for Ruby templates
 
 <br>
 

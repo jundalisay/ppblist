@@ -15,7 +15,7 @@ weight: 10
 
   - Data types without a module
   - Other Data types
-- [Enum](/docs/tech/elixir/data-types/enum/)    
+- [Enum](/docs/tech/elixir/data-types/enums/)    
 - Behaviours: Modules that are publicly-available APIs
   - GenServer (part of OTP)
   - Supervisor (part of OTP)
@@ -398,9 +398,6 @@ variables &capture
 ``` elixir
 IO.puts "whatever"
 ```
-
-
-<br>
 
 ## Module
 
