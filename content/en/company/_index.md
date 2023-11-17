@@ -48,7 +48,7 @@ how:
       title: "We build the online presence of your business. If it gains traction within a year, then we hand it over to your control. If it fails, then we either pivot or abandon it just like a startup. In this way, your startup costs will be much lower"
     - img: "/screens/ui.jpg"
       id: 3
-      title: "You can then tap us to add a web app, mobile app, or cashless payment in the future, or even try our 'trisactions' system (this last possibility is our <a href='/docs/supereconomics/economy-as-a-service/'>ultimate goal</a>)"
+      title: "You can then tap us to add a web app, mobile app, or cashless payment in the future, or even try our 'trisactions' system (this last possibility is our <a href='/docs/supereconomics/eaas'>ultimate goal</a>)"
 
 
 tricon:

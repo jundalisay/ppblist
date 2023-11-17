@@ -2,8 +2,6 @@
 title: "Supereconomics"
 subtitle: ""
 description: "Pantrypoints is based on the Four Laws of Value of Supereconomics"
-aliases:
-  /company/superphysics
 
 
 partners:

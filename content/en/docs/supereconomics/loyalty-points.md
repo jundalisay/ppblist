@@ -13,10 +13,10 @@ Pantrypoints uses four types of points which represent the four prices and the [
 
 Point Type | Purpose | Example 
 --- | --- | --- | ---
-Social Points | [nominal value](https://superphysics.org/social/economics/principles/first-law) | Donations
-Loyalty Points | [real value](https://superphysics.org/social/economics/principles/second-law) | Frequent Purchases
-Trade Points | [market value](https://superphysics.org/social/economics/principles/third-law) | Barter
-Investment Points | [natural value](https://superphysics.org/social/economics/principles/fourth-law) | Investing in kind (Equipment, seeds, training, etc)
+Donation Points | [nominal value](https://www.superphysics.org/social/economics/principles/part-1/chapter-01/) | Donations
+Loyalty Points | [real value](https://www.superphysics.org/social/economics/principles/part-2/chapter-01/) | Frequent Purchases
+Exchange Points | [market value](https://www.superphysics.org/social/economics/principles/part-3/chapter-01/) | Barter
+Investment Points | [natural value](https://www.superphysics.org/social/economics/principles/part-4/chapter-01/) | Investing in kind (Equipment, seeds, training, etc)
 
 
 
