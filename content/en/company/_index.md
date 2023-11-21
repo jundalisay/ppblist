@@ -13,19 +13,21 @@ triconb:
   title : "Future Focused"
   sub: "We use new technologies that match the needs of scalability (performance), flexibility (no vendor lock-in), and maintainability (low cost). We are not enterprise at all."
   items:
-    - title: "Static Websites and SEO"
+    - title: "Content and SEO"
       img: /icons/g.png
+      sub: "Text, Videos, Graphics"
     - title: "Web Apps and API"
       img: /icons/svelte.jpg
-    - title: Qualitative and Quantitative Research
-      img: /icons/jobs.png 
+      sub: "Serverless"
     - title: "Mobile Android"
-      img: /icons/android.png    
+      img: /icons/android.png
+      sub: "Flutter"    
     # - title: DevOps
     #   title: AWS, GCP, Fly.io, Gigalixir
     #   img: /icons/gcloud.png    
     - title: "Machine Learning"
       img: /icons/ai.png
+      sub: "RAG applications"
     # - sub: "Coming Soon"
     #   title: "IoT"
     #   img: /icons/chip.png
@@ -35,7 +37,9 @@ triconb:
     - sub: "Sales, Marketing, Social Media"
       title: "Business Development"
       img: /icons/charts.png
-
+    - title: Qualitative and Quantitative Research
+      img: /icons/jobs.png
+      sub: "Papers and Books"
 
 how:
   title : "Start Building the Digital Presence of Your Business"  
