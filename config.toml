@@ -191,7 +191,7 @@ paginate = 12
       sub = "The Inca made a large scale points-based economic system using strings for points. The Spanish destroyed it and replaced it with the current crisis-prone money-based system."
       banner = "/photos/inca.jpg"
     [languages.en.params.how.steps.a]
-      img = "/photos/qullqa.jpg"
+      img = "/screens/pantryshow.jpg"
       title = "Post your item using a points price instead of a money price"
       id = 1
     [languages.en.params.how.steps.b]
