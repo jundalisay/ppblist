@@ -524,7 +524,7 @@ paginate = 12
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2023 | Pantrypoints Technologies"
+  copyright = "Copyright © 2023 | <a href='/company/'>Pantrypoints Technologies</a> | Based on <a href='https://www.superphysics.org'>Superphysics</a>"
   favimg = "/icons/pantry50.png"
 
   ascentColor = "bg-blue-100"
