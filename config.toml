@@ -164,13 +164,13 @@ paginate = 12
       title = "San Pedro Laguna"
     [languages.en.params.tricon3.items.c]
       img = "/flags/vn.png"
-      title = "Ho Chi Minh"
+      title = "Ho Chi Minh (coming soon)"
     [languages.en.params.tricon3.items.d]
       img = "/flags/vn.png"
-      title = "Hanoi"
+      title = "Hanoi (coming soon)"
     [languages.en.params.tricon3.items.e]
       img = "/flags/my.png"
-      title = "Kuala Lumpur"
+      title = "Kuala Lumpur (coming soon)"
 
     [languages.en.params.inca]
       title = "Originally Built by the Inca"
@@ -191,7 +191,7 @@ paginate = 12
       sub = "The Inca made a large scale points-based economic system using strings for points. The Spanish destroyed it and replaced it with the current crisis-prone money-based system."
       banner = "/photos/inca.jpg"
     [languages.en.params.how.steps.a]
-      img = "/photos/qullqa.jpg"
+      img = "/screens/pantryshow.jpg"
       title = "Post your item using a points price instead of a money price"
       id = 1
     [languages.en.params.how.steps.b]
@@ -202,7 +202,6 @@ paginate = 12
       img = "/screens/pay.jpg"
       title = "Pay in points"
       id = 3
-
 
 
   [languages.zh]
@@ -330,6 +329,282 @@ paginate = 12
 
     # [languages.zh.params.feedback]
     #   title = "专家意见"
+
+
+
+  [languages.de]
+    contentDir = "content/de"
+    weight = 5
+    languageName = "Deutsch"
+
+    [languages.de.params]
+      main = "The Circular Economy That Solves"
+      sub = "Pantrypoints is a resilient and disruptive new economic system that uses bilateral points through meetups in order to stop inflation, allow full employment, and realize the circular economy"
+      banner = "/photos/holdhands.jpg"
+      wow = "Inflation"
+      youtube = "AfByl9Mywi4"
+
+    [languages.de.params.cta]
+      title = ""
+    [languages.de.params.cta.buttons.a]
+      link = "https://hub.pantrypoints.com/signup"
+      text = "Register in the Waitlist"
+      color = ""
+    [languages.de.params.cta.buttons.b]
+      link = "https://www.superphysics.org/social/economics"
+      text = "Check out the science"
+      color = ""
+
+    [languages.de.params.tricon2]
+      title = "Was ist deine Rolle?"
+      sub = "Pantrypoints ist für alle"
+
+    [languages.de.params.tricon2.items.a]
+      link = "/services/build/"
+      img= "/icons/shop.png"
+      title = "Ich bin Inhaber eines Mikrokleinunternehmens"
+      sub = "Ich benötige Online-Präsenz in Form einer Website, Web-App, mobilen App oder in sozialen Medien."
+    [languages.de.params.tricon2.items.b]
+      link = "https://circle.pantrypoints.com/"
+      img = "/icons/jobless.png"
+      title = "Ich bin arbeitslos"
+      sub = "Ich brauche einen Job, habe aber nicht die erforderlichen Fähigkeiten"
+    [languages.de.params.tricon2.items.c]
+      link = "/pantrypreneur/educate"
+      img= "/icons/teacher.png"
+      title = "Ich bin Lehrer"
+      sub = "Ich muss die Anwesenheit und Leistung meiner Schüler aufzeichnen"
+    [languages.de.params.tricon2.items.d]
+      link = "/trisactions/health/"
+      img= "/icons/apple.png"
+      title = "Ich achte auf meine Gesundheit"
+      sub = "Gesundheitsversorgung ist teuer, deshalb muss ich mich richtig ernähren"
+    [languages.de.params.tricon2.items.f]
+      link = "/trisactions/invesure/"
+      img= "/icons/investor.png"
+      title = "Ich bin Investor"
+      sub = "Ich möchte, dass meine Investitionen einen großen Einfluss auf die Wirtschaft haben"
+    [languages.de.params.tricon2.items.g]
+      link = "/trisactions/banking"
+      img = "icons/banker.png"
+      title = "Ich bin Banker"
+      sub = "Ich möchte eine Lösung für Bankenkrisen. Ich bin so gestresst"
+    [languages.de.params.tricon2.items.h]
+      link = "/pantrypreneur/farm/"
+      img = "/icons/farmer.png"
+      title = "Ich bin Landwirt"
+      sub = "Ich brauche eine Lösung für den Klimawandel!"
+    [languages.de.params.tricon2.items.i]
+      link = "/services/tax"
+      img = "/icons/gov.png"
+      title = "Ich arbeite in der Regierung"
+      sub = "Wir müssen mehr Einnahmen für öffentliche Dienstleistungen generieren"
+      
+  [languages.fr]
+    contentDir = "content/fr"
+    weight = 5
+    languageName = "Français"
+
+    [languages.fr.params]
+      main = "The Circular Economy That Solves"
+      sub = "Pantrypoints is a resilient and disruptive new economic system that uses bilateral points through meetups in order to stop inflation, allow full employment, and realize the circular economy"
+      banner = "/photos/holdhands.jpg"
+      wow = "Inflation"
+      youtube = "AfByl9Mywi4"
+
+    [languages.fr.params.cta]
+      title = ""
+    [languages.fr.params.cta.buttons.a]
+      link = "https://hub.pantrypoints.com/signup"
+      text = "Register in the Waitlist"
+      color = ""
+    [languages.fr.params.cta.buttons.b]
+      link = "https://www.superphysics.org/social/economics"
+      text = "Check out the science"
+      color = ""
+
+    [languages.fr.params.tricon2]
+      title = "Quel est votre rôle?"
+      sub = "Pantrypoints est pour tout le monde"
+ 
+    [languages.fr.params.tricon2.items.a]
+      link = "/services/build/"
+      img= "/icons/shop.png"
+      title = "Je suis propriétaire d'une micro-petite entreprise"
+      sub = "J'ai besoin d'une présence en ligne sous la forme d'un site web, d'une application web, d'une application mobile ou sur les médias sociaux."
+    [languages.fr.params.tricon2.items.b]
+      link = "https://circle.pantrypoints.com/"
+      img = "/icons/jobless.png"
+      title = "Je suis au chômage"
+      sub = "J'ai besoin de trouver un emploi, mais je n'ai pas les compétences requises"
+    [languages.fr.params.tricon2.items.c]
+      link = "/pantrypreneur/educate"
+      img= "/icons/teacher.png"
+      title = "Je suis enseignant"
+      sub = "J'ai besoin de prendre note de la présence et des performances de mes étudiants"
+    [languages.fr.params.tricon2.items.d]
+      link = "/trisactions/health/"
+      img= "/icons/apple.png"
+      title = "Je suis soucieux de ma santé"
+      sub = "Les soins de santé sont chers, donc je dois bien m'alimenter"
+    [languages.fr.params.tricon2.items.f]
+      link = "/trisactions/invesure/"
+      img= "/icons/investor.png"
+      title = "Je suis investisseur"
+      sub = "Je veux que mes investissements aient un impact significatif sur l'économie"
+    [languages.fr.params.tricon2.items.g]
+      link = "/trisactions/banking"
+      img = "icons/banker.png"
+      title = "Je suis banquier"
+      sub = "Je veux une solution aux crises bancaires. Je suis très stressé"
+    [languages.fr.params.tricon2.items.h]
+      link = "/pantrypreneur/farm/"
+      img = "/icons/farmer.png"
+      title = "Je suis agriculteur"
+      sub = "J'ai besoin d'une solution au réchauffement climatique!"
+    [languages.fr.params.tricon2.items.i]
+      link = "/services/tax"
+      img = "/icons/gov.png"
+      title = "Je travaille dans le gouvernement"
+      sub = "Nous devons augmenter nos revenus pour les services publics"
+
+
+  [languages.hi]
+    contentDir = "content/hi"
+    weight = 8
+    languageName = "Hindi"
+
+    [languages.hi.params]
+      main = "The Circular Economy That Solves"
+      sub = "Pantrypoints is a resilient and disruptive new economic system that uses bilateral points through meetups in order to stop inflation, allow full employment, and realize the circular economy"
+      banner = "/photos/holdhands.jpg"
+      wow = "Inflation"
+      youtube = "AfByl9Mywi4"
+
+    [languages.hi.params.cta]
+      title = ""
+    [languages.hi.params.cta.buttons.a]
+      link = "https://hub.pantrypoints.com/signup"
+      text = "Register in the Waitlist"
+      color = ""
+    [languages.hi.params.cta.buttons.b]
+      link = "https://www.superphysics.org/social/economics"
+      text = "Check out the science"
+      color = ""
+
+    [languages.hi.params.tricon2]
+      title = "आपकी भूमिका क्या है?"
+      sub = "Pantrypoints सभी के लिए है।"
+
+    [languages.hi.params.tricon2.items.a]
+      link = "/services/build/"
+      img= "/icons/shop.png"
+      title = "मैं एक माइक्रो-छोटे व्यापार का मालिक हूँ।"
+      sub = "मुझे एक वेबसाइट, वेब ऐप, मोबाइल एप्लिकेशन, या सोशल मीडिया के रूप में ऑनलाइन प्रतिष्ठान चाहिए।"
+    [languages.hi.params.tricon2.items.b]
+      link = "https://circle.pantrypoints.com/"
+      img = "/icons/jobless.png"
+      title = "मैं बेरोजगार हूँ।"
+      sub = "मुझे नौकरी मिलनी चाहिए, लेकिन मेरे पास आवश्यक कौशल नहीं हैं।"
+    [languages.hi.params.tricon2.items.c]
+      link = "/pantrypreneur/educate"
+      img= "/icons/teacher.png"
+      title = "मैं शिक्षक हूँ।"
+      sub = "मुझे अपने छात्रों की उपस्थिति और प्रदर्शन का रिकॉर्ड रखना है।"
+    [languages.hi.params.tricon2.items.d]
+      link = "/trisactions/health/"
+      img= "/icons/apple.png"
+      title = "मैं स्वास्थ्य-चेतना हूँ।"
+      sub = "स्वास्थ्य सेवाएं महंगी हैं, इसलिए मुझे सही तरीके से खाना चाहिए।"
+    [languages.hi.params.tricon2.items.f]
+      link = "/trisactions/invesure/"
+      img= "/icons/investor.png"
+      title = "मैं एक निवेशक हूँ।"
+      sub = "मुझे चाहिए कि मेरे निवेशों का अर्थशास्त्र पर बड़ा प्रभाव हो।"
+    [languages.hi.params.tricon2.items.g]
+      link = "/trisactions/banking"
+      img = "icons/banker.png"
+      title = "मैं एक बैंकर हूँ।"
+      sub = "मैं एक बैंकर हूँ। मुझे बैंक संकटों का समाधान चाहिए। मैं इतना तनाव में हूँ।"
+    [languages.hi.params.tricon2.items.h]
+      link = "/pantrypreneur/farm/"
+      img = "/icons/farmer.png"
+      title = "मैं किसान हूँ।"
+      sub = "मुझे ग्लोबल वार्मिंग का समाधान चाहिए!"
+    [languages.hi.params.tricon2.items.i]
+      link = "/services/tax"
+      img = "/icons/gov.png"
+      title = "मैं सरकार में काम करता हूँ।"
+      sub = "हमें सार्वजनिक सेवाओं के लिए अधिक राजस्व कमाने की आवश्यकता है।"
+
+  [languages.jp]
+    contentDir = "content/jp"
+    weight = 9
+    languageName = "日本語"
+
+    [languages.jp.params]
+      main = "The Circular Economy That Solves"
+      sub = "Pantrypoints is a resilient and disruptive new economic system that uses bilateral points through meetups in order to stop inflation, allow full employment, and realize the circular economy"
+      banner = "/photos/holdhands.jpg"
+      wow = "Inflation"
+      youtube = "AfByl9Mywi4"
+
+    [languages.jp.params.cta]
+      title = ""
+    [languages.jp.params.cta.buttons.a]
+      link = "https://hub.pantrypoints.com/signup"
+      text = "Register in the Waitlist"
+      color = ""
+    [languages.jp.params.cta.buttons.b]
+      link = "https://www.superphysics.org/social/economics"
+      text = "Check out the science"
+      color = ""
+
+    [languages.jp.params.tricon2]
+      title = "あなたの役割は何ですか？"
+      sub = "Pantrypointsはみんなのためです"
+
+    [languages.jp.params.tricon2.items.a]
+      link = "/services/build/"
+      img= "/icons/shop.png"
+      title = "私はマイクロ・スモール・ビジネスのオーナーです"
+      sub = "ウェブサイト、Webアプリ、モバイルアプリ、またはソーシャルメディアとしてのオンラインプレゼンスが必要です。"
+    [languages.jp.params.tricon2.items.b]
+      link = "https://circle.pantrypoints.com/"
+      img = "/icons/jobless.png"
+      title = "私は失業中です"
+      sub = "仕事を得る必要がありますが、必要なスキルがありません。"
+    [languages.jp.params.tricon2.items.c]
+      link = "/pantrypreneur/educate"
+      img= "/icons/teacher.png"
+      title = "私は教師です"
+      sub = "学生の出席とパフォーマンスを記録する必要があります"
+    [languages.jp.params.tricon2.items.d]
+      link = "/trisactions/health/"
+      img= "/icons/apple.png"
+      title = "私は健康に気を使っています"
+      sub = "医療は高額なので、正しく食事をする必要があります"
+    [languages.jp.params.tricon2.items.f]
+      link = "/trisactions/invesure/"
+      img= "/icons/investor.png"
+      title = "私は投資家です"
+      sub = "私の投資が経済に多くの影響を与えることを望んでいます"
+    [languages.jp.params.tricon2.items.g]
+      link = "/trisactions/banking"
+      img = "icons/banker.png"
+      title = "私は銀行家です"
+      sub = "銀行危機の解決策が欲しいです。私はとてもストレスを感じています"
+    [languages.jp.params.tricon2.items.h]
+      link = "/pantrypreneur/farm/"
+      img = "/icons/farmer.png"
+      title = "私は農夫です"
+      sub = "地球温暖化の解決策が必要です！"
+    [languages.jp.params.tricon2.items.i]
+      link = "/services/tax"
+      img = "/icons/gov.png"
+      title = "私は政府で働いています"
+      sub = "公共サービスのために収益を増やす必要があります"
+
 
   [languages.es]
     contentDir = "content/es"
@@ -479,7 +754,7 @@ paginate = 12
     [languages.es.params.how]
       title = "Cómo funciona"
       sub = "Publica tu artículo usando un precio en puntos en lugar de un precio en dinero"
-      banner = "/photos/inca.jpg"
+      banner = "/screens/pantryshow.jpg"
     [languages.es.params.how.steps.a]
       img = "/photos/qullqa.jpg"
       title = "Reúnete con los compradores de tu artículo"
