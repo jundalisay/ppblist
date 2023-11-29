@@ -2,7 +2,6 @@
 title: Pantrypoints Models
 description: Pantrypoints Models
 image: "/photos/coop.jpg"
-tags: ['']
 date: 2022-04-22
 weight: 5
 draft: true

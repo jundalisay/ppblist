@@ -1,3 +1,6 @@
+Gravity is the attraction of like vibrations
+
+
     field :address, :string
     field :avatar, :string
     field :city, :string
