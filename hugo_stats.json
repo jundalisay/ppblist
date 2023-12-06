@@ -118,7 +118,6 @@
       "dark:bg-secondary-100",
       "dark:bg-slate-800",
       "dark:border-transparent",
-      "dark:hover:bg-gray-400",
       "dark:hover:bg-gray-700",
       "dark:hover:bg-neutral-700",
       "dark:hover:border-gray-100",
@@ -316,7 +315,6 @@
       "rounded-full",
       "rounded-lg",
       "rounded-md",
-      "rounded-sm",
       "rounded-xl",
       "search-list",
       "search-results",
@@ -671,6 +669,7 @@
       "schema-associations",
       "schemad-changeset",
       "schemaless-changeset",
+      "screencast-recordings",
       "secret-sauce-fellow-feeling-from-moneyless-systems",
       "security-of-personal-information",
       "setting-the-anonymous-function",
@@ -745,12 +744,14 @@
       "user-story",
       "valuing-the-valueless",
       "virtual-attributes",
+      "web-based-downloaders",
       "what-are-social-points",
       "what-was-the-problem-with-the-economic-or-commercial-system-of-taxation",
       "why-must-the-points-value-be-pegged-to-rice",
       "widget2",
       "with",
       "word-list",
+      "youtube-app",
       "zip"
     ]
   }
