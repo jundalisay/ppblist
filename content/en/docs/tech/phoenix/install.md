@@ -11,7 +11,7 @@ weight: 160
 ## 1. Install `asdf`
 
 ```
-apt install curl git unzip
+sudo apt install curl git unzip
 
 git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.13.1
 ```
