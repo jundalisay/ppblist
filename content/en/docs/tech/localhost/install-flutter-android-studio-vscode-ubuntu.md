@@ -47,9 +47,15 @@ export PATH="$PATH:$HOME/Downloads/flutter/bin"
 - In the terminal, type `flutter -h` to test if the directory was referenced
 
 
-<br>
+
 
 ## Step 2: Install Android Studio
+
+Android Studio is needed for the Android SDK.
+- The SDK is needed for the emulator
+- The emulator is needed to test the app on devices
+
+
 
 ### 2.1 Download, Extract, and Move to a Folder
 
