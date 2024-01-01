@@ -90,7 +90,7 @@ paginate = 12
       title = "2: Money"
       sub = "'Money points' allow money to pay for the moneyless transactions via cash or cashless apps of the fiat economy"
     [languages.en.params.tricon1.items.c]
-      link = "/trisactions/banking"
+      link = "/services/coins/"
       img = "/icons/eth.png"
       title = "3: Metaverse"
       sub = "The points can be converted to Pantry Coins to allow regulated transactions from the Metaverse via Ethereum.  This is useful for cross-border transactions and our proposed 'crypto-easing' (our alternative to quantitative easing)"
@@ -658,7 +658,7 @@ paginate = 12
       title = "2: Dinero"
       sub = "Los puntos monetarios permiten utilizar dinero para pagar las transacciones sin dinero a través de efectivo o aplicaciones bancarias sin efectivo de la economía fiduciaria"
     [languages.es.params.tricon1.items.c]
-      link = "/trisactions/banking"
+      link = "/services/coins/"
       img = "/icons/eth.png"
       title = "3: Metaverso"
       sub = "Los puntos pueden convertirse en Monedas de Despensa para permitir transacciones reguladas desde el metaverso a través de Ethereum. Esto es útil para transacciones internacionales y nuestra propuesta de cripto-alivio (nuestra alternativa a la flexibilización cuantitativa)"
@@ -801,7 +801,7 @@ paginate = 12
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2023 | <a href='/company/'>Pantrypoints Technologies</a> | Based on <a href='https://www.superphysics.org'>Superphysics</a>"
+  copyright = "Copyright © 2024 | <a href='/company/'>Pantrypoints Technologies</a> | Based on <a href='https://www.superphysics.org'>Superphysics</a>"
   favimg = "/icons/pantry50.png"
 
   ascentColor = "bg-blue-100"

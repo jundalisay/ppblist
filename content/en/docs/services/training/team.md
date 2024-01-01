@@ -14,6 +14,11 @@ toc: true
 
 Teamwork is the key factor that makes human work together to achieve common goals.
 
+
+Q contribute to the effectiveness of a team?
+A team goals linked to organizational goals
+
+
  <!-- Developing teamwork is vital to any organization because of the scope of work performed on a daily basis. -->
 
 Teamwork is the effort of group of people with complementary skills who are committed to a common purpose and hold themselves mutually accountable for its achievement. Ideally, the team develops a distinct identity and work together in a co-ordinated and mutually supportive way to fulfil their goal or purpose.

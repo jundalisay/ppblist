@@ -178,5 +178,6 @@ What can the supervisor or others do to help make sure there is progress?
 
 Are your actions going to help you meet your overall goal?
 Are the steps realistic?
+
 Is your plan REAL (Realistic, Effective, Acceptable and Logical)?
 

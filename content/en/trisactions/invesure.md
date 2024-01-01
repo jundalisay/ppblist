@@ -3,8 +3,7 @@ title: "Pantrypoints Invesure"
 wow: "Moneyless Investment and Insurance"
 image: "/og/invesure.jpg"
 description: "Pantrypoints Invesure facilitates moneyless investment and insurance within the Pantrypoints system through Investment and Insurance Points"
-youtube: ro_8TZ7MTPU
-
+youtube: smeI8NEBJ4k
 
 
 trimg:
