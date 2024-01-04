@@ -150,6 +150,7 @@ that determine the effective and efficient outcome of work.
 These competencies forms part of the competency standards
 and their degree of application could vary depending on the
 work role2
+
 . A basic competency is a competency used across
 all trade or occupational areas.
 Common Competency Is a work competency common to one trade or occupational
@@ -165,17 +166,15 @@ degree of quality. Core competencies are described and
 linked to industry-based competency standards and they play
 a different role in the overall way a person applies their skills
 and knowledge in work or other roles3
-.
+
 Unit Code4 Represents the unit of competency in alpha-numeric form
 from amongst the different unit of competencies of the trade
 or occupational areas.
-Unit Descriptor Describes the scope of the unit of competency in terms of
-knowledge, skills and attitudes. It is an expansion of the Unit
-Title which states the general application of skills and
-knowledge and attitude on the job.
-Element of Competency Is the building block of a unit of competency which describes
-the key aspects of the job a person must be able to do
+
+Unit Descriptor - Describes the scope of the unit of competency in terms of knowledge, skills and attitudes. It is an expansion of the Unit
+Title which states the general application of skills and knowledge and attitude on the job.
+
+Element of Competency - the building block of a unit of competency which describes the key aspects of the job a person must be able to do
 relative to his role or function.
-Performance Criteria Are evaluative statements specifying the performance
-standards to be achieved and linked to assessment
-procedures.
+
+Performance Criteria - evaluative statements specifying the performance standards to be achieved and linked to assessment procedures.
