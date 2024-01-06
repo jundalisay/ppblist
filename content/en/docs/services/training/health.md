@@ -7,6 +7,8 @@ images: []
 toc: true
 ---
 
+<!-- Occupational Health and Safety (OHS) is a cross-disciplinary area concerned with protecting the safety, health and welfare of people engaged in work or employment. Knowing OHS is essential to minimize the hazards and risks not only to students, trainers and other people within the training institution but others who will be affected. -->
+
 
 Occupational safety and health is a discipline with aims to protect every worker against the dangers of injury, sickness or death through safe and healthful working conditions (OSHC-DOLE, 2016).
 

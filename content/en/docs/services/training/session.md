@@ -43,3 +43,4 @@ ELEMENTS OF A SESSION PLAN
 7.            Learning Activities
 8.           Evaluation
 9.           Teacher’s Reflection
+
