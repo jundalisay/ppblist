@@ -3,7 +3,7 @@ title: "Competency Based Curriculum"
 description: "Competency Based Curriculum and Course Design"
 date: 2022-01-18T19:58:14+01:00
 lastmod: 2022-01-18T19:58:14+01:00
-images: []
+image: "/photos/dish.jpg"
 toc: true
 ---
 

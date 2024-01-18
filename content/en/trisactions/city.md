@@ -4,6 +4,7 @@ wow: "The Resilient, Smart City"
 description: "Pantrypoints City is the platform for hyperlocal trisactions in the city"
 image: "/og/city.jpg"
 youtube: GVkVoJzLn2g
+feat: true
 
 
 req:

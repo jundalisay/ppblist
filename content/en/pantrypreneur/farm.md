@@ -5,6 +5,7 @@ wow: for Maximized Farming
 description: "Pantrypreneur Farm is a management app for a 'Maximum Farm'"
 youtube: blkb6Y_veTs 
 image: /og/farm.jpg
+mobile: true
 aliases:
   /farm
 

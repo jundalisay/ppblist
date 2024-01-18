@@ -6,6 +6,7 @@ description: "Pantrypreneur is a platform for micro and small businesses for dig
 # It is part of our Build Package which jumpstarts your digital transformation
 youtube: zIrblIJF4Nk
 weight: 2
+feat: true
 
 
 triconb:

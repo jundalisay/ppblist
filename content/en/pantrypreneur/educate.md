@@ -3,6 +3,7 @@ title: Educate
 description: "Pantrypreneur Educate and Apprentice are social education systems derived from Adam Smith's educational reform proposals"
 image: /og/educate.jpg
 youtube: By4cXCekyDY
+mobile: true
 
 
 req:

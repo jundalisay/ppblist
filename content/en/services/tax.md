@@ -5,6 +5,9 @@ title: "Points Taxation"
 description: "Pantrypoints Tax is our implementation of Adam Smith's taxation system described in The Wealth of Nations, designed to make governments wealthy while being easy on the people"
 youtube: "HOtK8qR7LYI"
 image: /og/tax.jpg
+offline: true
+feat: true
+
 
 cta:
   buttons:

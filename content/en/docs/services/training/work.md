@@ -1,3 +1,18 @@
+---
+title: "Work-Based Training"
+description: "Work-Based Training"
+date: 2022-01-18T19:58:14+01:00
+lastmod: 2022-01-18T19:58:14+01:00
+images: []
+menu:
+  docs:
+    parent: "pilot"    
+toc: true
+---
+
+
+
+
 For work-based training conducted within the industry/company it is assumed that the necessary equipment and machineries are already available, although as a trainer, you have to check whether all of which are in place and can be used by the trainees during training. It is also important to discover, however, what additional materials will help. Books, pamphlets, diagrams, models may help trainees to develop their knowledge and skills more quickly.
 
 If the work-based training shall be conducted within the training center, then it is even more important to build the correct range of resources. At this juncture the trainer’s knowledge on the content of the training regulations will again come into use.

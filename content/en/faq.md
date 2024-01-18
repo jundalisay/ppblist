@@ -95,7 +95,7 @@ We have a limited budget which allows us a cost of $20 per server. Moreover, dat
 
 So we have a maximum of 1,000 registered users or 300 concurrent users per server. After it goes over, the server crashes. This means the experiment worked. This happened a lot during the pandemic when a lot of people suddenly went online to look for jobs or to barter. 
 
-We then spin up a new server for a new town with new features as a new experiment. Some users create multiple accounts and some are bots that succeed with captcha. So we estimate that there are really only 100-300 real users per server. 
+We then spin up a new server for a new town with new features as a new experiment. At our peak when we were supported by incubators that allowed us to have staff, we had 7 servers.
 {{< /l >}}
 
 
@@ -163,7 +163,7 @@ What's Pool Clearing?
 
 
 {{< l a="Pantrypoints" >}}
-It's a trade system proposed by British ecoonmist EF Schumacher wherein the trading countries act as one pool. The members of the pool constantly coordinate with each other to make world trade efficient. 
+It's a trade system proposed by British economist EF Schumacher wherein the trading countries act as one pool. The members of the pool constantly coordinate with each other to make world trade efficient. 
 
 This is very different from the current world trade system established by Bretton Woods wherein the United States has a superior position and the US dollar is the international reserve currency. In Pool Clearing, the price of grains is the common measure. 
 {{< /l >}}
