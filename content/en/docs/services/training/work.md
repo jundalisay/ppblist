@@ -1,6 +1,7 @@
 ---
 title: "Work-Based Training"
 description: "Work-Based Training"
+image: "/photos/yay.jpg"
 date: 2022-01-18T19:58:14+01:00
 lastmod: 2022-01-18T19:58:14+01:00
 images: []

@@ -1,5 +1,6 @@
 ---
 title: "Session Plan"
+image: "/photos/yay.jpg"
 description: "Training Design"
 date: 2022-01-18T19:58:14+01:00
 lastmod: 2022-01-18T19:58:14+01:00

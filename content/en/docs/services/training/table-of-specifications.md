@@ -3,7 +3,7 @@ title: "Table of Specifications and Bloom's Taxonomy"
 description: "Table of Specifications uses Bloom's Taxonomy"
 date: 2022-01-18T19:58:14+01:00
 lastmod: 2022-01-18T19:58:14+01:00
-images: []
+image: "/photos/yay.jpg"
 menu:
   docs:
     parent: "pilot"    

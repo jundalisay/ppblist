@@ -1,6 +1,7 @@
 ---
 title: "Learners Learning Objective"
 description: "Communication is the transfer of information by conveying intended meaning to another entity through the use of mutually-understood means"
+image: "/photos/yay.jpg"
 date: 2022-01-18T19:58:14+01:00
 lastmod: 2022-01-18T19:58:14+01:00
 images: []
@@ -14,6 +15,8 @@ toc: true
 In CBT, we consider individual differences in training because CBT is self-paced. 
 
 The design of training and instructional materials should suit each trainee.
+
+
 
 ## CHARACTERISTICS OF LEARNERS 
 
