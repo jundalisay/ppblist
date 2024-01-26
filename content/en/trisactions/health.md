@@ -4,7 +4,7 @@ wow: "Health Democracy"
 image: "/og/diet.jpg"
 description: "Diet-Disease Reference is a reference app that allows the five health paradigms of Western Medicine, Ayurveda, Chinese Medicine, Naturopathy, and Homeopathy"
 youtube: M8ztGBQOVDM
-
+mobile: true
 
 req:
   title: Based on the requirements in Book 3, Chapter 3 of the Republic

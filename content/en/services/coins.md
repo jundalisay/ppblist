@@ -5,7 +5,7 @@ wow: "Your Access to the Metaverse"
 description: "XCoins connect Pantrypoints to the Metaverse and facilitates Pantrypoints World"
 youtube: "wKR3-nLxec8"
 image: "/og/easing.jpg"
-
+mobile: true
 
 req:
   title: Based on the requirements of EF Schumacher

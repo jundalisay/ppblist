@@ -4,7 +4,7 @@ wow: "Free Trade System"
 image: /og/world.jpg
 description: "Pantrypoints World is an import-export platform that allows local currency or barter"
 youtube: LsWUjsr0paA
-
+web: true
 
 req:
   title: Based on EF Schumacher's Multilateral Clearing

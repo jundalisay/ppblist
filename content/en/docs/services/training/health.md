@@ -1,11 +1,14 @@
 ---
 title: "Occupational Safety and Health"
 description: "Communication is the transfer of information by conveying intended meaning to another entity through the use of mutually-understood means"
+image: "/photos/yay.jpg"
 date: 2022-01-18T19:58:14+01:00
 lastmod: 2022-01-18T19:58:14+01:00
 images: []  
 toc: true
 ---
+
+<!-- Occupational Health and Safety (OHS) is a cross-disciplinary area concerned with protecting the safety, health and welfare of people engaged in work or employment. Knowing OHS is essential to minimize the hazards and risks not only to students, trainers and other people within the training institution but others who will be affected. -->
 
 
 Occupational safety and health is a discipline with aims to protect every worker against the dangers of injury, sickness or death through safe and healthful working conditions (OSHC-DOLE, 2016).

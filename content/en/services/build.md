@@ -5,7 +5,7 @@ wow: For Micro-Small Businesses
 image: "/og/build.jpg"
 description: We build the online presence -- website, web app, social media, SEO -- for your businesses with minimal money-cost
 youtube: zIrblIJF4Nk
-
+offline: true
 
 
 how:

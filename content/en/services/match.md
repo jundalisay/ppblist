@@ -6,6 +6,8 @@ wow: "Not Just for Matchmaking"
 description: "ISAIAH Match is our personality matching system for education, jobs, products, fake news, and relationships, as a part of a new morality-based socio-economic system"
 image: "/og/match.jpg"
 youtube: 5alMsLDgc00
+mobile: true
+feat: true
 aliases:
   /match 
 

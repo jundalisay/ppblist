@@ -5,7 +5,7 @@ wow: "for Loyalty"
 image: /og/rewards.jpg
 description: "Pantrypreneur Rewards gives incentives to frequent purchases to keep the economy going"
 youtube: 8dUlVl-ApdM
-
+feat: true
 
 # req:
 #   title: Based on the requirements in Book 2, Chapter 3 of the Wealth of Nations

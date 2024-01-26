@@ -5,6 +5,7 @@ title: "Point Cards"
 description: "Pantrypoints Cards are the offline bardit system that combines barter and credit"
 youtube: ZErxZt4V2t4
 image: /og/cards.jpg
+offline: true
 
 
 triconb:

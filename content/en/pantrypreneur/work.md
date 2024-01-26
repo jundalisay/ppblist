@@ -6,7 +6,7 @@ wow: "Your Own Jobs Site"
 description: "Pantrypreneur Work is a jobs site for your own company."
 image: "/og/work.jpg"
 description: "Pantrypreneur Work is a jobs site for your own company. It lets you post jobs and add questions to filter applicants more easily."
-
+feat: true
 
 
 req:

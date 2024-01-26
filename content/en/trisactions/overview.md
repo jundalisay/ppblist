@@ -5,6 +5,7 @@ title: Trisactions
 wow: "A Better Economic System"
 youtube: 6b9R04CgS6w
 weight: 1
+feat: true
 
 
 req:

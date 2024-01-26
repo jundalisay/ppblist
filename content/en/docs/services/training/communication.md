@@ -3,7 +3,7 @@ title: "Communication and Effective Questioning"
 description: "Communication is the transfer of information by conveying intended meaning to another entity through the use of mutually-understood means"
 date: 2022-01-18T19:58:14+01:00
 lastmod: 2022-01-18T19:58:14+01:00
-images: []
+image: "/photos/bedcrop.jpg"
 toc: true
 ---
 
