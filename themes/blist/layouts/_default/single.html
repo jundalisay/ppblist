@@ -108,20 +108,24 @@
 
     <h1 class="text-2xl font-bold">{{ .Title }}</h1>
 
-      <div class="">
+      <!-- <div class=""> -->
           {{ with .Params.contributors }}          
             by 
             {{- range . }}
               {{ . }}
             {{- end }}
           {{- end }}
+
           {{ with .Params.author }}          
               by {{ . }}
+          {{- end }}
+          {{ with .Params.writer }}          
+              by <a href="{{ .link }}">{{ .name }}</a>
           {{- end }}          
           {{ with .Params.icon }}
             <img src="{{ . }}" class="rounded-circle" loading="lazy" style="border-radius: 50%; float: right; height: 30px" alt="Icon">
           {{ end }}
-      </div>
+    
 
 
     {{ if not (or (or .Site.Params.hideMeta .Params.hideMeta) false) }}
