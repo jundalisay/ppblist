@@ -4,7 +4,7 @@ title: "Pantrylitics"
 wow: Analytics for Pantrypoints
 description: "Pantrylitics provides real-time analytics for the Pantrypoints System"
 youtube: KOl-RwPLXxY
-image: "/og/pantrylitics.jpg"
+image: "/graphics/pantrylitics.jpg"
 web: true
 
 

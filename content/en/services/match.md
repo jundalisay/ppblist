@@ -4,7 +4,7 @@ title: "ISAIAH Match"
 wow: "Not Just for Matchmaking"
 # Find the right match. Or just avoid the bad ones"
 description: "ISAIAH Match is our personality matching system for education, jobs, products, fake news, and relationships, as a part of a new morality-based socio-economic system"
-image: "/og/match.jpg"
+image: "/graphics/match.jpg"
 youtube: 5alMsLDgc00
 mobile: true
 feat: true
