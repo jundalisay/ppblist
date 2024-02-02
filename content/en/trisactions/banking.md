@@ -3,7 +3,7 @@ linkTitle: Banking
 title: Pantrypoints Banking
 wow: Bank the Unbanked
 description: Pantrypoints Banking is a low-cost moneyless banking system that circulates the economy unserved by the financial system 
-image: "/og/banking.jpg"
+image: "/graphics/banking.jpg"
 youtube: 6b9R04CgS6w
 feat: true
 
