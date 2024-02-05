@@ -8,8 +8,20 @@ toc: true
 ---
 
 
+1. The training is ..based on competency standards
+2. ..modular in structure
+3. ..individualized and self-paced
+4. ..based on work to be performed
+5. Training materials are related to the competency standards
+6.
+7.
+8.
+9.
+10.
 
-1. The training is based on competency standards.
+
+
+1. The training is based on **competency standards**.
 
 <!-- curriculum developed from the -->
 
@@ -35,7 +47,8 @@ It details:
 
 These are required for training and assessment.
 
-2. Learning is competency-based or modular in structure.
+
+2. Learning is competency-based or **modular in structure**.
 
 1 competency is 1 module.
 - But some competencies may be divided into training modules.
@@ -45,16 +58,18 @@ A qualification is composed of competencies.
 Your trainees should learn one competency after another, until they attain all competencies of the qualification.
 
 
-3. Training delivery is individualized and self-paced.
+
+3. Training delivery is **individualized and self-paced**.
 
 Provide activities to let each trainee advance on his own.
 
  <!-- without waiting for the other trainees in his class to finish. Facilities, resources and materials should also be structured so that trainees could learn competencies at their own pace. -->
 
-4. Training is based on work that must be performed.
+
+4. Training is **based on work** that must be performed.
 
 
-5. Training materials are directly related to the competency standards and the curriculum.
+5. **Training materials** are directly related to the competency standards and the curriculum.
 
 Competency Standards are updated specifications of the qualification.
 
@@ -68,13 +83,15 @@ Your learning materials should attain the assessment criteria in the CBC.
 
 
 
-6. Assessment of learners is based in the collection of evidences of work performance
+6. Assessment of learners is based in the **collection of evidences of work performance**
 
  <!-- based on industry or organizational required standards. -->
 
-7. Training is based on and off the job components and off the job components.
 
-8. The system allows Recognition of Prior Learning (RPL).
+7. Training is based **on and off the job components** and off the job components.
+
+
+8. The system allows **Recognition of Prior Learning** (RPL).
 
 <!-- CBT focuses on the competencies that are not yet acquired by the trainee in any learning situation.  -->
 
@@ -82,11 +99,15 @@ Competencies acquired as a result of previous training, employment and life expe
 
 You should identify these prior learning and plan the training of each trainee based on this data.
 
-9. The learner can enter and exit programs at different times and levels and to receive an award for competencies attained at any point.
 
-10. Approved training programs are nationally accredited.
+9. The learner can **enter and exit programs at different times and levels** and to receive an award for competencies attained at any point.
+
+
+10. Approved training programs are **nationally accredited**.
 
 Any program offered in TVET should be registered with the Unified TVET Program Registration and Accreditation System (UTPRAS). This covers the following:
+
+
 
 ### Program Registration
 
