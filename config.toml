@@ -161,18 +161,18 @@ paginate = 12
     [languages.en.params.tricon3.items.a]
       img = "/flags/ph.png"
       title = "Las Pinas"
+    # [languages.en.params.tricon3.items.b]
+    #   img = "/flags/.png"
+    #   title = "San Pedro Laguna"
     [languages.en.params.tricon3.items.b]
-      img = "/flags/ph.png"
-      title = "San Pedro Laguna"
+      img = "/flags/vn.png"
+      title = "Ho Chi Minh"
+    # [languages.en.params.tricon3.items.d]
+    #   img = "/flags/vn.png"
+    #   title = "Hanoi (coming soon)"
     [languages.en.params.tricon3.items.c]
-      img = "/flags/vn.png"
-      title = "Ho Chi Minh (coming soon)"
-    [languages.en.params.tricon3.items.d]
-      img = "/flags/vn.png"
-      title = "Hanoi (coming soon)"
-    [languages.en.params.tricon3.items.e]
-      img = "/flags/my.png"
-      title = "Kuala Lumpur (coming soon)"
+      img = "/flags/pk.jpg"
+      title = "Peshawar"
 
     [languages.en.params.inca]
       title = "Originally Built by the Inca"
