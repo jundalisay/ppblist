@@ -121,7 +121,7 @@ Element | Documents and Forms Needed
 Conduct National Assessment? | <li>Assessor's ID</li><li>Letter of Appointment</li><li>Filled-out Application Form with Admission Slip</li><li>Filled-out Self-Assessment Guide</li><li>Attendance Sheet</li><li>Written Test</li><li>Answer Key</li><li>Evidence Plan</li><li>Specific Instruction for the Candidate</li><li>National Assessment Tools<ul><li>Rating Sheet for Demonstration</li><li>Questioning Tools</li><li>Acceptable Answers</li></ul></li><li>Competency Assessment Results Summary (CARS)</li>
 
 
-Note:  Please fill out and accomplish  the  forms or National Assessment Tools for COC2  to be used during the COC2 Demonstration as Assessor. 
+Note:  Please fill out and accomplish the forms or National Assessment Tools for COC2 to be used during the COC2 Demonstration as Assessor. 
 
 
 
