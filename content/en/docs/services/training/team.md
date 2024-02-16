@@ -1,6 +1,6 @@
 ---
-title: "Teans"
-description: "Communication is the transfer of information by conveying intended meaning to another entity through the use of mutually-understood means"
+title: "Teams"
+description: "Teamwork is the key factor that makes human work together to achieve common goals."
 image: "/photos/yay.jpg"
 date: 2022-01-18T19:58:14+01:00
 lastmod: 2022-01-18T19:58:14+01:00
@@ -16,8 +16,8 @@ toc: true
 Teamwork is the key factor that makes human work together to achieve common goals.
 
 
-Q contribute to the effectiveness of a team?
-A team goals linked to organizational goals
+Q: contribute to the effectiveness of a team?
+A: team goals linked to organizational goals
 
 
  <!-- Developing teamwork is vital to any organization because of the scope of work performed on a daily basis. -->
@@ -134,15 +134,14 @@ Plants are innovative members of the team. They come up with original approaches
 
 Groups go through a set of predictable stages of development. In 1965, Bruce Tuckman, who carried out research on group dynamics, identified the four stages (see Fig. 2a) as forming (getting to know each other); storming (initial confrontation as group members identify their differences); norming (coming together to work for the benefit of the team); and performing (working well together with a process to deal with any differences of opinion and reassessing to look for opportunities for improvement)
 
-Team development
+
+## Team development
 
 Teams don't just form and immediately start working together to accomplish great things. It undergoes stages of team growth; and teams must be given time to work through the stages and become effective.
 
-
-### Stage 1: Forming.
+### Stage 1: Forming
 
 When a team is forming, members cautiously explore the boundaries of acceptable group behavior. They search for their position within the group and test the leader's guidance. It is normal for little team progress to occur during this stage.
-
 
 ### Stage 2: Storming.
 
