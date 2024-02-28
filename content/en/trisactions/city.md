@@ -5,6 +5,8 @@ description: "Pantrypoints City is the platform for hyperlocal trisactions in th
 image: "/graphics/city.jpg"
 youtube: GVkVoJzLn2g
 feat: true
+aliases:
+  /city
 
 
 req:
