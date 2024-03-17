@@ -9,15 +9,15 @@ toc: true
 
 
 
-Communication is the transfer of information by conveying intended meaning to another entity through the use of mutually-understood means.  
+Communication is the transfer of information.
+
+ <!-- by conveying intended meaning to another entity through the use of mutually-understood means.   -->
 
 
-## The Osgood Schramm Model of Communication
+## 4 principles of Osgood Schramm Model of Communication
 
-The Osgood Schramm model of communication has 4 principles:
-
-1. Communication is circular not linear
-2. Communication is usually equal and reciprocal
+1. Circular Communication not linear
+2. Equal and reciprocal Communication
 3. Messages require interpretation
 4. 3 steps for communicating: encoding, decoding and interpreting. 
 

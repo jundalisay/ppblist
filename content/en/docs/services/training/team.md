@@ -1,5 +1,5 @@
 ---
-title: "Teans"
+title: "Teams"
 description: "Communication is the transfer of information by conveying intended meaning to another entity through the use of mutually-understood means"
 image: "/photos/yay.jpg"
 date: 2022-01-18T19:58:14+01:00

@@ -18,7 +18,12 @@ TESDA shall implement a certification and accreditation program in which private
  <!-- to conduct approved trade tests, and the local government units to promote such trade testing activities in their respective areas in accordance with the guidelines to be set by the Authority -->
 
 
-### Training Regulations
+## Training Regulations
+
+These are the rules that testing centers and courses must abide by. 
+
+element
+
 
 The Training Regulation (TR) is the document basis of competency assessment and curriculum development for competency-based technical education and skills development (TESD).
 
