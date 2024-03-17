@@ -23,7 +23,7 @@ triconb:
       img: /icons/android.png    
     - title: DevOps
       title: AWS, GCP, Fly.io, Gigalixir
-      img: /icons/aws.jpg    
+      img: /icons/gcloud.png    
     - title: "Machine Learning"
       img: /icons/ai.png
     - sub: "Coming Soon"

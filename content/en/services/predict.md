@@ -4,7 +4,7 @@ title: "ISAIAH Predict"
 # Know your nation
 description: "ISAIAH Predict is the social prediction tool of Pantrypoints System that uses Supersociology"
 youtube: "5vmCe8w3UEg"
-image: "/og/predict.jpg"
+image: "/graphics/predict.jpg"
 web: true
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Pantrypoints Circle"
 wow: "The Circular Economy"
-image: "/og/circle.jpg"
+image: "/graphics/circle.jpg"
 description: "Pantrypoints Circle implements Urban Subsistence Farming and Food Rescue in order to realize the circular economy"
 youtube: HFqltUWhzfE
 mobile: true

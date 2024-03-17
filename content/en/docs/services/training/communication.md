@@ -272,9 +272,9 @@ are bothered by differing opinions or disagreements because these are considered
 
 While human is considered the most important asset of any organization, teamwork is inevitably the key factor that makes human work together to achieve common goals.  Developing teamwork is vital to any organization because of the scope of work performed on a daily basis.
 
-     Teamwork is the effort of group of people with complementary skills who are committed to a common purpose and hold themselves mutually accountable for its achievement. Ideally, the team develops a distinct identity and work together in a co-ordinated and mutually supportive way to fulfil their goal or purpose. Task effectiveness is the extent to which the team is successful in achieving its task-related objectives. Shared goals are most likely to be achieved through working together and pooling experience and expertise.
+Teamwork is the effort of group of people with complementary skills who are committed to a common purpose and hold themselves mutually accountable for its achievement. Ideally, the team develops a distinct identity and work together in a co-ordinated and mutually supportive way to fulfil their goal or purpose. Task effectiveness is the extent to which the team is successful in achieving its task-related objectives. Shared goals are most likely to be achieved through working together and pooling experience and expertise.
 
-     Each team member is hired to perform a certain skill set, which contributes to a single department, and the department functions interact with the operations of other departments to provide quality service.  In contrast with a group that shares a common profile, a team is a small number of people with complementary skills who are committed to a common purpose, set of performance goals, and approach for which they hold themselves mutually accountable (see Tab. 2-1a)
+Each team member is hired to perform a certain skill set, which contributes to a single department, and the department functions interact with the operations of other departments to provide quality service.  In contrast with a group that shares a common profile, a team is a small number of people with complementary skills who are committed to a common purpose, set of performance goals, and approach for which they hold themselves mutually accountable (see Tab. 2-1a)
 
 Table 2-1a. Difference Between a Group and a Team 
 
@@ -300,7 +300,7 @@ are bothered by differing opinions or disagreements because these are considered
 Team Member Roles
 Types of Team in the Organizational Workplace
 
-     All workplace teams have the common element of people working together cooperatively and members possessing a mix of skills.
+All workplace teams have the common element of people working together cooperatively and members possessing a mix of skills.
 
 1. Self-Managing Work Teams
 

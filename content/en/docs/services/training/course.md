@@ -32,10 +32,6 @@ Trainer's Qualification | Assemssement Method
 Units of competency and the corresponding module titles; Students entry requirements; Resources; Training delivery and assessment strategies; and Trainer's qualifications. 
 
 
-
-
-
-
 ## COURSE DESIGN FORMAT 
 
 Course Title/ Qualification Level a name rising out of thequalification and NC level in the PTTQF Example: Computer Systems Servicing NC II Nominal Duration - the approximate length of time the course will be finished. Example: 240 hours Course Description - statement on the coverage of the course, its relevance in the industry sector, and the possible occupations thetrainee will have after completion. 

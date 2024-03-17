@@ -3,7 +3,7 @@ title: "Ten Principles of CBT"
 description: "Communication is the transfer of information by conveying intended meaning to another entity through the use of mutually-understood means"
 date: 2022-01-18T19:58:14+01:00
 lastmod: 2022-01-18T19:58:14+01:00
-image: "/photos/freelance.jpg"
+image: "/photos/bedcrop.jpg"
 toc: true
 ---
 
@@ -140,8 +140,6 @@ This is stated in terms of outcome. This aims to:
 1. Unit Title
 
 - Defines the area of competency
-- 
-
 
  Each unit is a building block of the competency standard specifying the elements, performance criteria, range of variable and evidence guide.
 
@@ -151,8 +149,7 @@ This is stated in terms of outcome. This aims to:
 Basic Competency Is a work competency that is classified as non-technical skills but is very necessary in the successful performance of any
 work since it is manifested by core behaviors and abilities that determine the effective and efficient outcome of work.
 
-These competencies forms part of the competency standards and their degree of application could vary depending on the
-work role2
+These competencies forms part of the competency standards and their degree of application could vary depending on the work role2
 
 . A basic competency is a competency used across all trade or occupational areas.
 

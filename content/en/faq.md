@@ -197,8 +197,10 @@ Who maintains these apps?
 {{< /r >}}
 
 
+ <!-- ~~We will register a real company in Q4 2022 or Q1 2023 depending on the commitments that we get.~~ We piggyback on an NGO to help us implement them. -->
+
 {{< l a="Pantrypoints" >}}
-We have a volunteers who test and contribute to maintain them. So please don't expect them to be bug-free yet. ~~We will register a real company in Q4 2022 or Q1 2023 depending on the commitments that we get.~~ We piggyback on an NGO to help us implement them.
+We have a volunteers who test and contribute to maintain them. So please don't expect them to be bug-free yet.
 
 We predicted that [a global stagflation by 2020](https://superphysics.org/social/supersociology/precrisis-years) would make people interested in our solution sooner or later.
 

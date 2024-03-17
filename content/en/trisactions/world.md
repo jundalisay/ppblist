@@ -1,7 +1,7 @@
 ---
 title: "Pantrypoints World"
 wow: "Free Trade System"
-image: /og/world.jpg
+image: /graphics/world.jpg
 description: "Pantrypoints World is an import-export platform that allows local currency or barter"
 youtube: LsWUjsr0paA
 web: true

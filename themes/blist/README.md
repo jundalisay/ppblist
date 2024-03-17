@@ -12,7 +12,9 @@ Gravity is the attraction of like vibrations
     field :user_id, :id
 
 
+              by <a href="{{ .link }}">{{ .name }}</a>
 
+              
 Translate to Spanish, French, German, Hindi, Japanese
 What is your role? Pantrypoints is for everyone.
 I'm a micro-small business owner. I need online presence as a website, web app, mobile app, or social media.
