@@ -187,6 +187,10 @@ paginate = 12
     [languages.en.params.inca.items.b]
       img = "photos/quipu.jpg"
       title = "We implement the Quipu as points, thus Pantrypoints"
+    [languages.en.params.inca.items.c]
+      img = "photos/quipu.jpg"
+      title = "We implement the Quipu as points, thus Pantrypoints"
+
 
     [languages.en.params.how]
       title = "How it Works"

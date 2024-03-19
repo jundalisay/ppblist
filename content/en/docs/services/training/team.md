@@ -1,5 +1,5 @@
 ---
-title: "Teams
+title: "Teams"
 description: "Teamwork is the key factor that makes human work together to achieve common goals."
 image: "/photos/yay.jpg"
 date: 2022-01-18T19:58:14+01:00
