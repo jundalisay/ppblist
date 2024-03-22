@@ -1,6 +1,6 @@
 ---
-title: "Script On The Conduct Of Competency Assessment"
-description: "Communication is the transfer of information by conveying intended meaning to another entity through the use of mutually-understood means"
+title: "Script On The Conduct Of Competency Assessment (COC2)"
+description: "Establish The Context And Purpose Of Assessment"
 date: 2022-01-18T19:58:14+01:00
 lastmod: 2022-01-18T19:58:14+01:00
 image: "/photos/bedcrop.jpg"

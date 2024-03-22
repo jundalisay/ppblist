@@ -1,6 +1,5 @@
 ---
 title: "Pantrypreneur Farm Overview"
-linkTitle: Overview
 description: "Pantrypreneur Farm is a farm administration app that implements Maximized Farming"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00

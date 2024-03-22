@@ -1,15 +1,12 @@
 ---
 title: "Observation"
-description: "Observation"
+description: "Observation is actual evidence gathering"
 image: "/photos/yay.jpg"
 date: 2022-01-18T19:58:14+01:00
 lastmod: 2022-01-18T19:58:14+01:00
 images: []
 toc: true
 ---
-
-
-Maintenance is an excellent means of improving the performance and condition of equipment and facilities. An effective maintenance program identified problems long before any equipment or facility breaks down or deteriorate.
 
 
 Observation 

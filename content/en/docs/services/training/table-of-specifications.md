@@ -4,9 +4,6 @@ description: "Table of Specifications uses Bloom's Taxonomy"
 date: 2022-01-18T19:58:14+01:00
 lastmod: 2022-01-18T19:58:14+01:00
 image: "/photos/yay.jpg"
-menu:
-  docs:
-    parent: "pilot"    
 toc: true
 ---
 
