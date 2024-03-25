@@ -141,21 +141,19 @@ This is stated in terms of outcome. This aims to:
 
 - Defines the area of competency
 
- Each unit is a building block of the competency standard specifying the elements, performance criteria, range of variable and evidence guide.
+Each unit is a building block of the competency standard specifying the elements, performance criteria, range of variable and evidence guide.
 
 
-. The Competency Standard contains the following components and descriptions:
+The Competency Standard contains the following components and descriptions:
 
 Basic Competency Is a work competency that is classified as non-technical skills but is very necessary in the successful performance of any
 work since it is manifested by core behaviors and abilities that determine the effective and efficient outcome of work.
 
 These competencies forms part of the competency standards and their degree of application could vary depending on the work role2
 
-. A basic competency is a competency used across all trade or occupational areas.
+A basic competency is a competency used across all trade or occupational areas.
 
-Common Competency Is a work competency common to one trade or occupational areas. A common competency can be either technical or
-non-technical knowledge, skills and attitude but is very necessary in the successful performance of any work since it
-is manifested by core behaviors and abilities that determine the effective and efficient outcome of work Core Competency The core technical knowledge, skills and attitude that a person must possess in order to perform a job effectively with respect to expected outcome at an acceptable time and degree of quality. 
+Common Competency Is a work competency common to one trade or occupational areas. A common competency can be either technical or non-technical knowledge, skills and attitude but is very necessary in the successful performance of any work since it is manifested by core behaviors and abilities that determine the effective and efficient outcome of work Core Competency The core technical knowledge, skills and attitude that a person must possess in order to perform a job effectively with respect to expected outcome at an acceptable time and degree of quality. 
 
 Core competencies are described and linked to industry-based competency standards and they play a different role in the overall way a person applies their skills and knowledge in work or other roles3
 

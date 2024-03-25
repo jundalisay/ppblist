@@ -9,6 +9,7 @@ menu:
     identifier: "shop-overview"
     parent: "shop"    
 toc: true
+draft: true
 ---
 
 

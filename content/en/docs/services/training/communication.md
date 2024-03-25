@@ -376,8 +376,6 @@ a. Monitor-Evaluator
 
 
 
-
-Stages of Team Growth
 Stages of Team Growth
 
      Groups go through a set of predictable stages of development. In 1965, Bruce Tuckman, who carried out research on group dynamics, identified the four stages (see Fig. 2a) as forming (getting to know each other); storming (initial confrontation as group members identify their differences); norming (coming together to work for the benefit of the team); and performing (working well together with a process to deal with any differences of opinion and reassessing to look for opportunities for improvement)

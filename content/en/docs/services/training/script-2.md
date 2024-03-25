@@ -90,12 +90,13 @@ Salient Point | Script
 9 Issuance Of E-NC II/III | We only have two results of the assessment: COMPETENT and NYC or NOT YET COMPETENT. If you are found competent, you may check your email address for  your   E -National Certificate within 2-3 days.
 10 Reassessment Procedure | If not yet competent- (NYC), you can be reassessed anytime at your own convenience. <!-- “In case the reassessment is full qualification you have to undergo the whole assessment process.” --> If found competent in some unit of competencies the reassessment will just focused on the unit of competencies that you are found to be t“NOT YET COMPETENT. IF you fail 2 consecutive assessment, you are advised to take a refresher course before applying for reassessment.
 11 Right To Appeal Process | If after your result is announced and you are unhappy with your assessment result or you feel that there is something wrong with the assessment process that leads you to an undesirable outcome, we have an Appeal Process wherein you can write an appeal letter to the assessment Center Manager and submit it before the assessment ends.” Right to Appeal process is only valid within 24 hours,  If it goes beyond the time, definitely it is no longer valid. 
- 
+
+<!-- 
 IS EVERYTING CLEAR? 
 
 BREAKTIME  (optional)
 
-If you want to pee or poo, you may do so now or  so we can start the assessment 
+If you want to pee or poo, you may do so now or  so we can start the assessment  -->
 
 <!-- There are 4 CORE COMPETENCIES as UC:”
 

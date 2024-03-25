@@ -32,11 +32,6 @@ Schemas are used to map external data into Elixir structs.  We often use them to
 
 
 
-
-
-
-
-
 ## get_by/3
 
 `get_by(query, clauses, options)`

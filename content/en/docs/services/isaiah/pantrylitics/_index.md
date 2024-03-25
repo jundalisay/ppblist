@@ -9,6 +9,7 @@ menu:
   docs:
     identifier: "analytics"
 toc: true
+draft: true
 ---
 
 

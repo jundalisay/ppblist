@@ -1,13 +1,14 @@
 ---
-title: "Pantrypoints City Overview"
-description: "Pantrypoints City is the base platform for Health, Govern, Circle, Invest"
+title: "City"
+description: "Pantrypoints City"
+# lead: "Pantry Circle is designed for food rescue and plastic waste recycling"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
-images: []
+image: "/og/city.jpg"
 menu:
   docs:
-    parent: "city"
-weight: 1
+    parent: "circle"
+weight: 130
 toc: true
 ---
 

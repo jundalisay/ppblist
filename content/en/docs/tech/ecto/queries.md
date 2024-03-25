@@ -8,17 +8,17 @@ weight: 12
 ---
 
 
-# Repo
+## Repo
 
 Repo has a limited number of queries. 
 
-## Return a single record, and raise an error if more than one record is returned
+### Return a single record, and raise an error if more than one record is returned
 
 ``` elixir
 Repo.one
 ```
 
-## Check for existence
+### Check for existence
 
 ``` elixir
 Repo.exists?
@@ -27,13 +27,13 @@ Repo.exists?
 
 
 
-## Get the length of an model
+### Get the length of an model
 
 ``` elixir
 length(@posts)
 ```
 
-## Get the count 
+### Get the count 
 
 ``` elixir
 Repo.one(from p in Post, select: count("*"))
@@ -43,9 +43,9 @@ Repo.aggregate(Post, :count, :id)
 
 
 
-## Get by something
+### Get by something
 
-### Get a record by id
+#### Get a record by id
 
 
 Pipe
@@ -63,7 +63,7 @@ Repo.get!(User, 1)
 ```
 
 
-### Get first or last record
+#### Get first or last record
 
 Pipe 
 
@@ -80,7 +80,7 @@ first(User)
 ```
 
 
-### Get a single record by a single attribute
+#### Get a single record by a single attribute
 
 
 Pipe 
@@ -96,11 +96,7 @@ Repo.get_by!(User, first_name: "John") # error if more than 1 record
 ```
 
 
-# 
-
----
-
-# Ecto Queries
+## Ecto Queries
 
 This is needed for more complex queries that involve `where` `select` `order_by` etc. 
 - Keyword queries follow the pattern `from` `where` `select`

@@ -4,7 +4,6 @@ image: "/photos/yay.jpg"
 description: "Session [Lesson] Plan is a simply stated, clearly written and flexible trainer aid for conducting a session or module"
 date: 2022-01-18T19:58:14+01:00
 lastmod: 2022-01-18T19:58:14+01:00
-images: []
 toc: true
 ---
 

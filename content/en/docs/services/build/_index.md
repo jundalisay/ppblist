@@ -8,4 +8,5 @@ image: "/og/build.jpg"
 menu:
   docs:
     identifier: "shop"
+draft: true    
 ---

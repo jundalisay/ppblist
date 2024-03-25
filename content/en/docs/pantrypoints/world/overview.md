@@ -4,7 +4,7 @@ description: "Pantrypoints World is a free trade system that will facilitate pre
 # lead: "Pantrypoints World is a free trade system that will facilitate prepaid trade financing for imports and exports"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
-images: []
+image: "/og/world.jpg"
 menu:
   docs:
     parent: "hub"
@@ -30,7 +30,8 @@ HS models | Items
 Orgs | Users
 
 
-
+<!-- 
 ## Changelog
 
+- Changed  -->
 

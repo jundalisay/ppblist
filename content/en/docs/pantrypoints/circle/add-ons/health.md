@@ -1,14 +1,13 @@
 ---
 title: "Health"
 description: "Pantrypoints Health is an add-on for Health Products and Services"
-# lead: "Pantrypoints Health is an add-on to Pantry Hub"
 # lead: "Pantry Health is designed for clinics and medical practicioners"
 date: 2022-07-30T15:21:01+02:00
 lastmod: 2022-07-30T15:21:01+02:00
-images: []
+image: "/og/diet.jpg"
 menu:
   docs:
-    parent: "health"
+    parent: "circle"
 weight: 130
 toc: true
 ---

@@ -86,5 +86,7 @@ Facilitate application of knowledge to new contexts.
 Gagné's theory remains highly influential because:
 
 Structured Approach: It provides a systematic, step-by-step process to design instruction.
+
 Focus on Learning Outcomes: It emphasizes the importance of defining what you want learners to be able to do.
+
 Adaptability: Though structured, the theory remains adaptable to various instructional settings and types of learning objectives -->

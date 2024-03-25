@@ -34,7 +34,7 @@ The ADDIE model has 5 phases:
 
 5. Evaluation - make sure the materials achieved the desired goals 
 
-
+<!-- 
 Design and Conduct Summative Evaluation 
 
 Analysis of CS establishes:
@@ -63,9 +63,11 @@ The most potent motivation for adult learners are internalpressures (self esteem
 Learner Orientation Adults will learn only what they feel they need tolearn Adults must feel the things they are learning are relevant and willbe useful. So make the links to the work they are doing or could be doing inthe futureby: • Including examples and case studies on how others have usedthe knowledge orskills CBLMs onTrainers Methodology LevelI PlanningTraining Sessions Date Developed: July 2010 Date Revised: March 2012 DocumentNo. Issuedby: NTTA Page 79 of251 Developed by: Redilyn C. Agub Revision # 01
 • Provideopportunitiesforthelearnertocontroltheirlearning environment • Using a problem – solutionapproach Adults are task centered or problem centered in their orientationto learning. So make sure you look at issues, and how to work throughthem, and keep ontrack. You need to lead them to discover their own solutions for issues,not tell them what to do. Encourage your learners to work together, todiscuss, debate and share ideas andinformation. Experience Adults learn by comparing past experience with newexperience Adults bring to a wealth ofexperience and knowledge intotheir learning activities. When they learn something new most check how thisfits in or is different from what they alreadyknow. In developing and using learning materials we should devise wayto tap into this knowledge and to provide frameworks or models that assistthe learner to establish relationships between whatthey know andthenew knowledge orskill. Sharing of personal experiences or stories is one waythiscanbe achieved. Orientation toLearning Adults need immediate feedback concerning theirprogress We need to provide opportunities for learners to track their progress andto get constructive feedback on their learning. Providing selfassessment questionnaires or check lists and quizzes are useful techniques forlearners to track their progress. Make sure answers are readilyavailable. Orientation toLearning Adults want their learning to bepractical Adult interest in learning surges when we can provide exercisesthat provide the experience of applying a new concept or skillto a ‘reallife’ situation. Try to provide opportunitiesfor learners to link their learningwith people, issues or activities in theirlives.
 
+ -->
 
 
 1. Gain attention of the students
+
 Ensure the learners are ready to learn and participate in activities by presenting a stimulus to capture their attention.
 
 These are a few methods for capturing learners’ attention:
@@ -120,17 +122,23 @@ Provide instructional support as needed – i.e. scaffolding that can be removed
 Model varied learning strategies – e.g. mnemonics, concept mapping, role playing, visualizing
 Use examples and non-examples – examples help students see what to do, while non-examples help students see what not to do
 Provide case studies, visual images, analogies, and metaphors – Case studies provide real world application, visual images assist in making visual associations, and analogies and metaphors use familiar content to help students connect with new concepts
-
 … help students learn how to learn
+
 6. Elicit performance (practice)
+
 Have students apply what they have learned to reinforce new skills and knowledge and to confirm correct understanding of course concepts.
 
 Here are a few ways to activate learner processing:
 
 Facilitate student activities – e.g. ask deep-learning questions, have students collaborate with their peers, facilitate practical laboratory exercises
+
 Provide formative assessment opportunities – e.g. written assignments, individual or group projects, presentations
+
 Design effective quizzes and tests – i.e. test students in ways that allow them to demonstrate their comprehension and application of course concepts (as opposed to simply memorization and recall)
+
+
 7. Provide feedback
+
 Provide timely feedback of students’ performance to assess and facilitate learning and to allow students to identify gaps in understanding before it is too late.
 
 The following are some types of feedback you may provide to students:
@@ -141,8 +149,11 @@ Remedial feedback directs students to find the correct answer but does not provi
 Descriptive or analytic feedback provides the student with suggestions, directives, and information to help them improve their performance.
 Peer-evaluation and self-evaluation help learners identify learning gaps and performance shortcomings in their own and peers’ work.
 
+
 Provide timely feedback of students’ performance to assess and facilitate learning and to allow students to identify gaps in understanding…
+
 8. Assess performance
+
 Test whether the expected learning outcomes have been achieved on previously stated course objectives.
 
 Some methods for testing learning include the following:
@@ -153,7 +164,9 @@ Implement a variety of assessment methods to provide students with multiple oppo
 Craft objective, effective rubrics to assess written assignments, projects, or presentations
 
 Implement a variety of assessment methods to provide students with multiple opportunities to demonstrate proficiency.
+
 9. Enhance retention and transfer
+
 Help learners retain more information by providing them opportunities to connect course concepts to potential real-world applications.
 
 The following are methods to help learners internalize new knowledge:
@@ -165,11 +178,7 @@ To promote deep learning, clearly articulate your lesson goals, use your specifi
 
 
 
-Training Delivery Modes
-
-
-
-
+## Training Delivery Modes
 
 The following Training Activity Matrix is recommended to schedule and monitor the use of the facilities and resources. This Training Activity Matrix should work hand in hand with your session plan. The session plan    is a plan for the whole qualification and for trainees with different learning styles while the training activity matrix is a daily plan which will show the activities of each trainee.
 

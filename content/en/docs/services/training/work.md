@@ -3,8 +3,7 @@ title: "Work-Based Training"
 description: "Work-Based Training"
 image: "/photos/yay.jpg"
 date: 2022-01-18T19:58:14+01:00
-lastmod: 2022-01-18T19:58:14+01:00
-images: []
+lastmod: 2022-01-18T19:58:14+01:0
 toc: true
 ---
 
@@ -19,7 +18,7 @@ If the work-based training shall be conducted within the training center, then i
 
 Note that trainers must identify from the list what are the required tools, equipment and materials; and facilities that the trainees would use to attain the required competency/ies based on the training plan. The trainer should also check with the person concerned the availability of these resources before starting the training.
 
-SAMPLE OF THE LIST FOR PLUMBING NC I
+<!-- SAMPLE OF THE LIST FOR PLUMBING NC I -->
 
 
 
@@ -27,7 +26,8 @@ Monitoring is the routine assessment of ongoing activities and progress. It is t
 
 It is the primary role of the trainer to monitor the training. This is to ensure that trainees would attain the required competency at the end of the training program for them to be ready for the assessment.
 
-Training Plan
+## Training Plan
+
 The training plan is the basis of the training of individual trainee. The industry supervisor should have a copy of this plan which shall serve as a reminder of individual trainee activities in the industry.
 
 Always remember that work-based training should also be self-paced and individualized. Each trainee may have a different training plan from each other as a result of your activity in determining training needs. Work-based training should always be based on the training needs of individual trainee.
@@ -76,10 +76,10 @@ WBT Eval tools
 - Eval Trainee's Progress Report
 - Feedback from Trainee 
 
-Fill up eval as there are points
+Fill up eval as there are points.
 
 
-Institutional Assessment
+<!-- Institutional Assessment
 COC1 30 mins
 COC2 
 1 hr per participant 
@@ -99,5 +99,5 @@ COC2
 
 National Assessment
 
-
+ -->
 

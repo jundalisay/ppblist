@@ -1,16 +1,16 @@
 ---
-title: "Circle"
-description: "Pantrypoints Circle is designed for social action, such as food rescue and plastic waste recycling"
-# lead: "Pantry Circle is designed for food rescue and plastic waste recycling"
+title: "Pantrypoints Circle Overview"
+description: "Pantrypoints Circle is the base platform for Health, Govern, Circle, Invest"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
-images: []
+image: "/og/circle.jpg"
 menu:
   docs:
     parent: "circle"
-weight: 130
+weight: 1
 toc: true
 ---
+
 
 
 Pantrypoints Circle is an add-on to Pantrypoints City to facilitate a circular economy. Food and agriculture are important aspects of Circle.

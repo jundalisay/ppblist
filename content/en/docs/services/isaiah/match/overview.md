@@ -3,7 +3,7 @@ title: "Match Overview"
 description: "Match is matching system for Pantrypoints"
 date: 2022-01-18T19:58:14+01:00
 lastmod: 2022-01-18T19:58:14+01:00
-image: "/og/match.jpg"
+image: "/graphics/match.jpg"
 menu:
   docs:
     parent: "match"    
@@ -28,7 +28,7 @@ Marriage | Long-term married couples
 Health | Common Diseases
 Career Profiler | Successful Professionals 
 
----
+<!-- ---
 
 ## Models
-
+ -->

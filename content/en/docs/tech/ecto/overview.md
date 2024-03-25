@@ -8,7 +8,7 @@ weight: 2
 ---
 
 
-# Ecto
+## Ecto
 
 Handles external data such as databases and JSON APIs
 
@@ -17,7 +17,7 @@ Handles external data such as databases and JSON APIs
 - Schema
 - Changset
 
-## Repo: communicates with external data source or database
+### Repo: communicates with external data source or database
 
 Has common methods:
 - get(): gets the record

@@ -4,7 +4,7 @@ description: "Pantrypoints Diet-Disease Reference is a Food and Disease Referenc
 # lead: "Pantrypoints Nation is a free trade system that will facilitate prepaid trade financing for long distance purchases"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
-images: []
+image: "/graphics/diet.jpg"
 menu:
   docs:
     parent: "pantrypoints"
@@ -13,7 +13,9 @@ toc: true
 ---
 
 
-Pantrypoints Diet-Disease Suggest is a Food and Disease Reference app that suggests the healing food for common diseases. It aims to promote a Planetary Health Diet for the well-being of humans and the environment
+Pantrypoints Diet-Disease Suggest is a Food and Disease Reference app that suggests the healing food for common diseases. It aims to promote a Planetary Health Diet for the well-being of humans and the environment.
+
+It connects to Pantrypoints via Pantrypoints Health.  
 
 
 Type | Description 

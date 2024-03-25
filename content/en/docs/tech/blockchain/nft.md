@@ -30,14 +30,10 @@ NFT has:
 - Token ID
 
 
-Wallet
-
-app that acts like a local database for keys and interact with the blockchain 
+Wallet is an app that acts like a local database for keys and interact with the blockchain 
 
 
-DeFi
-
-Evolution of fintech that uses blockchain and eliminates 3rd party intermediaries. 
+DeFi is an evolution of fintech that uses blockchain and eliminates 3rd party intermediaries. 
 
 Interest rates are based on Yield Farming via Automatic Market Makers through liquidity pool and asset swapping. 
 
@@ -49,14 +45,10 @@ NFT is made divisible by tokenization through liquidity pools
 Transaction = Sender + Recipient + Payload + Gas + Signatures
 
 
-
-Layer 2 Protocols
-
-Additional layer that acts as a private network to make Ethereum transactions cheaper. 
+Layer 2 Protocols is an additional layer that acts as a private network to make Ethereum transactions cheaper. 
 
 
-
-Hyperledger Fabric does not use crypto. Create NFT then transfer it. 
+Hyperledger Fabric does not use crypto. It can create NFT then transfer it. 
 
 Smart contracts are called chaincode in Hyperledger
 

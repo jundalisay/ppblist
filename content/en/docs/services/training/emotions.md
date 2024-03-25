@@ -1,6 +1,6 @@
 ---
 title: "Emotions and Feelings"
-description: "Communication is the transfer of information by conveying intended meaning to another entity through the use of mutually-understood means"
+description: "Emotions are instinctive and neurological reactions to a stimulus, creating biochemical and electrical reactions activated through neuro-transmitters and hormones released by the brain (e.g., frightened by a sudden loud noise)."
 date: 2022-01-18T19:58:14+01:00
 lastmod: 2022-01-18T19:58:14+01:00
 image: "/photos/yay.jpg"

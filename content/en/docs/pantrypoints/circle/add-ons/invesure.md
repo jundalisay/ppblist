@@ -3,13 +3,15 @@ title: "Invesure"
 description: "Pantrypoints Invesure combines Points-Insurance and Points-Investments"
 date: 2023-06-02T15:21:01+02:00
 lastmod: 2023-06-02T15:21:01+02:00
-images: []
+image: "/og/invesure.jpg"
 menu:
   docs:
-    parent: "city"
-weight: 1
+    parent: "circle"
+weight: 19
 toc: true
+draft: true
 ---
+
 
 
 ## Intent

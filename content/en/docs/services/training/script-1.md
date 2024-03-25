@@ -7,6 +7,7 @@ image: "/photos/freelance.jpg"
 toc: true
 ---
 
+
 ## Before Assessment: Establish The Context And Purpose Of Assessment + Do The Evidence Gathering Process
 
 Script | What To Do | Document/S Needed

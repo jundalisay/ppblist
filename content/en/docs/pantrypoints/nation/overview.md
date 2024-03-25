@@ -4,12 +4,13 @@ description: "Pantrypoints Nation is a free trade system that will facilitate pr
 lead: "Pantrypoints Nation is a free trade system that will facilitate prepaid trade financing for long distance purchases"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
-images: []
+image: "/og/pantrypoints.jpg"
 menu:
   docs:
     parent: "nation"
 weight: 1
 toc: true
+draft: true
 ---
 
 

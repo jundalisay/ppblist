@@ -3,8 +3,7 @@ title: "Learners Learning Objective"
 description: "Communication is the transfer of information by conveying intended meaning to another entity through the use of mutually-understood means"
 image: "/photos/yay.jpg"
 date: 2022-01-18T19:58:14+01:00
-lastmod: 2022-01-18T19:58:14+01:00
-images: []
+lastmod: 2022-01-18T19:58:14+01:0
 toc: true
 ---
 
@@ -38,7 +37,7 @@ b. The solutions are frequently applicable across different topics. c.Not all is
 d. By altering some simple components of training, issues can be resolved; e.g. language issues - having assessment in the local language rather than in English.
 
 
-TRAINEE’S CHARACTERISTICS TO BE CONSIDERED WHEN PLANNING A TRAINING SESSION 
+## TRAINEE’S CHARACTERISTICS TO BE CONSIDERED WHEN PLANNING A TRAINING SESSION 
 
 Characteristicsof trainees What does this mean to the plan? Language,literacy andnumeracy(LL&N)This influences the methods you can use and the activities and tasks that are suitable to the training and the trainee. You must be prepared for different LL&N levels and must have numerous resources available for different requirements. CulturalbackgroundBe aware of different cultural backgrounds and practices. There maybe activities that you choose which are inappropriate because of cultural background and practices. 
 
