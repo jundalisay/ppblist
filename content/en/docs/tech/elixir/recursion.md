@@ -5,6 +5,7 @@ image: "/graphics/elixir.jpg"
 tags: ['Elixir']
 date: 2023-09-24
 weight: 181
+draft: true
 ---
 
 

@@ -5,6 +5,7 @@ image: "/graphics/elixir.jpg"
 tags: ['Elixir']
 date: 2023-08-22
 weight: 198
+draft: true
 ---
 
 These are stored contiguously in memory.
