@@ -1,37 +1,11 @@
 ---
-title : "DITO compatible phones"
+title : "DITO promos and compatible phones"
 description: ""
 lead: ""
 date: 2020-10-06T08:48:23+00:00
 lastmod: 2020-10-06T08:48:23+00:00
 image: "/photos/code.jpg"
 ---
-
-
-DITO compatible phones
-
-DITO requires VoLTE phones to make and receive calls. Here are the phones that are compatible with DITO.
-
-
-Cherry | Infinix | Redmi
---- | --- | ---
-Aqua S9 | Hot 9 / Play | 10 / 10 5G / 10 C 
-Aqua S10 Pro | Hot 10 / Play | 9A / 9C / 9T
-Flare S8 | Hot 11S / NFC | |
-Flare S8 Max | Smart 5 / 6 | | 
-Flare S8 Pro | Zero X / X Neo / X Pro | |
-
-<!-- / Flare S8 Lite
-/ Flare Y20
-/ Flare Y5 -->
-
-<!-- Xiaomi 11 Lite 5G NE
-Xiaomi 11T
-Xiaomi 11T Pro
-Xiaomi 12 Series
-Xiaomi 12
-Xiaomi 12 Lite
- -->
 
 
 
@@ -93,6 +67,34 @@ The total cash out for a 2 year 5G Wifi contract is 31,290 pesos or 42.86/day.
 The total cash out for 2 years of 5G Wifi Prepaid at Unli 1,090 is only 26,160.
 
 So it is clearly cheaper to go with 5G Wifi Prepaid versus Postpaid. More importantly, it does not lock you in any contract. 
+
+
+
+## DITO compatible phones
+
+DITO requires VoLTE phones to make and receive calls. Here is a small list of phones that are compatible with DITO as of 2023.
+
+
+Cherry | Infinix | Redmi
+--- | --- | ---
+Aqua S9 | Hot 9 / Play | 10 / 10 5G / 10 C 
+Aqua S10 Pro | Hot 10 / Play | 9A / 9C / 9T
+Flare S8 | Hot 11S / NFC | |
+Flare S8 Max | Smart 5 / 6 | | 
+Flare S8 Pro | Zero X / X Neo / X Pro | |
+
+<!-- / Flare S8 Lite
+/ Flare Y20
+/ Flare Y5 -->
+
+<!-- Xiaomi 11 Lite 5G NE
+Xiaomi 11T
+Xiaomi 11T Pro
+Xiaomi 12 Series
+Xiaomi 12
+Xiaomi 12 Lite
+ -->
+
 
 
 <!-- 26820

@@ -1,10 +1,10 @@
 ---
 title: OTP 
-description: "" 
+description: "OTP means Open Telecom Platform, based on Erlang. It has a huge set of libraries and tools from BEAM." 
 image: "/graphics/elixir.jpg"
 tags: ['Elixir']
 date: 2023-08-22
-weight: 154
+weight: 2
 ---
 
 

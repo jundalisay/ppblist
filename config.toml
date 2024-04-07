@@ -187,9 +187,9 @@ paginate = 12
     [languages.en.params.inca.items.b]
       img = "photos/quipu.jpg"
       title = "We implement the Quipu as points, thus Pantrypoints"
-    [languages.en.params.inca.items.c]
-      img = "photos/quipu.jpg"
-      title = "We implement the Quipu as points, thus Pantrypoints"
+    # [languages.en.params.inca.items.c]
+    #   img = "photos/quipu.jpg"
+    #   title = "We implement the Quipu as points, thus Pantrypoints"
 
 
     [languages.en.params.how]
@@ -344,10 +344,10 @@ paginate = 12
     languageName = "Deutsch"
 
     [languages.de.params]
-      main = "The Circular Economy That Solves"
-      sub = "Pantrypoints is a resilient and disruptive new economic system that uses bilateral points through meetups in order to stop inflation, allow full employment, and realize the circular economy"
+      main = "Die Kreislaufwirtschaft, die die"
+      sub = "Pantrypoints ist ein widerstandsfähiges und disruptives neues Wirtschaftssystem, das bilaterale Punkte durch Treffen nutzt, um die Inflation zu stoppen, Vollbeschäftigung zu ermöglichen und die Kreislaufwirtschaft zu realisieren"
       banner = "/photos/holdhands.jpg"
-      wow = "Inflation"
+      wow = "Inflation löst"
       youtube = "AfByl9Mywi4"
 
     [languages.de.params.cta]
@@ -412,10 +412,10 @@ paginate = 12
     languageName = "Français"
 
     [languages.fr.params]
-      main = "The Circular Economy That Solves"
-      sub = "Pantrypoints is a resilient and disruptive new economic system that uses bilateral points through meetups in order to stop inflation, allow full employment, and realize the circular economy"
+      main = "L'économie circulaire qui résout"
+      sub = "Pantrypoints est un nouveau système économique résilient et disruptif qui utilise des points bilatéraux lors de rencontres afin de stopper l'inflation, permettre le plein emploi et réaliser l'économie circulaire"
       banner = "/photos/holdhands.jpg"
-      wow = "Inflation"
+      wow = "l'inflation"
       youtube = "AfByl9Mywi4"
 
     [languages.fr.params.cta]
@@ -481,10 +481,10 @@ paginate = 12
     languageName = "Hindi"
 
     [languages.hi.params]
-      main = "The Circular Economy That Solves"
-      sub = "Pantrypoints is a resilient and disruptive new economic system that uses bilateral points through meetups in order to stop inflation, allow full employment, and realize the circular economy"
+      main = " मुद्रास्फीति का समाधान करने वाली परिपत्र अर्थव्यवस्था।"
+      sub = "पैंट्रीपॉइंट्स एक लचीला और व्यवस्था को बदलने वाला नया आर्थिक सिस्टम है जो मुद्रास्फीति को रोकने, पूर्ण रोजगार की अनुमति देने और परिपत्र अर्थव्यवस्था को साकार करने के लिए मिलनसारों के माध्यम से द्विपक्षीय बिंदुओं का उपयोग करता है।"
       banner = "/photos/holdhands.jpg"
-      wow = "Inflation"
+      # wow = "Inflation"
       youtube = "AfByl9Mywi4"
 
     [languages.hi.params.cta]
@@ -549,10 +549,10 @@ paginate = 12
     languageName = "日本語"
 
     [languages.jp.params]
-      main = "The Circular Economy That Solves"
-      sub = "Pantrypoints is a resilient and disruptive new economic system that uses bilateral points through meetups in order to stop inflation, allow full employment, and realize the circular economy"
+      main = "インフレを解決する循環型経済。"
+      sub = "Pantrypointsは、出会いを介して二国間のポイント制を採用し、インフレを抑制し、完全雇用を可能にし、循環型経済を実現する、レジリエントで破壊的な新しい経済システムです"
       banner = "/photos/holdhands.jpg"
-      wow = "Inflation"
+      # wow = "Inflation"
       youtube = "AfByl9Mywi4"
 
     [languages.jp.params.cta]
