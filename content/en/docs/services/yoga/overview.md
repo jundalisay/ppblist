@@ -1,22 +1,29 @@
 ---
-title: "Yoga"
-description: "Training Resources for Pantrypoints services"
+title: "Tantra Yoga"
+description: "Training Resources for Tantra Yoga"
 date: 2022-01-18T19:58:14+01:00
 lastmod: 2022-01-18T19:58:14+01:00
-image: "/photos/team.jpg"
+image: "/photos/yoga2k.jpg"
 toc: true
 weight: 19
 ---
 
 
-## Overview
+{{< img src="/photos/yoga2k.jpg" >}}
 
-What is Tantra Yoga?
+## What is Tantra Yoga?
 
+Tantra Yoga is a combination of 2 ideas: Tantra and Yoga.
+
+Yoga is the union of the individual mind with the Supreme Mind.
+
+<!-- a system for attaining enlightenment through a uniting your mind with the . -->
+
+Tantra is one system for attaining that union. 
 
 ## Yoga
 
-The 8 limbs
+The 8 limbs of yoga according to Patanjali 
 
 1. Samadhi
 2. Yama
