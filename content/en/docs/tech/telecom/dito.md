@@ -24,7 +24,7 @@ Name | Peso per GB | Peso per Day
 **Mobile Level Up 99**: 99 pesos for 14GB @ 30 days | 7.14 | 3.33
 **Mobile Advance Pay 713**: 713 pesos for 96GB @ 365 days | 7.4 | **2**
 **5G Wifi 480**: 590 pesos for 100GB @ 30 days | **5.9** (8*) | 19.66 (26.61*)
-**Mobile Data Sachet 20**: 20 pesos for 3GB @ 3 days | 10 | 6.66
+**Mobile Data Sachet 20**: 20 pesos for 2GB @ 3 days | 10 | 6.66
 **4G Wifi 480**: 480 pesos for 50GB @ 30 days | 9.6 (10.4*) | 16 (17.3*)
 
 > *Add 208.33 pesos for 5G and 40.83 pesos to 4G representing the cost of the router over 24 months or 2 years which is 4,990 and 980 pesos respectively

@@ -80,7 +80,7 @@ How are you sure that barter-credits will work?
 {{< /r >}}
 
 {{< l a="Pantrypoints" >}}
-We have been using the system since 2017 to reduce our money expenses as we establish our startup. So it already works. 
+We have been using the system since 2017 to reduce our money expenses as we establish our startup, and from 2022 as a recording tool for a circular food rescue system that provides compost for urban vegetable gardens. So it already works.
 
 Historically, it was used in a large scale by the Inca Empire, Khmer Empire, Arabia, the Mongols, and most countries before they were colonized by the Europeans who imposed the use of money.
 {{< /l >}}
@@ -91,11 +91,13 @@ How many users have you had?
 
 
 {{< l a="Pantrypoints" >}}
-We have a limited budget which allows us a cost of $20 per server. Moreover, data privacy laws require registration if there are more 1,000 users.
+We have a limited budget which allows us a cost of $20-100 per server, depending on configuration on Python, Ruby, or Elixir. Moreover, data privacy laws require registration if there are more 1,000 users.
 
 So we have a maximum of 1,000 registered users or 300 concurrent users per server. After it goes over, the server crashes. This means the experiment worked. This happened a lot during the pandemic when a lot of people suddenly went online to look for jobs or to barter. 
 
-We then spin up a new server for a new town with new features as a new experiment. At our peak when we were supported by incubators that allowed us to have staff, we had 7 servers.
+We then spin up a new server for a new town with new features as a new experiment. At our peak when we were supported by incubators that allowed us to have staff, we had 7 servers. 
+
+We realized the points system must be bullet-proof, so we are focusing on Pantrypreneur Rewards which is a points-based loyalty app for restaurants. 
 {{< /l >}}
 
 
@@ -104,7 +106,7 @@ There's a rice crisis now. Rice prices are shooting up in most countries. Won't 
 {{< /r >}}
 
 {{< l a="Pantrypoints" >}}
-The value is based on the common or usual price of grains, not their price during crises. 
+The value is based on the common or usual price of grains, not their price during crises. In the 2024 Asian Development Bank Food Security Forum, it was revealed that of all crops, rice has the most stable prices. This proves Adam Smith correct.  
 {{< /l >}}
 
 ## Points-Banking and Points-Taxation
@@ -122,7 +124,7 @@ I'm a career banker. Does Pantrypoints want to replace money-banking and finance
 {{< /r >}}
 
 {{< l a="Pantrypoints" >}}
-No. The points work side by side with money to circulate value. This is similar to mobile data working side by side with wifi. You can cboose between money or points just as you can choose between connecting to the internet by wifi or by mobile data.  The points are for people you know. Money is for people you don't know. 
+No. The points work side by side with money to circulate value. This is similar to mobile data working side by side with wifi. You can choose between money or points just as you can choose between connecting to the internet by wifi or by mobile data.  The points are for people you know. Money is for people you don't know. 
 {{< /l >}}
 
 {{< r a="Banker" >}}
@@ -131,6 +133,8 @@ How will the government earn, if there is no money in Pantrypoints? [This was ac
 
 {{< l a="Pantrypoints" >}}
 The government can earn a points-tax per transaction which can be claimed as the goods and services of the person taxed. In this way, Pantrypoints becomes an employment system as well.
+
+So a potato farmer literaly pays potatoes to the government which it then pays to its employees or uses for welfare services, reducing the use of money for such purposes. The revenue that would have gone to the banker to finance that money then goes to the farmer to incentivize his productivity, increasing the real wealth of nations.
 {{< /l >}}
 
 
@@ -202,7 +206,7 @@ Who maintains these apps?
 {{< l a="Pantrypoints" >}}
 We have a volunteers who test and contribute to maintain them. So please don't expect them to be bug-free yet.
 
-We predicted that [a global stagflation by 2020](https://superphysics.org/social/supersociology/precrisis-years) would make people interested in our solution sooner or later.
+We predicted that [there would be a global stagflation by 2020, followed by wars of which the effects would last to 2030 to 2035.](https://superphysics.org/social/supersociology/precrisis-years) This would make people interested in our solution sooner or later, and so we chose to play the (very) long game.
 
-The banking crisis of 2023 came a bit late, but at least it's here. 
+The Ukraine and Gaza war and the global inflation happened within that timeframe which proves our principles were correct. This is why we are expanding those principles (as Supereconomics) into Superphysics where we predict things for Physics, such as the failure of the Lambda CDM model. 
 {{< /l >}}
