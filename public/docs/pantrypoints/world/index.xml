@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pantrypoints World on Pantrypoints</title>
+    <link>//localhost:1313/docs/pantrypoints/world/</link>
+    <description>Recent content in Pantrypoints World on Pantrypoints</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Oct 2020 15:21:01 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/docs/pantrypoints/world/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pantrypoints World Overview</title>
+      <link>//localhost:1313/docs/pantrypoints/world/overview/</link>
+      <pubDate>Tue, 13 Oct 2020 15:21:01 +0200</pubDate>
+      <guid>//localhost:1313/docs/pantrypoints/world/overview/</guid>
+      <description>Intent Pantrypoints World facilitates the Clearing Mechanism for imports and exports. Since it uses money, this is the &amp;ldquo;fintech&amp;rdquo; aspect of the Pantrypoints System. This requires at least 1 hub to be operational in 2 countries.&#xA;Unlike City which is decentralized, World is centralized.&#xA;Base Models Name Context Points Deals Offer Deals HS models Items Orgs Users </description>
+    </item>
+  </channel>
+</rss>

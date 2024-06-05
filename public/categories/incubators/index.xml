@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Incubators on Pantrypoints</title>
+    <link>//localhost:1313/categories/incubators/</link>
+    <description>Recent content in Incubators on Pantrypoints</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/incubators/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NARA @ Impacthub Cambodia</title>
+      <link>//localhost:1313/news/16-02-17/</link>
+      <pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/16-02-17/</guid>
+      <description>We&amp;rsquo;re in Phnom Penh to visit Impacthub Cambodia.&#xA;The Saigon Makers community suggested us to check out ImpactHub to see if we could participate in their challenges.&#xA;We told them about our social contract system for freelancing. They suggested the concept of milestones within each contract.&#xA;Incidentally, UNICEF was there to push their call for proposals on solutions to child trafficking.</description>
+    </item>
+  </channel>
+</rss>

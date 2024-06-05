@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elixir OTP on Pantrypoints</title>
+    <link>//localhost:1313/docs/tech/otp/</link>
+    <description>Recent content in Elixir OTP on Pantrypoints</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 22 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/docs/tech/otp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OTP</title>
+      <link>//localhost:1313/docs/tech/otp/overview/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/otp/overview/</guid>
+      <description>OTP is made up of:&#xA;Elxir Tool Set mix: a build tool application: sets the other independent Modules that will run Erlang OTP Features ETS : Erlang Term Storage mnesia : Database Management System crypto Behaviors GenServer: has client and server Supervisor: manages workers in a GenServer Protocols: allows polymorphism. An example of a bult-in protocol is String.Chars OTP Processes and State Management This allows functions to hold data independent of the function which is really held through the Genserver.</description>
+    </item>
+    <item>
+      <title>Erlang Genserver</title>
+      <link>//localhost:1313/docs/tech/otp/genserver/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/otp/genserver/</guid>
+      <description>Erlang Genserver is a process spawner and manager&#xA;simple state change &amp;mdash; Elixir agent wraps state with get/2 update/2 get_and_update/2 short asynch computation &amp;mdash; Elixir task provides functions async/1 await/1 GenServer has client and server.&#xA;Client Server Client Return Server Return Decription .start/3 or .start_link/3 init {:ok, pid} or {:error, reason} {:ok, state} or {:stop, reason_any_type} Initial state .call/2 handle_call/3 sync client to server .cast/ handle_cast/ async client to server .</description>
+    </item>
+    <item>
+      <title>Mix</title>
+      <link>//localhost:1313/docs/tech/otp/mix/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/otp/mix/</guid>
+      <description>Mix is a build tool for Elixir.&#xA;It scaffolds a new app as a project which has:&#xA;project: dependencies as deps tests application (a Module that runs the Supervision tree, starting and stopping it) mix new app_name --sup mix phx.new app_name options mix phx.new options:&#xA;Option Description --umbrella generate an umbrella project --database database adapter for Ecto either: postgres, mysql, mssql, sqlite3, --no-esbuild do not include esbuild. This is for API only apps --no-assets equivalent to --no-esbuild and --no-tailwind --no-dashboard do not include Phoenix.</description>
+    </item>
+    <item>
+      <title>Supervisors</title>
+      <link>//localhost:1313/docs/tech/otp/supervisors/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/otp/supervisors/</guid>
+      <description>Elixir Supervisors restarts child processes when they fail Strategies :one_for_one If a child terminates, only that process is restarted.&#xA;:one_for_all If a child terminates, all other children are terminated. Then all children (including the terminated one) are restarted.&#xA;:rest_for_one If a child terminates, the terminated child and the rest of the children started after it, are terminated and restarted.</description>
+    </item>
+  </channel>
+</rss>

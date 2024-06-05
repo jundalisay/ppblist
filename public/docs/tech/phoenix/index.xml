@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phoenix Web Framework on Pantrypoints</title>
+    <link>//localhost:1313/docs/tech/phoenix/</link>
+    <description>Recent content in Phoenix Web Framework on Pantrypoints</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 12 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/docs/tech/phoenix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Errors Common in Phoenix</title>
+      <link>//localhost:1313/docs/tech/phoenix/errors/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/phoenix/errors/</guid>
+      <description>Error (EXIT) shutdown: failed to start child: Phoenix.PubSub.PG2&#xA;Solution&#xA;mix deps.clean --all mix deps.get Error undefined module: rename all to heex&#xA;&amp;lt;.form let={f} for={:upload} action={Routes.audio_path(@socket, :upload)} options={multipart={true}} &amp;gt;&#xA;Error (UndefinedFunctionError) function :crypto.hmac/3 is undefined or private&#xA;Solution mix deps.update --all</description>
+    </item>
+    <item>
+      <title>How to Set up Mail in Phoenix 1.7</title>
+      <link>//localhost:1313/docs/tech/phoenix/email/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/phoenix/email/</guid>
+      <description>This assumes you made your app with Phoenix 1.7 which has:&#xA;essential mailer config mailbox in the router Create mail template in /lib/app/emails.ex defmodule App.Emails do import Swoosh.Email def test do new() |&amp;gt; to({&amp;#34;John&amp;#34;, &amp;#34;john@gmail.com&amp;#34;}) |&amp;gt; from({&amp;#34;Martha&amp;#34;, &amp;#34;martha@gmail.com&amp;#34;}) |&amp;gt; subject(&amp;#34;Hello!&amp;#34;) |&amp;gt; html_body(&amp;#34;&amp;lt;h1&amp;gt;Hello there&amp;lt;/h1&amp;gt;&amp;#34;) |&amp;gt; text_body(&amp;#34;Hello there\n&amp;#34;) end end Trigger the email in a controller defmodule AppWeb.SomeController do use AppWeb, :controller alias App.{Mailer, Emails} def some_method(conn, params) do Emails.test() |&amp;gt; Mailer.deliver() render(conn, :template) end end POW Emails (Reset Password) Add callbacks in the config config :app, :pow, user: App.</description>
+    </item>
+    <item>
+      <title>How to Install Elixir Phoenix on Linux</title>
+      <link>//localhost:1313/docs/tech/phoenix/install/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/phoenix/install/</guid>
+      <description>1. Install asdf sudo apt install curl git unzip git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.13.1 Add to ~/.bashrc&#xA;. &amp;#34;$HOME/.asdf/asdf.sh&amp;#34; . &amp;#34;$HOME/.asdf/completions/asdf.bash&amp;#34; 2. Use asdf to Install Plugins Erlang export KERL_CONFIGURE_OPTIONS=&amp;#34;--disable-debug --without-javac&amp;#34; apt -y install build-essential autoconf m4 libncurses5-dev libwxgtk3.0-gtk3-dev libwxgtk-webview3.0-gtk3-dev libgl1-mesa-dev libglu1-mesa-dev libpng-dev libssh-dev unixodbc-dev xsltproc fop libxml2-utils libncurses-dev openjdk-11-jdk inotify-tools asdf plugin add erlang https://github.com/asdf-vm/asdf-erlang.git asdf list all erlang Install the version you want&#xA;asdf install erlang 26.2 asdf global erlang 26.</description>
+    </item>
+    <item>
+      <title>Function Plugs and Module Plugs</title>
+      <link>//localhost:1313/docs/tech/phoenix/plugs/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/phoenix/plugs/</guid>
+      <description>A Plug manipulates data in conn structs. It&amp;rsquo;s a Module that has a &amp;lsquo;Conn&amp;rsquo; Struct. It takes and returns that conn struct between modules.&#xA;It allows state management when combined with Agents and Genservers (like Live View). The state is held by the struct and then is passed between Modules. The ability to pass data turns Plugs into Elixir webservers&#xA;It has two types:&#xA;Module Plug Function Plug These are functions that get a Plug.</description>
+    </item>
+    <item>
+      <title>Templates</title>
+      <link>//localhost:1313/docs/tech/phoenix/templates/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/phoenix/templates/</guid>
+      <description>Data loading should never happen inside the template&#xA;Use functions instead of static variable assignments&#xA;As of Phoenix 1.7, HEEX tags can only be used in the body of the tag.&#xA;Explicitly precompute the assign outside of render:&#xA;assign(socket, sum: socket.assigns.x + socket.assigns.y)&#xA;Do not compute it withiin a static render&#xA;def render(assigns) do sum = assigns.x + assigns.y ~H&amp;#34;&amp;#34;&amp;#34; &amp;lt;%= sum %&amp;gt; &amp;#34;&amp;#34;&amp;#34; end </description>
+    </item>
+  </channel>
+</rss>

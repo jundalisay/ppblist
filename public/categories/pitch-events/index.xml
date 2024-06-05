@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pitch Events on Pantrypoints</title>
+    <link>//localhost:1313/categories/pitch-events/</link>
+    <description>Recent content in Pitch Events on Pantrypoints</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 28 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/pitch-events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Slush Global Impact Accelerator</title>
+      <link>//localhost:1313/news/17-10-28/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/17-10-28/</guid>
+      <description>We made it to the semifinals of Slush Global Impact Accelerator (GIA). Slush is an annual startup event from Finland that aims to attract startups from all over the world. It hosts thousands of attendees, startups, and investors.&#xA;Our pitch was for our system to be implemented in Africa as a scalable economic system that can work for both rich and poor countries.&#xA;Updates Date . December 12, 2021 This is now the Pantrypoints system </description>
+    </item>
+    <item>
+      <title>ASEAN&#39;s Next Great Idea contest</title>
+      <link>//localhost:1313/news/16-12-09/</link>
+      <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/16-12-09/</guid>
+      <description>Juan is in Malaysia for the ASEAN&amp;rsquo;s Next Great Idea contest by the Malaysian Global Innovation and Creativity Centre or MAGIC.&#xA;The winner was Healthblocks, a Filipino startup making a hospital platform that uses blockchain to store patient records&#xA;MAGIC is the startup incubation and acceleration project of the Malaysian government headquartered in Cyberjaya, under the Minisitry of Science, Technology, and Innovation or MOSTI.&#xA;Compared to the incubation programs of other ASEAN countries like Vietnam Silicon Valley, QBO, and Block 71, MAGIC seems very well funded and supported by its government.</description>
+    </item>
+    <item>
+      <title>Vietnam Silicon Valley (VSV) Demo day</title>
+      <link>//localhost:1313/news/16-07-16/</link>
+      <pubDate>Sat, 16 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/16-07-16/</guid>
+      <description>We&amp;rsquo;re in force at the VSV Demo day. It was our first booth ever and it was great! We renamed NARA (Non-Arbitrary Resource Allocation) into SORA (Social Resource Allocation) to emphasize social networks.&#xA;Vietnam Silicon Valley (VSV) is an incubator and accelerator program headed by Ms. Thach Le Anh. a businesswoman, angel investor and expert in startups.&#xA;VSV is part of the push of the Vietnamese government called Project 844/QD-TTg which was adopted on May 18, 2016.</description>
+    </item>
+  </channel>
+</rss>

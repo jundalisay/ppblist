@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Types on Pantrypoints</title>
+    <link>//localhost:1313/docs/tech/elixir/data-types/</link>
+    <description>Recent content in Data Types on Pantrypoints</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/docs/tech/elixir/data-types/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview</title>
+      <link>//localhost:1313/docs/tech/elixir/data-types/overview/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/elixir/data-types/overview/</guid>
+      <description>Elixir uses dynamic types based on Erlang where the type is determined by the data entered in the variable.&#xA;Data Types Built-in types Atom - literal constants with a name (true, false, and nil are atoms) Float - numbers with floating point precision Function - a reference to code chunk, created with the fn/1 special form Integer - whole numbers (not fractions) List - collections of a variable number of elements (linked lists) Map - collections of key-value pairs Process - light-weight threads of execution Port - mechanisms to interact with the external world Tuple - collections of a fixed number of elements Data types without a module Bitstring - a sequence of bits, created with Kernel.</description>
+    </item>
+    <item>
+      <title>List and Map Function: Enums </title>
+      <link>//localhost:1313/docs/tech/elixir/data-types/enums/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/elixir/data-types/enums/</guid>
+      <description>Enum.premade_function_to_manipulate_enumerables([a, b, c, d], function_to_manipulate_each_item_in_enumerable)&#xA;Streams Streams are lazy Enums. Each element is processed whole before going to the next one.&#xA;Enums on the other hand go through each list before processing each.&#xA;range = 1..3 |&amp;gt; Stream.map(&amp;amp;IO.inspect(&amp;amp;1)) # writes range to device |&amp;gt; Stream.map(&amp;amp;(&amp;amp;1 * 2)) # doubles each element |&amp;gt; Stream.map(&amp;amp;IO.inspect(&amp;amp;1)) # writes new element |&amp;gt; Enum.reverse(range) # reverses list Common Enum Functions .each Get each element, returning the atom :ok</description>
+    </item>
+    <item>
+      <title>Lists</title>
+      <link>//localhost:1313/docs/tech/elixir/data-types/list/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/elixir/data-types/list/</guid>
+      <description>[Lists] are for non-fixed number of elements.&#xA;[3.14, :pie, &amp;#34;Apple&amp;#34;] Linked Lists Elixir lists are linked lists which are not &amp;ldquo;arrays&amp;rdquo; arranged by index where you can get the first element by list[0]&#xA;Instead, linked lists allows fast prepending of data but slower appending as the process has to go through the list.&#xA;This is because data in Elixir is immutable and sit in its own process which maniuplates it via functions.</description>
+    </item>
+    <item>
+      <title>Map Functions</title>
+      <link>//localhost:1313/docs/tech/elixir/data-types/maps/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/elixir/data-types/maps/</guid>
+      <description>Map Functions Map.get(map, key, default_value) Gets the value of a key in map.&#xA;If key is present, its value is returned. Otherwise, default is returned. If default is not provided, nil is used. Map.get(%{}, :a) nil # because a is not defined Map.get(%{a: 1}, :a) 1 # because a is 1 Map.get(%{a: 1}, :b, 3) 3 # because b is nowhere and 3 is the default output Map.put(map, key, value) Puts the value under key in map.</description>
+    </item>
+    <item>
+      <title>Maps</title>
+      <link>//localhost:1313/docs/tech/elixir/data-types/map/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/elixir/data-types/map/</guid>
+      <description>These are key-value stores.&#xA;Keyword lists allow only atom-keys and are ordered.&#xA;But Maps do not.&#xA;map = %{ph -&amp;gt; manila, us -&amp;gt; wash} Setting&#xA;m = %{a: 1} m = %{a =&amp;gt; 1} # the =&amp;gt; goes deeper %{a: 1} == %{:a =&amp;gt; 1} map = %{:atom =&amp;gt; &amp;#34;string&amp;#34;, &amp;#34;string&amp;#34; =&amp;gt; &amp;#34;string&amp;#34;} mapshortcut = %{atom: &amp;#34;string&amp;#34;, atom2: &amp;#34;string&amp;#34;} # binding to variable %{&amp;#34;string&amp;#34; =&amp;gt; string} defstruct [:name, :age] attributes_map = %{name: &amp;#34;Lam&amp;#34;, age: 20} struct() Calling</description>
+    </item>
+    <item>
+      <title>Strings</title>
+      <link>//localhost:1313/docs/tech/elixir/data-types/strings/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/elixir/data-types/strings/</guid>
+      <description>Elixir strings are a sequence of bytes.&#xA;string = &amp;lt;&amp;lt;104,101,108,108,111&amp;gt;&amp;gt; &amp;#34;hello&amp;#34; &amp;lt;&amp;lt; &amp;gt;&amp;gt; tells the compiler that its elements are bytes.&#xA;Charlists Elixir &amp;ldquo;strings&amp;rdquo; are represented with a sequence of bytes, not by an array of characters.&#xA;In Elixir &amp;lsquo;char lists&amp;rsquo;, each value is the Unicode code point.&#xA;You can get a character’s code point by using ?&#xA;Charlist support is mainly included because it is required for some Erlang modules.</description>
+    </item>
+    <item>
+      <title>Structs</title>
+      <link>//localhost:1313/docs/tech/elixir/data-types/struct/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/elixir/data-types/struct/</guid>
+      <description>Structs struct(Struct_name, map) inserts a map into a Struct&#xA;Updating structs # via struct a = %Computer{id: 1, kind: &amp;#34;laptop&amp;#34;} struct(a, kind: &amp;#34;server&amp;#34;) # via | cons a = %{a | kind: &amp;#34;server&amp;#34;} put_in updates a struct</description>
+    </item>
+  </channel>
+</rss>

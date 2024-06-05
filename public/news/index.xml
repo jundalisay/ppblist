@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Pantrypoints</title>
+    <link>//localhost:1313/news/</link>
+    <description>Recent content in News on Pantrypoints</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presenting: Endeavor Cards</title>
+      <link>//localhost:1313/news/24-03-28/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/24-03-28/</guid>
+      <description>In 2015, our economic model predicted a global stagflation hitting by 2020, as a consequence of the profit maximization doctrine of Economics, as well as the Keynesian quantitative easing that supports it.&#xA;This is why, from 2016, we have been creating a moneyless points-based economic system to address such an inflation.&#xA;This all was tested in 2020 when our app suddenly got a lot of users &amp;ndash; these were people in lockdown or those who have lost their jobs because of the pandemic.</description>
+    </item>
+    <item>
+      <title>New Partner: Yoga Hoa Sen</title>
+      <link>//localhost:1313/news/24-03-18/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/24-03-18/</guid>
+      <description>We are happy to have Yoga Hoa Sen as our new partner in Saigon, Vietnam.&#xA;Cofounder Lam joined their yoga class this month and we were able to explore how Pantrypoints Build could help their online presence.</description>
+    </item>
+    <item>
+      <title>Overseas Asian Prototypes</title>
+      <link>//localhost:1313/news/24-02-04/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/24-02-04/</guid>
+      <description>From the start of the lunar new year, we will be testing Pantrypoonts overseas remotely.&#xA;In the Philippines, it will be Pantrypoints in reference to the community-pantry phenomenonn in 2021 In Vietnam, where we began, it will be &amp;ldquo;Trao Đổi&amp;rdquo;, meaning exchange In Pakistan, it will be &amp;ldquo;Adla Badli&amp;rdquo;, also meaning exchange </description>
+    </item>
+    <item>
+      <title>New Hosting Option</title>
+      <link>//localhost:1313/news/24-01-15/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/24-01-15/</guid>
+      <description>We began Pantrypoints in 2016 as a web-based app hosted in the cloud.&#xA;We found that it wasn&amp;rsquo;t so sustainable in terms of costs, since some cloud providers are expensive.&#xA;That&amp;rsquo;s why we created a version of Pantrypoints for:&#xA;self-hosting on an intranet, and offline through points cards Last year, we tested self-hosted on the internet using Cloudflare Tunnel.&#xA;This gives us 4 options to deploy Pantrypoints for our partners:</description>
+    </item>
+    <item>
+      <title>Have a Positive 2024!</title>
+      <link>//localhost:1313/news/24-01-01/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/24-01-01/</guid>
+      <description>In 2012, our economic model predicted a global stagflation starting in 2019 sparking the Crisis Years.&#xA;The 1970&amp;rsquo;s stagflation was caused by the Israel-Arab wars of 1967 and 1973. So we assumed that the 2020&amp;rsquo;s stagflation would be caused by an Iran-Saudi war which would then cut oil from the Strait of Hormuz. This seemed to come true when Trump assassinated Soleimani on January 3, 2020, guaranteeing some military retaliation by Iran.</description>
+    </item>
+    <item>
+      <title>Pantrypreneur @ OpenAI Hackathon</title>
+      <link>//localhost:1313/news/23-12-14/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/23-12-14/</guid>
+      <description>Juan attended the OpenAI Hackathon by Microsoft to try out ChatGPT4 for Pantrypreneur.&#xA;Pantrypreneur + ChatGPT4 on Azure Pantrypreneur digitalizes the basic tasks done by micro and small businesses such as:&#xA;posting jobs and getting screening job applications listing products and services for sale and then getting orders or questions posting announcements Those businesses told us that they still got a lot of spam messages. People would pose as customers just to try to sell insurance, loans, equipment, and other business services.</description>
+    </item>
+    <item>
+      <title>Superphysics @ Starlink Hackathon</title>
+      <link>//localhost:1313/news/23-11-19/</link>
+      <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/23-11-19/</guid>
+      <description>We entered our MaHaRLiKa System in the Starlink Hackathon. It stands for Market Harvest Listing and Kapacity-Building.&#xA;We wanted to test-deploy the system next month in a tribe in Kalinga Province. Having a Starlink internet service would help immensely in our deployment.&#xA;Unfortunately, we didn&amp;rsquo;t make it to the semis, so we have to look for other satellite internet providers and pause the MaHaRLiKa System until we can get more support.</description>
+    </item>
+    <item>
+      <title>Unifying Pantrypoints, Superphysics, and Maharlikanism</title>
+      <link>//localhost:1313/news/23-11-03/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/23-11-03/</guid>
+      <description>We overhauled the websites of Pantrypoints , Superphysics , and Maharlikanism to use the same template.&#xA;This is in line with our mega-overhaul which began on April 2021 when we unified Superphysics, Supersociology, and Supereconomics through the Four laws of Value.&#xA;This is also to make maintenance easier and to make them easier to understand for the general public.</description>
+    </item>
+    <item>
+      <title>Pantrypoints App Rundown</title>
+      <link>//localhost:1313/news/23-10-06/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/23-10-06/</guid>
+      <description>We started making apps for our proposed economic system in Q1 2015, in line with the startup concept of &amp;ldquo;Move Fast and Break Things&amp;rdquo;.&#xA;We then pitched the apps that we built in competitions to see which ones were important by the results or rank that we got. We scrapped some and integrated others. The biggest milestone in development was our discovery of the Four Laws of Value which streamlined our experimentation process a lot.</description>
+    </item>
+    <item>
+      <title>Vibrant Valley @ Philippine Blockchain Week 2023</title>
+      <link>//localhost:1313/news/23-10-01/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/23-10-01/</guid>
+      <description>We went with Vibrant Valley to the Philippine Blockchain Week 2023.&#xA;Vibrant Valley is creating a farming community in Spain using Ethereum DAO. Until they can reach their milestones, we will be assisting them with their urban garden initiatives in Makati City.</description>
+    </item>
+    <item>
+      <title>New Partner: PAPCI</title>
+      <link>//localhost:1313/news/23-09-12/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/23-09-12/</guid>
+      <description>We welcome PAPCI into the Pantrypoints system.&#xA;PAPCI stands for Philippine Association of Professional Consultants Inc, which is based in Cebu City.&#xA;They will test our points system as a means to make partial payments for professional services betwween members.</description>
+    </item>
+    <item>
+      <title>ISAIAH gets Auth</title>
+      <link>//localhost:1313/news/23-09-10/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/23-09-10/</guid>
+      <description>Our machine learning app/platform called ISAIAH got an Auth upgrade over the weekend. This means users can look at the compiled results of their answers upon logging in and getting authenticated.&#xA;We delayed adding this feature as requiring logins also reduces the app being used if the login fails, such as when the internet is not available.&#xA;We solve this by having some parts of the app capable of working offline, while other parts needing internet to work online.</description>
+    </item>
+    <item>
+      <title>Pantrypoints @ Pasig Climathon 2023</title>
+      <link>//localhost:1313/news/23-08-19/</link>
+      <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/23-08-19/</guid>
+      <description>We pitched Circle in the Pasig Climathon as a circular economy solution to food waste, food insecurity, persistent inflation, and unemployment.&#xA;Wear Forward won and will be awarded with a 30,000 peso budget to implement their project with the Pasig City Local Government.</description>
+    </item>
+    <item>
+      <title>New Partner: Greenlife Coconut Products</title>
+      <link>//localhost:1313/news/23-07-17/</link>
+      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/23-07-17/</guid>
+      <description>We are happy to have Greenlife as our partner. They are a manufacturer of coconut products in Tayabas Quezon, exporting to various countries.&#xA;They will use our points system to increase sales of their coconut products locally, and will test it for cross-border transactions.</description>
+    </item>
+    <item>
+      <title>Pantrypoints @ Enhack 2023</title>
+      <link>//localhost:1313/news/23-07-01/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/23-07-01/</guid>
+      <description>We pitched Pantrypoints Build and Rewards at Enhack 2023, as Static Sites and Rewards, respectively.&#xA;Enhack 2023 is a hackathon by Enstack, an ecommerce app based in the Philippines.&#xA;We used Canva to make the deck for the first time. Canva has a quirk that it doesn&amp;rsquo;t make links automatically. This prevented us from easily linking a demo of our online app during the pitch.&#xA;We didn&amp;rsquo;t win as they were looking for an AI product.</description>
+    </item>
+    <item>
+      <title>Maximized Farming @ Packethacks 2023</title>
+      <link>//localhost:1313/news/23-06-03/</link>
+      <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/23-06-03/</guid>
+      <description>We submitted our Maximized Farming System to Packethacks 2023 , an IoT Hackathon, and made it as one of the 32 semifinalists.&#xA;The Packethacks will be held in the Packetworx event in the World Trade Center.&#xA;Unfortunately, we didn&amp;rsquo;t make it to the finals, which were made up of the followng teams:</description>
+    </item>
+    <item>
+      <title>New Partner: AMSAI E-Learning and AF Organic</title>
+      <link>//localhost:1313/news/23-05-06/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/23-05-06/</guid>
+      <description>Last week, we pitched our Pantrypreneur Farm system to Makati Rotary Club but couldn&amp;rsquo;t get any significant reception for the idea.&#xA;So we decided to pause it and focus on Pantrypreneur Educate which was relatively undeveloped.&#xA;By sheer coincidence, we met the lead administrator for AMSAI E-Learning on the same day. She was willing to implement our proposed moneyless tuition system.&#xA;We also partnered with AF Organic, an organic farm in Paranaque, to use exchange points for some of their transactions.</description>
+    </item>
+    <item>
+      <title>Diet-Disease Reference @ FLExPHD</title>
+      <link>//localhost:1313/news/23-04-28/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/23-04-28/</guid>
+      <description>We made it into the Top 40 of the FLExPHD competition with our app Diet-Disease Reference , as part of Pantrypoints Health.&#xA;graphics/diet.jpg&#xA;Diet-Disease Reference is a food reference app that promotes the use of food for medicine and nutrition, as &amp;rsquo;nutraceuticals&#39;.&#xA;It aims to drive demand for a planetary health diet which is composed mostly of plant-based food. Our main innovations are:&#xA;the linking of diseases to nutrients and to the food that has them the use of machine learning to make adding content faster The linking of diseases to nutrients uses the paradigm of alternative medicine, namely:</description>
+    </item>
+    <item>
+      <title>New Partner: VGE</title>
+      <link>//localhost:1313/news/23-04-10/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/23-04-10/</guid>
+      <description>We welcome VGE into the Pantrypoints system.&#xA;VGE stands for Venezuela Gente Excelente, a socio-civic group that aims for a prosperous Venezuela by lobbying peacefully against the oppressive policies of the Maduro regime.&#xA;They will test our points-based system in a small part of their 23 hectare farm in Venezuela in 2024 after we finish our testing in the Philippines.</description>
+    </item>
+    <item>
+      <title>New Partners: Unladsaka</title>
+      <link>//localhost:1313/news/23-03-04/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/23-03-04/</guid>
+      <description>We welcome Unladsaka and SuperPaso into the Pantrypoints system.&#xA;Unlad Saka is a farmers association based in Quezon City. They will implement Pantrypreneur Farm for rural farms and Village Subsistence Farming for urban farms.&#xA;Super Paso is a maker of home garden planting kits and organic fertilizers. They will give consultation for our Village Subsistence Farming system</description>
+    </item>
+    <item>
+      <title>New Partner: FINAC</title>
+      <link>//localhost:1313/news/23-01-28/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/23-01-28/</guid>
+      <description>We welcome FINAC into the Pantrypoints system.&#xA;FINAC stands for Filipino Inventors Advocacy Coooperative, a group that promotes Filipino inventions and their makers.&#xA;They will implement the offline version of the Pantrypoints system, as well as assist in the patenting of the inventions from Pantrypoints and Superphysics.</description>
+    </item>
+    <item>
+      <title>Pantrypoints Circle for the ADB Visualizing Climate Change &amp; Resilience Challenge</title>
+      <link>//localhost:1313/news/22-11-08/</link>
+      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/22-11-08/</guid>
+      <description>Pantrypoints Circle is our proposed system that implements a circular economy by embracing global warming, with its disasters.&#xA;Its first implementation is called Village Contract Farming (VCF). In the Philippines, we will implement this VCF as &amp;ldquo;Basurayuda&amp;rdquo;, which is a program that mobilizes unemployed people to collect plastic waste and kitchen waste to be recycled and turned into compost.&#xA;This system relies on communities and moneyless systems in order to create a &amp;ldquo;common economy&amp;rdquo; powered by &amp;ldquo;common interest&amp;rdquo;.</description>
+    </item>
+    <item>
+      <title>Pantrypoints World @ Web3 Hackathon</title>
+      <link>//localhost:1313/news/22-10-30/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/22-10-30/</guid>
+      <description>We put up our Pantrypoints Coins prototype for the upcoming Web3 Hackathon.&#xA;Update We didn&amp;rsquo;t make it to the Top 10. Some of the top teams were:&#xA;Team Xcalp Webmint FRM Coin Team Dvcode Sheesh! Team Life We learned that the play to earn model does not work for the app maker because there must be another source of revenue like ads, subscription, esports.</description>
+    </item>
+    <item>
+      <title>Superphysics @ the 3rd PNP Hackathon</title>
+      <link>//localhost:1313/news/22-10-15/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/22-10-15/</guid>
+      <description>We signed up for the 3rd PNP Hackathon to take on the Predictive Policing Challenge.&#xA;PNP Hackathon We&amp;rsquo;ve been working on Pantrypoints for most of the year without doing much for ISAIAH, which is the machine learning part of the Superphysics system. So we joined the hackathon to develop the predictive analyis part, which we will call &amp;ldquo;Criminality Prediction System (CPS)&amp;rdquo;.&#xA;The system uses palm prints to predict a person&amp;rsquo;s tendency for criminal behavior.</description>
+    </item>
+    <item>
+      <title>New Partners: Himalayan Consultancy</title>
+      <link>//localhost:1313/news/22-10-06/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/22-10-06/</guid>
+      <description>We welcome Himalayan Asia Management Consulting Services into our points-based system..&#xA;Himalayan is an geological engineering firm based in Davao Philippines. We met them during the German-Philippines Business Conference on Recycling and Waste Management </description>
+    </item>
+    <item>
+      <title>New Partners: San Pedro City Agricultural Office and Pacita Organic Garden</title>
+      <link>//localhost:1313/news/22-09-16/</link>
+      <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/22-09-16/</guid>
+      <description>We welcome more partners implementing our moneyless points system:&#xA;San Pedro City Agricultural Office The San Pedro City Agricultural Office is a part of San Pedro City Government managing the agricultural activities for San Pedro City in Laguna.&#xA;Pacita Organic Garden Pacita Organic Garden is a community of small organic farmers in Pacita Complex, Laguna.</description>
+    </item>
+    <item>
+      <title>New Partner: Capri Island Cafe</title>
+      <link>//localhost:1313/news/22-09-06/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/22-09-06/</guid>
+      <description>We welcome more partners implementing our moneyless points system:&#xA;Capri Island Cafe Capri Island is a Vegetarian Cafe and Restaurant that serves sentient, cruelty-free food. They will use Pantrypreneur Rewards for their customers.</description>
+    </item>
+    <item>
+      <title>New Partners: Ayus and SCENAC</title>
+      <link>//localhost:1313/news/22-08-15/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/22-08-15/</guid>
+      <description>We welcome more partners implementing our moneyless points system:&#xA;/graphics/ayus.jpg&#xA;Ayus Ayus is a health store that sells alternative remedies such as those from ayurveda and homoeopathy. They will use trade points for their loyal customers.&#xA;SCENAC SCENAC is a non-goverment organization (NGO) that supports senior citizens. They will test the moneyless social insurance system.</description>
+    </item>
+    <item>
+      <title>New Partners: Food Rescue Philippines and Savilas Vietnam</title>
+      <link>//localhost:1313/news/22-07-15/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/22-07-15/</guid>
+      <description>We welcome more partners implementing our moneyless points system:&#xA;Food Rescue Philippines Food Rescue Philippines is a volunteer group that uses food waste to end malnutrition and involuntary hunger in the Philippines.&#xA;Savilas Vietnam Savilas is a small seafood company that sources its supplies from sustainable fisheries in Vietnam. We got in touch with them while we were adapting the Pantrypoints system for the Fishackathon challenge earlier this year.</description>
+    </item>
+    <item>
+      <title>Pantrypreneur Rewards</title>
+      <link>//localhost:1313/news/22-07-08/</link>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/22-07-08/</guid>
+      <description>We successfully deployed the prototype of our Rewards app, customized for a new restaurant in Quezon City Philippines.&#xA;The customers appreciated the novelty of our system. The owners were impressed at the low cost of running and maintaining it.</description>
+    </item>
+    <item>
+      <title>New Partner: Angel&#39;s Shelter</title>
+      <link>//localhost:1313/news/22-04-19/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/22-04-19/</guid>
+      <description>We welcome Angel&amp;rsquo;s Shelter to the Pantrypoints System.&#xA;Angel&amp;rsquo;s Shelter is an animal shelter in Binan Laguna, Philippines. They also do food rescue for feeding programs.</description>
+    </item>
+    <item>
+      <title>Pantrypoints @ Hack4Food</title>
+      <link>//localhost:1313/news/22-03-22/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/22-03-22/</guid>
+      <description>We joined Hack4Food to pitch Pantrypoints.&#xA;We didn&amp;rsquo;t win and so we decided to split our system into a Pantrypoints platform, and a private ERP-ish app called Pantrypreneur.&#xA;Unlike Pantrypoints that uses donation points, trade points, etc., Pantrypreneur only uses loyalty points. This manifests as a loyalty app or customer rewards system.&#xA;Ideally, our system should&amp;rsquo;ve been deployed by 2018 since our model predicted a stagflation starting in Q1 2019.</description>
+    </item>
+    <item>
+      <title>Pantrypoints @ Fishackathon</title>
+      <link>//localhost:1313/news/22-02-01/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/22-02-01/</guid>
+      <description>We submitted our entry to the Fishackathon 2022 as Pantry Points.&#xA;The system is inspired by the Inca empire which used granaries as qullqa and non-monetary valuation as quipu to circulate resources. Such a system was praised by Adam Smith for being more sustainable than the precious-metals-based system of the Spanish.&#xA;The Fishackathon is organized by Each Mile and Padang &amp;amp; Co&#xA;Updates Date . March 2022 We made it to the finals but didn&amp;rsquo;t make the top 3 </description>
+    </item>
+    <item>
+      <title>Pantry Govern @ Impacthub Smart Cities</title>
+      <link>//localhost:1313/news/21-12-11/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/21-12-11/</guid>
+      <description>We joined Impacthub Smart Cities to pitch the last part of the Pantry system &amp;ndash; Pantry Govern.&#xA;From the event, we were able finalize the features :&#xA;Permit and Issue tracking Local transportation routes map Local News (as Pantry Beacon) This completes all the platforms and features of the Pantry system. Because we didn&amp;rsquo;t get support back in 2016, development progressed very slowly. It came too late for the crisis that we predicted in 2019 which turned out to be Covid-19.</description>
+    </item>
+    <item>
+      <title>Moneyless Banking @ Impacthub 2050</title>
+      <link>//localhost:1313/news/21-10-09/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/21-10-09/</guid>
+      <description>We made it to the Top 10 of the Impacthub Agriculture Challenge but didn&amp;rsquo;t make it to the Top 3.&#xA;Most of the challenges were agriculture related:&#xA;How can tech give real-time access to prices and supply of vegetables? How can small farmholders who have no tech, no money, and are illiterate better manage their farm operations to increase yields and profits? How can farm tourism thrive with real-time information on carrying capacity?</description>
+    </item>
+    <item>
+      <title>Name change and site upgrade: &#39;Social Resource Allocation&#39; is now &#39;Pantrypoints&#39;!</title>
+      <link>//localhost:1313/news/21-07-15/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/21-07-15/</guid>
+      <description>In line with our mega-overhaul that began in April, we&amp;rsquo;ve renamed Social Resource Allocation (SORA) into Pantrypoints, as well as reorganizing all apps and features.&#xA;The main catalyst was finding out the error of Einstein in his Theory of General Relativity . This then made it easy to match the laws of thermodynamics to our laws of value which then became the solid foundation of Supereconomics as implemented through community pantries during the pandemic.</description>
+    </item>
+    <item>
+      <title>Circle @ Plastics Hackathon of the UN Habitat</title>
+      <link>//localhost:1313/news/21-06-05/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/21-06-05/</guid>
+      <description>The recent community pantry phenomenon has inspired us to overhaul &amp;lsquo;SORA&amp;rsquo; into &amp;lsquo;Pantrypoints Economy-as-a-Service (EaaS)&amp;rsquo; to emphasize the decentralized and hyperlocal nature of our proposed economic system.&#xA;SORA will now be EaaS which is split into 3 independent parts:&#xA;Pantrypoints Pantrypreneur ISAIAH Those parts will have the SORA features :&#xA;Old New SORA Govern or City Pantrypoints City SORA Trade Pantrypoints World SORA Health Pantrypoints Health SORA Agreeculture Pantrypreneur Farm SORA Apprentice Pantrypoints Educate SORA Reuse and SORA Relief Pantrypoints Circle SORA Beacon Pantrypoints Build We entered Pantrypoints Circle in the 3R Plastics Hackathon of the UN-Habitat in the Philippines and made it to the preliminary round, but didn&amp;rsquo;t make it to the Top 10.</description>
+    </item>
+    <item>
+      <title>SORA @ JICA NINJA</title>
+      <link>//localhost:1313/news/20-12-10/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/20-12-10/</guid>
+      <description>We got accepted into the JICA NINJA Training Program, which stands for Next Innovation with Japan.&#xA;For Southeast Asia, it is run by Nanyang Tech University of Singapore.</description>
+    </item>
+    <item>
+      <title>Health @ AWS Hackdays 2020</title>
+      <link>//localhost:1313/news/20-07-23/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/20-07-23/</guid>
+      <description>We made it to the Top 5 of AWS Hackdays 2020 with Health but didn&amp;rsquo;t nake it to the Top 3.</description>
+    </item>
+    <item>
+      <title>Relief @ AWS Hackdays 2020</title>
+      <link>//localhost:1313/news/20-07-22/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/20-07-22/</guid>
+      <description>We made it to the Top 5 of AWS Hackdays for 2020 with SORA Health. Unfortunately, we didn&amp;rsquo;t make it to the Top 2.&#xA;Incidentally, we moved our servers out of AWS and into Google Cloud Platform in order to cut costs because the Covid pandemic.&#xA;Updates Date . Dec 12, 2021 SORA Relief is now Pantrypoints Circle </description>
+    </item>
+    <item>
+      <title>Fairtax @ Hackatax</title>
+      <link>//localhost:1313/news/19-11-05/</link>
+      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/19-11-05/</guid>
+      <description>We&amp;rsquo;ve submitted our fairtax entry to the Hackatax but was not shortlisted.&#xA;The Hackatax is a program by the taxation department of the Philippine government known as the Bureau of Internal Revenue or BIR. It aims to find innovations to help make tax collection easier and more efficient.&#xA;Our proposal is called Social fairtax which is a double-entry taxation system that we derived from our barter system.&#xA;Updates Date . Dec 9, 2021 Fairtax became Pointtax which is under Pantrypoints Govern </description>
+    </item>
+    <item>
+      <title>Agreeculture @ Impact Hackathon</title>
+      <link>//localhost:1313/news/19-10-31/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/19-10-31/</guid>
+      <description>We pitched the complete version of Agreeculture in the Impact Hackathon and made it to the Top 10 of the Manila round.&#xA;The Impact Hackathon is an initiative by Impacthub Manila which aims to make it to the Guiness Book of World records as the biggest hackathon in the world.&#xA;Unfortunately, they didn&amp;rsquo;t break the record this year.&#xA;The winner was Transfarm, the leader of which joined our team for a few minutes before moving on to another.</description>
+    </item>
+    <item>
+      <title>Reuse @ Pasig Climathon</title>
+      <link>//localhost:1313/news/19-10-25/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/19-10-25/</guid>
+      <description>We developed our prototype called SORA Reuse for the Pasig Climathon. We didn&amp;rsquo;t make any place, so we will put it on hold.&#xA;The Climathon is an annual event for climate change tech activists that involves topics on plastic waste disposal, efficient energy use, and environmental protection, among others. We participated in the event sponsored by the Pasig city government under Mayor Vico Sotto.&#xA;Updates Date . July 2021 SORA Reuse will be a sub-feature of Pantrypoints which will implement the circular economy March 2022 This is now part of Pantrypoints Circle </description>
+    </item>
+    <item>
+      <title>Oil of Hope @ Accelerate Asia</title>
+      <link>//localhost:1313/news/19-10-16/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/19-10-16/</guid>
+      <description>Jose pitched the Oil of Hope (OOH) at QBO for the Accelerating Asia event as he tries to get support for his idea.&#xA;Oil of Hope is a new brand that makes coconut and cinnamon oils for massage, packaged by disabled people.&#xA;Accelerating Asia is a startup accelerator based in Singapore.&#xA;Jose didn&amp;rsquo;t get support. However, he did get AWS credits which he shared with our developer team.&#xA;Updates Date .</description>
+    </item>
+    <item>
+      <title>Agreeculture @ Hack4Rice IRRI</title>
+      <link>//localhost:1313/news/19-08-30/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/19-08-30/</guid>
+      <description>We&amp;rsquo;re in Hack4Rice at IRRI and onboarded Pathmasiri.&#xA;Farmer tending crops We created SupRice as an information system for crops to help farmers plan their fields properly for maximum yield.&#xA;The International Rice Research Institute is an American-funded research organization, founded in 1960 by the Ford and Rockefeller foundations, and is based in Los Banos, Laguna in the Philippines. It researches different strains of rice that have high yields, resilient to climate change, or are easy to grow.</description>
+    </item>
+    <item>
+      <title>Pledge @ Hack the Hive</title>
+      <link>//localhost:1313/news/19-08-25/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/19-08-25/</guid>
+      <description>JM and Arian are in Hack the Hive in QBO to pitch our SORA Pledge prototype.&#xA;Hack the Hive is organized by Free Bee , a telecom service under PLDT of the Philippines. SORA Pledge aimed to transfer money between users overseas.&#xA;QBO is the startup acceleration program of the Philippine government. Unlike the startup programs of Malaysia, Singapore, and Vietnam which are under their science ministries, the program of the Philippines is under their trade ministry, as the Department of Trade and Industry.</description>
+    </item>
+    <item>
+      <title>Beacon @ Break the Fake</title>
+      <link>//localhost:1313/news/19-08-17/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/19-08-17/</guid>
+      <description>We&amp;rsquo;re at Break the Fake to pitch &amp;lsquo;Beacon&amp;rsquo; but didn&amp;rsquo;t make any place.&#xA;Break the Fake is a movement that holds hackathons sponsored by Facebook and the US State Department to solve fake news in democratic countries. It is organized by YSEALI alumni.&#xA;In the Philippines, it was held in De La Salle University in Manila.&#xA;Updates Date . Dec 12, 2021 SORA Beacon is now Pantry Beacon July 30, 2022 Beacon has been downgraded as a standalone service , in favor of static site generators </description>
+    </item>
+    <item>
+      <title>Apprentice @ World Vision Social Innovation Challenge</title>
+      <link>//localhost:1313/news/19-08-14/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/19-08-14/</guid>
+      <description>Our submission got accepted to the World Vision Social Innovation Challenge!&#xA;World Vision is a Christian charity group headquartered in North America with operations in many third world countries, especially the Philippines. They focus on children and the youth.&#xA;The Social Innovation Challenge focused on education of the youth-at-risk in Davao, as well as agricultural solutions for a rural community in Cebu, Philippines.&#xA;Our Entry Apprentice aims to give free training to the youth in terms of English, website skills, or farming in exchange for work in SEO, sales, and food production.</description>
+    </item>
+    <item>
+      <title>Match @ Maker Faire</title>
+      <link>//localhost:1313/news/19-06-22/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/19-06-22/</guid>
+      <description>Juan will be manning the booth at the Manila Maker Faire in BGC from June 22-23, 2019 to showcase Match.&#xA;The Makerfaire is an annual event that brings together makers from all over the country. Makers are people who invent and tinker with gadgets, robots, and devices such as the Arduino board.&#xA;Among the innovations present in the event were 3-D printing, small robots, and soldering tutorials.&#xA;Match is our proposed personality matching system that serves as an alternative to Myers-Briggs.</description>
+    </item>
+    <item>
+      <title>Palm Pink Web</title>
+      <link>//localhost:1313/news/19-03-24/</link>
+      <pubDate>Sun, 24 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/19-03-24/</guid>
+      <description>We put up our Palm Pink Website which impelements our proposed science of Bio Superphysics. It looks at patterns in one&amp;rsquo;s palm to classify that person, using machine learning.&#xA;Updates Date . Dec 2020 Palm Pink is now ISAIAH Match </description>
+    </item>
+    <item>
+      <title>Gov @ ULI Urban Innovation Challenge</title>
+      <link>//localhost:1313/news/19-03-20/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/19-03-20/</guid>
+      <description>Juan pitched Gov as Poblacion portal in the ULI Urban Innovation Challenge and onboarded Jose this month.&#xA;The Urban Land Institute challenge aims to use technologies to add conveniencies to urban living, such as smart city innovations. Its target for this year is the town of Poblacion in Makati, which is one of the most urbanized cities in the Philippines.&#xA;Gov aims to be a platform that integrates key government services into one cohesive system.</description>
+    </item>
+    <item>
+      <title>Relief @ AWS Hackday 2019</title>
+      <link>//localhost:1313/news/19-01-20/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/19-01-20/</guid>
+      <description>We made it to the Top 5 of AWS Hackdays and will pitch SORA Relief.&#xA;AWS Hackday is a nationwide Hackathon sponsored by AWS to encourage startups and young people to use the different features available in AWS. This year&amp;rsquo;s theme is hack for good.&#xA;Updates Date . December 12, 2021 Relief is now part of Pantrypoints Circle </description>
+    </item>
+    <item>
+      <title>World @ DISH Hackathon</title>
+      <link>//localhost:1313/news/18-11-24/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/18-11-24/</guid>
+      <description>Juan was at the DISH hackathon to pitch the World Trade prototype and won a consolation prize.&#xA;DISH hackathon is a blockchain hackathon that seeks to fund use cases for ethereum, NEM, holochain, and other technologies. Among the implementations proposed during the event were user identification, blockchain voting, crypto micro-transactions, and tamper-proof transactions.&#xA;In 2017, we tried Ethereum to store the social contracts. This year, we tried NEM and found that it was equally impossible to maintain.</description>
+    </item>
+    <item>
+      <title>&#39;Buying Power&#39; @ Aboitiz Decode Hackathon</title>
+      <link>//localhost:1313/news/18-11-10/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/18-11-10/</guid>
+      <description>We&amp;rsquo;re at the Decode Hackathon to pitch &amp;lsquo;Buying Power&amp;rsquo;.&#xA;The Decode Hackathon is a hackathon hosted by the Aboitiz Group of Companies based in Taguig, Philippines. There are many challenges, ranging from feed optimization, smart grid, smart city, and transactions optimization.&#xA;We focused on the green energy challenge which allows business users to avail of green energy contracts under the Green Energy Options Program by the Philippine government. The problem really is that people are indifferent on where their electricity comes from.</description>
+    </item>
+    <item>
+      <title>DIRA Relief @ NASA Space Apps Challenge</title>
+      <link>//localhost:1313/news/18-10-21/</link>
+      <pubDate>Sun, 21 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/18-10-21/</guid>
+      <description>We won the Most Inspiring award at the NASA Space Apps challenge pitching DIRA (Disaster Resource Allocation) The NASA Space Apps challenge is a worldwide hackathon sponsored by NASA which aims to find uses of their data and other technologies for climate change monitoring, deforestation impact, flooding trends, disaster relief, air pollution, etc.&#xA;The winner for this year in the Philippines was the Isda app which will help fishermen monitor their fish catch through mobile phones.</description>
+    </item>
+    <item>
+      <title>At ITP Startup Open Day 2018</title>
+      <link>//localhost:1313/news/18-03-12/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/18-03-12/</guid>
+      <description>We participated in ITP&amp;rsquo;s Startup Open Day last March 12.&#xA;We introduced students of a Singapre MBA Class on what our economic system was all about.</description>
+    </item>
+    <item>
+      <title>SORA Saigon</title>
+      <link>//localhost:1313/news/18-01-17/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/18-01-17/</guid>
+      <description>We finally got our stamp today.&#xA;Thank you to Lam for her hard work in gettting things up and running.</description>
+    </item>
+    <item>
+      <title>Our Entry to the World Govhack 2017</title>
+      <link>//localhost:1313/news/17-12-27/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/17-12-27/</guid>
+      <description>We submitted &amp;ldquo;Gov&amp;rdquo; as our entry to the World Govhack 2017 The World Govhack is a hackathon by the UAE government to encourage new technologies to address issues in governance, refugees, citizenship, etc.&#xA;This year, their focus is on developing blockchain solutions for public uses.&#xA;We tried to add Ethereum to our system&amp;rsquo;s social contracts but it proved to be very unwieldly and inefficient. So we scrapped blockchain from our tech stack.</description>
+    </item>
+    <item>
+      <title>Blockathon 2017</title>
+      <link>//localhost:1313/news/17-11-26/</link>
+      <pubDate>Sun, 26 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/17-11-26/</guid>
+      <description>We won 2nd place in the first-ever blockathon in Vietnam!&#xA;The Blockathon is a blockchain hackathon held by Infinity Blockchain Labs , a research and development tech company in HCM city in Vietnam. It aims to find use cases for ethereum and other blockchain technologies. This year&amp;rsquo;s event was the first one in Vietnam and was held simultaneously in Hanoi and HCM city.&#xA;Our entry was a Social version of ROSCA or revolving credit, using Ethereum.</description>
+    </item>
+    <item>
+      <title>Zalo Hackathon</title>
+      <link>//localhost:1313/news/17-11-16/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/17-11-16/</guid>
+      <description>We&amp;rsquo;re at the Zalo hackathon with Henry and Vin as Team Happy City.&#xA;Zalo is a Vietnamese messaging app that is headquartered in HCM city.&#xA;We tried out integrating a recommendation system for SORA using backend technologies. We&amp;rsquo;re not experts in recommendation systems and so we didn&amp;rsquo;t make any place.&#xA;Updates Date . December 12, 2021 Our recommendation system eventually became ISAIAH Match while the name &amp;lsquo;Happy City&amp;rsquo; led to the name &amp;lsquo;Pantrypoints City&amp;rsquo;&amp;quot; </description>
+    </item>
+    <item>
+      <title>Slush Global Impact Accelerator</title>
+      <link>//localhost:1313/news/17-10-28/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/17-10-28/</guid>
+      <description>We made it to the semifinals of Slush Global Impact Accelerator (GIA). Slush is an annual startup event from Finland that aims to attract startups from all over the world. It hosts thousands of attendees, startups, and investors.&#xA;Our pitch was for our system to be implemented in Africa as a scalable economic system that can work for both rich and poor countries.&#xA;Updates Date . December 12, 2021 This is now the Pantrypoints system </description>
+    </item>
+    <item>
+      <title>BSSC Startup Event</title>
+      <link>//localhost:1313/news/17-08-26/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/17-08-26/</guid>
+      <description>Our team is with Team EZGamio at the BSSC startup event in Saigon. We onboarded Lam who is also our newest cofounder. Hue and Linh and their friend helped out too.&#xA;BSSC is an entrepreneurship support organization established in 2010. It holds its annual startup event to allow investors and startups to meet.</description>
+    </item>
+    <item>
+      <title>Vietnam Silicon Valley Investor Bootcamp @ HCMC</title>
+      <link>//localhost:1313/news/17-06-23/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/17-06-23/</guid>
+      <description>We were invited to join the Vietnam Silicon Valley Investor Bootcamp in Saigon as a startup.&#xA;We watched the pitches of other startups and incubators like BSSC and SpeedUp of the Ho Chi Minh City local government.</description>
+    </item>
+    <item>
+      <title>Our New Office @ IT Park Thu Duc</title>
+      <link>//localhost:1313/news/17-03-29/</link>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/17-03-29/</guid>
+      <description>We moved in to our new office at IT Park in Thu Duc District as part of ITP&amp;rsquo;s IStartX Program.&#xA;Thank you so much to IT Park for such a great opportunity!&#xA;It gives us access to the students of nearby Vietnam National University, which we can train into open source software and English.</description>
+    </item>
+    <item>
+      <title>H-Camp 2017</title>
+      <link>//localhost:1313/news/17-02-17/</link>
+      <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/17-02-17/</guid>
+      <description>We joined the H-Camps eliminations in Saigon along with our friends at Readacity and Dropdeck.&#xA;Billie Isaac joined our pitch for the first time!&#xA;We weren&amp;rsquo;t selected, but it were happy with the support that we got from our volunteers and fellow startups.&#xA;Updates Date . April 2021 SORA is now Pantrypoints, based on the 4 Laws of Value </description>
+    </item>
+    <item>
+      <title>Startup Weekend Cambodia</title>
+      <link>//localhost:1313/news/17-02-05/</link>
+      <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/17-02-05/</guid>
+      <description>We made it to the semifinals of Startup Weekend Cambodia pitching DCS (Debt Clearing System)!&#xA;Startup Weekend is a 54-hour startup hackathon and pitching competition held in various countries, organized by Techstars. The Cambodia event focuses on fintech solutions and is sponsored by ABA Bank of Cambodia.&#xA;Updates Date . Nov 2020 DCS evolved to become Resource Banking of Adam Smith Nov 2021 Resource Banking changed into Points Banking to avoid any theoretical connection with the Marxist Resource-based economy </description>
+    </item>
+    <item>
+      <title>ASEAN&#39;s Next Great Idea contest</title>
+      <link>//localhost:1313/news/16-12-09/</link>
+      <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/16-12-09/</guid>
+      <description>Juan is in Malaysia for the ASEAN&amp;rsquo;s Next Great Idea contest by the Malaysian Global Innovation and Creativity Centre or MAGIC.&#xA;The winner was Healthblocks, a Filipino startup making a hospital platform that uses blockchain to store patient records&#xA;MAGIC is the startup incubation and acceleration project of the Malaysian government headquartered in Cyberjaya, under the Minisitry of Science, Technology, and Innovation or MOSTI.&#xA;Compared to the incubation programs of other ASEAN countries like Vietnam Silicon Valley, QBO, and Block 71, MAGIC seems very well funded and supported by its government.</description>
+    </item>
+    <item>
+      <title>Hanoi Techfest 2016</title>
+      <link>//localhost:1313/news/16-11-13/</link>
+      <pubDate>Sun, 13 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/16-11-13/</guid>
+      <description>We&amp;rsquo;re at Hanoi Techfest from Nov 12-13, 2016 with our volunteers from Hanoi National University.&#xA;Techfest Vietnam is an annual event by the Ministry of Science and Technology of Vietnam designed to showcase the successes and trends in the Vietnam startup ecosystem.&#xA;The startups in the event were Gurudy, Wings, Booknhan, Lozi , TechElite, Schoolbus , and Ship60 .</description>
+    </item>
+    <item>
+      <title>Vietnam Silicon Valley (VSV) Demo day</title>
+      <link>//localhost:1313/news/16-07-16/</link>
+      <pubDate>Sat, 16 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/16-07-16/</guid>
+      <description>We&amp;rsquo;re in force at the VSV Demo day. It was our first booth ever and it was great! We renamed NARA (Non-Arbitrary Resource Allocation) into SORA (Social Resource Allocation) to emphasize social networks.&#xA;Vietnam Silicon Valley (VSV) is an incubator and accelerator program headed by Ms. Thach Le Anh. a businesswoman, angel investor and expert in startups.&#xA;VSV is part of the push of the Vietnamese government called Project 844/QD-TTg which was adopted on May 18, 2016.</description>
+    </item>
+    <item>
+      <title>NARA @ VSV 2016</title>
+      <link>//localhost:1313/news/16-05-23/</link>
+      <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/16-05-23/</guid>
+      <description>We got accepted into the Startup Program of Vietnam Silicon Valley (VSV) in Hanoi!&#xA;Vietnam Silicon Valley (VSV) is a program by the Vietnamese government to grow tech startups in Vietnam.&#xA;We changed our name from NARA to SORA Business Model Canvas A talk by the Israeli ambassador Our eager interns </description>
+    </item>
+    <item>
+      <title>NARA @ Impacthub Cambodia</title>
+      <link>//localhost:1313/news/16-02-17/</link>
+      <pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/16-02-17/</guid>
+      <description>We&amp;rsquo;re in Phnom Penh to visit Impacthub Cambodia.&#xA;The Saigon Makers community suggested us to check out ImpactHub to see if we could participate in their challenges.&#xA;We told them about our social contract system for freelancing. They suggested the concept of milestones within each contract.&#xA;Incidentally, UNICEF was there to push their call for proposals on solutions to child trafficking.</description>
+    </item>
+    <item>
+      <title>NARA @ NASA Space Apps Challenge 2016</title>
+      <link>//localhost:1313/news/16-01-10/</link>
+      <pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/16-01-10/</guid>
+      <description>We got accepted into the NASA Space apps challenge in Saigon!&#xA;Our entry is NARA or Non-Arbitrary Resource Allocation:&#xA;https://2016.spaceappschallenge.org/challenges/earth/emobile-pastoralism/projects/social-resource-allocation-sora It focuses on pastoralism for African countries like Malawi. We deployed it on Heroku.&#xA;Updates Date . December 12, 2021 NARA evolved to become SORA to focus on the social network feature, which then evolved into Pantrypoints to focus on the Points feature to implement the Effort Theory of Value </description>
+    </item>
+    <item>
+      <title>NARA @ Hatch 2015</title>
+      <link>//localhost:1313/news/15-10-24/</link>
+      <pubDate>Sat, 24 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/15-10-24/</guid>
+      <description>We had a booth in Hatch 2015 as NARA or Non-Arbitrary Resource Allocation under Team Elements.&#xA;Hatch is an incubator in Hanoi Vietnam that has its own coworking site. We learned of the event after participating in the Hack for Social Good held by the United Nations Development Program and the British Council.&#xA;Notable startups in the event were Abivn.</description>
+    </item>
+    <item>
+      <title>Start!</title>
+      <link>//localhost:1313/news/15-10-01/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/15-10-01/</guid>
+      <description>I decided to begin NARA or Non-Arbitrary Resource Allocation to implement my paper that predicts a coming crisis after the year 2018.&#xA;I&amp;rsquo;ve worked for web development companies, and I estimate that it will take 3 years to develop the NARA online economic system in time for that crisis.&#xA;The paper itself began in 2012. I started exploring different web frameworks in 2014. I&amp;rsquo;ve tried:&#xA;PHP-Wordpress Java-Spring MVC Scala-Play Groovy-Grails Ruby-Sinatra Python-Flask So far, the winner seems to be Python Flask, especially since it can be easily deployed on Google App Engine.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pantrypoints Platforms on Pantrypoints</title>
+    <link>//localhost:1313/docs/pantrypoints/</link>
+    <description>Recent content in Pantrypoints Platforms on Pantrypoints</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 22 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/docs/pantrypoints/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pantrypoints Overview</title>
+      <link>//localhost:1313/docs/pantrypoints/overview/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/pantrypoints/overview/</guid>
+      <description>Pantrypoints uses points to circulate value in and between societies.&#xA;The four arrows rotating counterclockwise indicates that a service or product uses points.&#xA;For example, the Diet-Disease app connects to the points system and so it is shown with the four arrows:&#xA;Pantrypoints Points Types Pantrypoints uses the followng point types:&#xA;Loyalty Points Exchange Points Donation Points Investment Points Insurance Points Energy Points Money Points </description>
+    </item>
+  </channel>
+</rss>

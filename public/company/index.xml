@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Pantrypoints</title>
+    <link>//localhost:1313/company/</link>
+    <description>Recent content in About on Pantrypoints</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/company/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Supereconomics</title>
+      <link>//localhost:1313/company/supereconomics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/company/supereconomics/</guid>
+      <description>Pantrypoints arose from Juan&amp;rsquo;s personal research on the 2008 Financial Crisis which led to the 2008 Food Crisis, 2011 Arab Spring, and the Eurozone crisis.&#xA;The 2008 Financial Crisis arose from Allan Greenspan not doing his job of regulating the banking industry, citing Adam Smith who advocated non-regulation. So Adam Smith should be such an evil guy for causing so much trouble, right?&#xA;By going through Adam Smith&amp;rsquo;s works, we saw that he actually advocated the strict regulation of banking, comparing it to the building of firewalls to prevent the spread of fire .</description>
+    </item>
+  </channel>
+</rss>

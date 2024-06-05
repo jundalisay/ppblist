@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Impacthub on Pantrypoints</title>
+    <link>//localhost:1313/tags/impacthub/</link>
+    <description>Recent content in Impacthub on Pantrypoints</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/impacthub/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pantry Govern @ Impacthub Smart Cities</title>
+      <link>//localhost:1313/news/21-12-11/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/21-12-11/</guid>
+      <description>We joined Impacthub Smart Cities to pitch the last part of the Pantry system &amp;ndash; Pantry Govern.&#xA;From the event, we were able finalize the features :&#xA;Permit and Issue tracking Local transportation routes map Local News (as Pantry Beacon) This completes all the platforms and features of the Pantry system. Because we didn&amp;rsquo;t get support back in 2016, development progressed very slowly. It came too late for the crisis that we predicted in 2019 which turned out to be Covid-19.</description>
+    </item>
+    <item>
+      <title>Moneyless Banking @ Impacthub 2050</title>
+      <link>//localhost:1313/news/21-10-09/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/21-10-09/</guid>
+      <description>We made it to the Top 10 of the Impacthub Agriculture Challenge but didn&amp;rsquo;t make it to the Top 3.&#xA;Most of the challenges were agriculture related:&#xA;How can tech give real-time access to prices and supply of vegetables? How can small farmholders who have no tech, no money, and are illiterate better manage their farm operations to increase yields and profits? How can farm tourism thrive with real-time information on carrying capacity?</description>
+    </item>
+  </channel>
+</rss>

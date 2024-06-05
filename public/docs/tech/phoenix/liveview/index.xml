@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LiveView on Pantrypoints</title>
+    <link>//localhost:1313/docs/tech/phoenix/liveview/</link>
+    <description>Recent content in LiveView on Pantrypoints</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/docs/tech/phoenix/liveview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview</title>
+      <link>//localhost:1313/docs/tech/phoenix/liveview/overview/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/phoenix/liveview/overview/</guid>
+      <description>Live View is a Genserver that turns Phoenix into a Websocket Server. This eliminates the need for Javascript frameworks like React or Vue. Live Components replace React Components. Though you can still use React if you want to make life difficult for yourself.&#xA;The Socket a %struct{} that has an assigns key-value %{map} the assigns map has the LiveView state info &amp;lsquo;socket assigns&amp;rsquo; therefore means the map-data changes in the socket always need any of the following tuples {:ok, socket} {:no_reply, socket} {:error, socket} mount/3 creates a LiveView process from the router (map_of_query_router_params, session_data, socket_struct)</description>
+    </item>
+    <item>
+      <title>Bindings and Streams</title>
+      <link>//localhost:1313/docs/tech/phoenix/liveview/bindings/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/phoenix/liveview/bindings/</guid>
+      <description>PHX- What it does phx-value-* parameters phx-click , phx-click-away Click Events phx-change , phx-submit , phx-feedback-for , phx-disable-with , phx-trigger-action , phx-auto-recover Form Events phx-blur , phx-focus , phx-window-blur , phx-window-focus Focus phx-keydown , phx-keyup , phx-window-keydown , phx-window-keyup , phx-key Key Events phx-viewport-top , phx-viewport-bottom Scroll phx-update , phx-remove DOM Patching phx-hook JS Interop phx-mounted , phx-disconnected , phx-connected Lifecycle Events phx-debounce , phx-throttle Rate Limiting phx-track-static Static phx-click Sends data to the LiveView process through the socket as an event name or a value via JS.</description>
+    </item>
+    <item>
+      <title>Components</title>
+      <link>//localhost:1313/docs/tech/phoenix/liveview/components/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/phoenix/liveview/components/</guid>
+      <description>@impl true Tells LiveView to implement the callback&#xA;@impl true def render(assigns) do ~L&amp;#34;&amp;#34;&amp;#34; whatever &amp;#34;&amp;#34;&amp;#34; Stateful by adding id and pointing to the Component with @myself Add id to the live_component to make it &amp;lsquo;stateful&amp;rsquo;&#xA;&amp;lt;%= live_component @socket, MessageComponent, id: 1 %&amp;gt; Add @myself to the stateful form to make the Component handle the event&#xA;&amp;lt;form phx-submit=&amp;#34;send-message&amp;#34; phx-target=&amp;#34;&amp;lt;%= @myself %&amp;gt;&amp;#34; %&amp;gt; Card Component with Form defmodule CardComponent do def render(assigns) do ~H&amp;#34;\&amp;#34;&amp;#34; &amp;lt;form phx-submit=&amp;#34;.</description>
+    </item>
+    <item>
+      <title>Handlers</title>
+      <link>//localhost:1313/docs/tech/phoenix/liveview/handlers/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/phoenix/liveview/handlers/</guid>
+      <description>Handlers handle events from the HTML attributes phx- in the view and render the changes in the data (or &amp;ldquo;state&amp;rdquo;) by updating the assign-map in the socket-struct.&#xA;phx-value-id=&amp;#34;&amp;lt;%= struct.id %&amp;gt;&amp;#34; %{&amp;#34;input-data&amp;#34; =&amp;gt; elixir-variable-repersenting-a-string} handle_params handles URL parameters that affect Routes via live_patch why not call it as handle_url?? sends an event as data-phx-link-state always invoked after mount handles dynamic states, just as mount handles static states handle_params(parameters_of_url, url, socket) do # manipulate the socket data here to automatically output and update the view {:noreply, socket} # has parameters def handle_params(%{&amp;#34;id&amp;#34; =&amp;gt; id}, parameters_of_url, url, socket) do # manipulate the socket data via the id state {:noreply, socket} end # empty parameters def handle_params(%{_, _url, socket) do # if no url parameter is entered then just show the socket {:noreply, socket} end # rendering whatever def render(data) do always_needed_assigns = %{key: data} ~L&amp;#34;&amp;#34;&amp;#34; &amp;lt;%= @key %&amp;gt; &amp;#34;&amp;#34;&amp;#34; end handle_event handles external messages (events) from the template bindings such as phx-click why not call it handle_external?</description>
+    </item>
+    <item>
+      <title>Navigation</title>
+      <link>//localhost:1313/docs/tech/phoenix/liveview/nav/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/phoenix/liveview/nav/</guid>
+      <description>Liveview has two ways to Navigate:&#xA;Client # 0.16 &amp;lt;%= live_patch &amp;#34;Text&amp;#34;, to: Routes.live_path(@socket, __CURRENTMODULE__, id: struct.id) %&amp;gt; # 0.19 &amp;lt;.link patch={~p&amp;#34;/pages/#{@page}&amp;#34;}Go&amp;lt;/.link&amp;gt; Server # 0.16 push_patch(to: socket.assigns.return_to) # 0.19 {:noreply, push_patch(socket, to: ~p&amp;#34;/pages/#{@page}) live_patch push_patch This navigates to the same Liveview.&#xA;Live Routes are PATCH because it updates or patches the LiveView process with the new data and sends a new &amp;lsquo;diff&amp;rsquo; to the DOM&#xA;__CURRENTMODULE__ is a shortcut for the Module Name</description>
+    </item>
+    <item>
+      <title>Streams</title>
+      <link>//localhost:1313/docs/tech/phoenix/liveview/streams/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/phoenix/liveview/streams/</guid>
+      <description>Streams Streams began in Liveview 0.18.16&#xA;In server:&#xA;In view:&#xA;# long version &amp;lt;div id=&amp;#34;list_name&amp;#34; phx-update=&amp;#34;stream&amp;#34;&amp;gt; &amp;lt;%= for {dom_id, i} &amp;lt;- @streams.items do -update=&amp;#34;stream&amp;#34; do&amp;gt; &amp;lt;div id={dom_id}&amp;gt; # for version &amp;lt;div id=&amp;#34;list_name&amp;#34; phx-update=&amp;#34;stream&amp;#34;&amp;gt; &amp;lt;div :for={{dom_id, i} &amp;lt;- @streams.items} id={dom_id} &amp;gt; stream_delete stream_delete(socket, :albums, album)&#xA;stream_insert Needs a boiler plate&#xA;def save_post(socket, :new, post_params) do case Blog create_post(post_params) do {:ok, post } defp notify_parent(m), do: send(self(), {__MODULE__, msg}) </description>
+    </item>
+  </channel>
+</rss>
