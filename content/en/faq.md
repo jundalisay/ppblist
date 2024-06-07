@@ -51,13 +51,11 @@ Why would people pay in points? Money already works.
 {{< /r >}}
 
 {{< l a="Pantrypoints" >}}
-Money is expensive. It is a material thing that needs to be printed or stored in vaults, and guarded and carried in your pocket. 
+Money is expensive. It is a material thing that needs to be printed or stored in vaults, and guarded and carried in your pocket. It loses value because of inflation. 
 
-It loses value because of inflation. Credit cards are liable to fraud, fees, and interest rates. 
+Credit cards are liable to fraud, fees, and interest rates. Cryptocurrencies try to reduce this cost by being totally electronic, but are even more subject to scams and hacking than credit cards. 
 
-Cryptocurrencies try to reduce this cost by being totally electronic, but are even more subject to scams and hacking than credit cards. 
-
-Money supply is ultimately controlled by banks, not by people, as explained by Jeremy Grantham:
+Money supply is ultimately controlled by banks, not by people. The problem is that banks don't actually produce anything, as explained by Jeremy Grantham:
 {{< /l >}}
 
 {{< youtube hIKG2YpFoFQ >}}
@@ -67,7 +65,7 @@ Are points cheaper?
 {{< /r >}}
 
 {{< l a="Pantrypoints" >}}
-Of course. Points are stored online or on paper-cards that cannot be used by third parties. It does not need expensive vaults nor ATMs. 
+Yes, of course. Points are stored online or on paper-cards that cannot be used by third parties. It does not need expensive vaults nor ATMs. 
 
 The value of each point is pegged to 1 kilogram of rice which 'inflates' far less than money. With Pantrypoints, you can go to a store and buy things on barter-credit by relying on the trust between you and the seller.  
 {{< /l >}}
@@ -91,13 +89,13 @@ How many users have you had?
 
 
 {{< l a="Pantrypoints" >}}
-We have a limited budget which allows us a cost of $20-100 per server, depending on configuration on Python, Ruby, or Elixir. Moreover, data privacy laws require registration if there are more 1,000 users.
+We have a limited budget which allows us a cost of $20-100 per server, depending on configuration on Python, Ruby, or Elixir. Moreover, data privacy laws require registration if there are more 1,000 users. So we have a maximum of 1,000 registered users or 300 concurrent users per server. 
 
-So we have a maximum of 1,000 registered users or 300 concurrent users per server. After it goes over, the server crashes. This means the experiment worked. This happened a lot during the pandemic when a lot of people suddenly went online to look for jobs or to barter. 
+After it goes over, the server crashes. This means the experiment worked. This happened a lot during the pandemic when a lot of people suddenly went online to look for jobs or to barter. 
 
 We then spin up a new server for a new town with new features as a new experiment. At our peak when we were supported by incubators that allowed us to have staff, we had 7 servers. 
 
-We realized the points system must be bullet-proof, so we are focusing on Pantrypreneur Rewards which is a points-based loyalty app for restaurants. 
+We realized the points system must be bullet-proof, so we are focusing on using points as a loyalty rewards system called Pantrypreneur Rewards for restaurants and small retailers. 
 {{< /l >}}
 
 
@@ -137,24 +135,24 @@ The government can earn a points-tax per transaction which can be claimed as the
 So a potato farmer literaly pays potatoes to the government which it then pays to its employees or uses for welfare services, reducing the use of money for such purposes. The revenue that would have gone to the banker to finance that money then goes to the farmer to incentivize his productivity, increasing the real wealth of nations.
 {{< /l >}}
 
-
-## Pantrypreneur and ISAIAH
+<!-- ## Pantrypreneur and ISAIAH -->
 
 {{< r a="Banker" >}}
 So you want the whole economy to be dominated by the government?
 {{< /r >}}
 
 {{< l a="Pantrypoints" >}}
-No. There will be private versions that businesses can use for operations. 
-
-For example, it can be used to give points to employees so that the business can save on cash. We call this Pantrypreneur which will have its own machine learning system called ISAIAH. 
+No. In liberal countries, people can deploy their own Pantrypoints EaaS and remit the in-kind taxes themselves to the government. This is the modern version of tax farming in kind. 
 {{< /l >}}
 
+<!--   can us  There will be private versions that businesses can use for operations. 
+
+For example, it can be used to give points to employees so that the business can save on cash. We call this Pantrypreneur which will have its own machine learning system called ISAIAH.  -->
 
 ## Pool Clearing
 
 {{< r a="Asker" >}}
-You said that Pantrypoints can be used to solve economic crises globally. How can this be done when each Pantrypoints only works for each country, and not all countries? 
+You said that Pantrypoints is scalable can be used to solve economic crises globally. How can this be done when each Pantrypoints only works for each country, and not all countries? 
 {{< /r >}}
 
 {{< l a="Pantrypoints" >}}
@@ -167,7 +165,7 @@ What's Pool Clearing?
 
 
 {{< l a="Pantrypoints" >}}
-It's a trade system proposed by British economist EF Schumacher wherein the trading countries act as one pool. The members of the pool constantly coordinate with each other to make world trade efficient. 
+It's a world trade system proposed by British economist EF Schumacher wherein the trading countries act as one pool. The members of the pool constantly coordinate with each other to make world trade efficient. 
 
 This is very different from the current world trade system established by Bretton Woods wherein the United States has a superior position and the US dollar is the international reserve currency. In Pool Clearing, the price of grains is the common measure. 
 {{< /l >}}
@@ -177,9 +175,7 @@ How will grains be the alternative to the US dollar as international reserve cur
 {{< /r >}}
 
 {{< l a="Pantrypoints" >}}
-We are working on a blockchain which is pegged to grains such as rice or wheat. One coin in Asia represents the value of 1 kilogram of rice, for example. 
-
-This is only tradeable between governments. It matches 'bank gold' which is different from market gold traded by citizens.
+We are working on a blockchain which is pegged to grains such as rice or wheat. One coin in Asia represents the value of 1 kilogram of rice, for example. This is only tradeable between governments. It matches 'bank gold' which is different from market gold traded by citizens.
 {{< /r >}}
 
 
@@ -197,16 +193,30 @@ You can register in [the waitlist](https://hub.pantrypoints.com), or send us a m
 
 
 {{< r a="Asker" >}}
-Who maintains these apps?
+What is the current status?
 {{< /r >}}
 
 
  <!-- ~~We will register a real company in Q4 2022 or Q1 2023 depending on the commitments that we get.~~ We piggyback on an NGO to help us implement them. -->
 
 {{< l a="Pantrypoints" >}}
-We have a volunteers who test and contribute to maintain them. So please don't expect them to be bug-free yet.
+Our correct prediction of the 2020 Stagflation means that its underlying science, called Superphysics is correct. So from 2024 we have shifted resources to that, and have transferred Pantrypoints to a coconut cooperative to test using coconut oil instead of grains as the basis of valuation, as well as offline barter-credit cards.
+{{< /l >}}
+
+{{< r a="Asker" >}}
+So that was your version of a non-capitalist exit?
+{{< /r >}}
+
+{{< l a="Pantrypoints" >}}
+Not yet. We exit when that cooperative becomes fully capable to deploy and maintain Pantrypoints. 
+
+In an ideal world, 2024 would have been our exit, as Pantrypoints was designed to be the resource provider for Superphysics experiments such as anti-gravity, crystal computers, aether-based disease treatments, etc. But since we had far less support than ideal, most of those experiments are shelved. 
+
+However, this lets us focus on the theory so much more and make it as a real alternative not only to Neoclassical Economics, but also to Modern Physics and Western Medicine to push for policies that not only solve economic crises, but also the Cosmology Crisis, health crisis, territorial disputes, etc.
+{{< /l >}}
+
+<!-- We have a volunteers who test and contribute to maintain them. So please don't expect them to be bug-free yet.
 
 We predicted that [there would be a global stagflation by 2020, followed by wars of which the effects would last to 2030 to 2035.](https://superphysics.org/social/supersociology/precrisis-years) This would make people interested in our solution sooner or later, and so we chose to play the (very) long game.
 
-The Ukraine and Gaza war and the global inflation happened within that timeframe which proves our principles were correct. This is why we are expanding those principles (as Supereconomics) into Superphysics where we predict things for Physics, such as the failure of the Lambda CDM model. 
-{{< /l >}}
+The Ukraine and Gaza war and the global inflation happened within that timeframe which proves our principles were correct. This is why we are expanding those principles (as Supereconomics) into Superphysics where we predict things for Physics, such as the failure of the Lambda CDM model.  -->
