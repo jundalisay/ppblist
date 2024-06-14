@@ -6,7 +6,7 @@ date: 2019-11-17
 image: "/og/tax.jpg"
 description : "All nations have endeavoured, to the best of their judgment, to render their taxes as equal, certain, convenient as possible. Historical taxes will show that these endeavours were not equally successful."
 author: Juan
-icon: /icons/pantry.png
+icon: /icons/pantry50.png
 ---
 
 

@@ -25,13 +25,13 @@ We usually admire good looking people first, then later our emotions either turn
 
 Dating apps like Tinder only focus on two aspects: beauty and lust, which are made possible by photos. It has no means of getting 'kindness data' which we think is the most important requirement for a successful marriage:
 
-<!-- <div class="squote hume"> -->
+{{< q a="Hume" c="Treatise of Human Nature" >}}
+Kindness or esteem, and the appetite to generation, are too remote to unite easily together. Kindness is perhaps the most refined passion of the soul. The appetite for generation is the most gross and vulgar. The love of beauty is placed in a just mediumbetween them and shares both their natures. 
+{{< /q >}}
 
-> Kindness or esteem, and the appetite to generation, are too remote to unite easily together. Kindness is perhaps the most refined passion of the soul. The appetite for generation is the most gross and vulgar. The love of beauty is placed in a just mediumbetween them and shares both their natures. *Treatise of Human Nature*
 
 Tinder just focuses on the physical aspects
 
-<br>
 
 ## Solution: Social KYC
 
