@@ -777,7 +777,7 @@ paginate = 12
 
 
 [params]
-  logo = "/icons/pantry.png"
+  logo = "/icons/pantry50.png"
   
   # Enable the darkmode toggle in header
   darkModeToggle = true
