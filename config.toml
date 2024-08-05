@@ -62,7 +62,7 @@ paginate = 12
     [languages.en.params.cta]
       title = ""
     [languages.en.params.cta.buttons.a]
-      link = "https://hub.pantrypoints.com/signup"
+      link = "/register"
       text = "Register in the Waitlist"
       color = ""
     [languages.en.params.cta.buttons.b]
@@ -237,7 +237,7 @@ paginate = 12
     [languages.zh.params.cta]
       title = ""
     [languages.zh.params.cta.buttons.a]
-      link = "https://hub.pantrypoints.com/signup"
+      link = "/register"
       text = "请在等候名单上注册"
     [languages.zh.params.cta.buttons.b]
       link = "https://www.superphysics.org/social/economics"
@@ -353,7 +353,7 @@ paginate = 12
     [languages.de.params.cta]
       title = ""
     [languages.de.params.cta.buttons.a]
-      link = "https://hub.pantrypoints.com/signup"
+      link = "/register"
       text = "Register in the Waitlist"
       color = ""
     [languages.de.params.cta.buttons.b]
@@ -421,7 +421,7 @@ paginate = 12
     [languages.fr.params.cta]
       title = ""
     [languages.fr.params.cta.buttons.a]
-      link = "https://hub.pantrypoints.com/signup"
+      link = "/register"
       text = "Register in the Waitlist"
       color = ""
     [languages.fr.params.cta.buttons.b]
@@ -490,7 +490,7 @@ paginate = 12
     [languages.hi.params.cta]
       title = ""
     [languages.hi.params.cta.buttons.a]
-      link = "https://hub.pantrypoints.com/signup"
+      link = "/register"
       text = "Register in the Waitlist"
       color = ""
     [languages.hi.params.cta.buttons.b]
@@ -558,7 +558,7 @@ paginate = 12
     [languages.jp.params.cta]
       title = ""
     [languages.jp.params.cta.buttons.a]
-      link = "https://hub.pantrypoints.com/signup"
+      link = "/register"
       text = "Register in the Waitlist"
       color = ""
     [languages.jp.params.cta.buttons.b]
@@ -634,7 +634,7 @@ paginate = 12
     [languages.es.params.cta]
       title = ""
     [languages.es.params.cta.buttons.a]
-      link = "https://hub.pantrypoints.com/signup"
+      link = "/register"
       text = "Regístrese en la lista de espera"
       color = ""
     [languages.es.params.cta.buttons.b]

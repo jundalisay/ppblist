@@ -57,7 +57,7 @@ how:
 # cta:
 #   title : "I want Work for my Company"
 #   link1text: "Sure!"
-#   link1 : "https://hub.pantrypoints.com/signup"
+#   link1 : "/register"
 #   link2text: "I need to know more"
 #   link2 : "https://superphysics.org/research/smith/wealth-of-nations/book-1/chapter-8e"
 ---

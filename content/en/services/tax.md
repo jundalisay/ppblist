@@ -12,7 +12,7 @@ feat: true
 cta:
   buttons:
     - text: "Register in the Waitlist"
-      link: "https://hub.pantrypoints.com/signup"
+      link: "/register"
     - text: "Read the solution"
       link : "/docs/supereconomics/pointtax/"
 

@@ -61,7 +61,7 @@ feedback:
 cta:
   buttons:
     - text: "Register in the Waitlist"
-      link: "https://hub.pantrypoints.com/signup"
+      link: "/register"
     - text: "I need to know more"
       link : "https://superphysics.org/research/smith/wealth-of-nations/book-5/chapter-1/part-3zd"
   

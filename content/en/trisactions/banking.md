@@ -70,7 +70,7 @@ feedback:
 cta:
   buttons:
     - text: "Register in the Waitlist!"
-      link: "https://hub.pantrypoints.com/signup"
+      link: "/register"
     - text: "I need to know more"
       link : "https://superphysics.org/social/economics/solutions/points-banking"
 

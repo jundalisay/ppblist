@@ -70,7 +70,7 @@ feedback:
 cta:
   buttons:
     - text: "在等待名单中注册"
-      link: "https://hub.pantrypoints.com/signup"
+      link: "/register"
     # - text: "暂时不要"
     #   link : "https://superphysics.org/social/economics/solutions/points-banking"
 
