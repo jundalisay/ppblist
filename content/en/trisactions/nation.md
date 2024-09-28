@@ -63,7 +63,7 @@ feedback:
 cta:
   buttons:
     - text: "Register in the Waitlist"
-      link: "https://hub.pantrypoints.com/signup"
+      link: "/register"
     - text: "View Schumacher's proposal"
       link : "https://www.superphysics.org/research/schumacher/pool-clearing/part-1"
 

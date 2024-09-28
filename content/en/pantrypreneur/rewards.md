@@ -53,7 +53,7 @@ feedback:
 cta:
   buttons:
     - text: "Use it for your business"
-      link: "https://hub.pantrypoints.com/signup"
+      link: "/register"
     - text: "I need to know more"
       link : "/docs/supereconomics/loyalty-points"
 

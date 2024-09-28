@@ -188,7 +188,7 @@ How do I sign up?
 
 
 {{< l a="Pantrypoints" >}}
-You can register in [the waitlist](https://hub.pantrypoints.com), or send us a messsage [here](/contact/), or send us an email at pantrypoints@gmail.com or hello@pantrypoints.com. 
+You can register in [the waitlist](/register), or send us a messsage [here](/contact/), or send us an email at pantrypoints@gmail.com or hello@pantrypoints.com. 
 {{< /l >}}
 
 

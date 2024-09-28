@@ -47,7 +47,7 @@ shots:
 cta:
   title : "Mag-Register sa Waitlist"
   link1text: "Oo ba!"
-  link1 : "https://hub.pantrypoints.com/signup"
+  link1 : "/register"
   link2text: "Ano ba yan?"
   link2 : "https://superphysics.org/social/economics/fallacies/equilibrium-fallacy"
 

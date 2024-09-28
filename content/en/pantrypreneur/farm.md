@@ -55,7 +55,7 @@ how:
 cta:
   buttons:
     - text: "I want Farm for my Agribusiness"
-      link: "https://hub.pantrypoints.com/signup"
+      link: "/register"
     - text: "I need to know more"
       link : "https://superphysics.org/research/sarkar/farming/section-1/agriculture"
 
