@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pantrypoints</title>
+    <link>//localhost:1313/tags/pantrypoints/</link>
+    <description>Recent content on Pantrypoints</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/pantrypoints/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Name change and site upgrade: &#39;Social Resource Allocation&#39; is now &#39;Pantrypoints&#39;!</title>
+      <link>//localhost:1313/news/21-07-15/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/21-07-15/</guid>
+      <description>In line with our mega-overhaul that began in April, we&amp;rsquo;ve renamed Social Resource Allocation (SORA) into Pantrypoints, as well as reorganizing all apps and features.&#xA;The main catalyst was finding out the error of Einstein in his Theory of General Relativity . This then made it easy to match the laws of thermodynamics to our laws of value which then became the solid foundation of Supereconomics as implemented through community pantries during the pandemic.</description>
+    </item>
+  </channel>
+</rss>

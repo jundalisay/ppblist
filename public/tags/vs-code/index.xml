@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VS Code on Pantrypoints</title>
+    <link>//localhost:1313/tags/vs-code/</link>
+    <description>Recent content in VS Code on Pantrypoints</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/vs-code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to install Flutter, Android Studio, and Visual Studio Code in Ubuntu</title>
+      <link>//localhost:1313/docs/tech/localhost/install-flutter-android-studio-vscode-ubuntu/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/localhost/install-flutter-android-studio-vscode-ubuntu/</guid>
+      <description>Step 1: Install Flutter 1.1 Download, Extract, and Move to a Folder Download the Flutter zip from the official site Unzip the files at the current Downloads directors. This will create: /home/your-ubuntu-username/Downloads/flutter_linux_3.0.5-stable From the flutter_linux_3.0.5-stable directory, move the flutter folder to the Downloads folder so that you have: /home/your-ubuntu-username/Downloads/flutter 1.2 Set up bashrc In your terminal, enter: sudo nano ~/.bashrc At the bottom, insert: export PATH=&amp;#34;$PATH:$HOME/Downloads/flutter/bin&amp;#34; Exit nano with Ctrl + x then save In the terminal, type flutter -h to test if the directory was referenced Step 2: Install Android Studio Android Studio is needed for the Android SDK.</description>
+    </item>
+  </channel>
+</rss>

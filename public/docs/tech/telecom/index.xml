@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Telecoms on Pantrypoints</title>
+    <link>//localhost:1313/docs/tech/telecom/</link>
+    <description>Recent content in Telecoms on Pantrypoints</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 06 Oct 2020 08:48:23 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/docs/tech/telecom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DITO promos and compatible phones</title>
+      <link>//localhost:1313/docs/tech/telecom/dito/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:23 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/telecom/dito/</guid>
+      <description>DITO Promos According to Cost per GB DITO has the cheapest rates in the Philippines. We compare prepaid mobile, prepaid 4G Wifi, and prepaid 5G Wifi arranged by cost per GB:&#xA;Name Peso per GB Peso per Day 5G Wifi 1090 Unli: 1090 pesos for unli GB @ 30 days 1 (*) 36.33 (43.28*) Mobile Level Up 99: 99 pesos for 14GB @ 30 days 7.14 3.33 Mobile Advance Pay 713: 713 pesos for 96GB @ 365 days 7.</description>
+    </item>
+  </channel>
+</rss>

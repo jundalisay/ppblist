@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing on Pantrypoints</title>
+    <link>//localhost:1313/docs/tech/elixir/testing/</link>
+    <description>Recent content in Testing on Pantrypoints</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 22 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/docs/tech/elixir/testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ExUnit</title>
+      <link>//localhost:1313/docs/tech/elixir/testing/exunit/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/elixir/testing/exunit/</guid>
+      <description>Doc Module The documentation module is also a test. This leads to Doctest fail or success.&#xA;How to Create Tests Create a file as file_test.exs&#xA;Write macros:&#xA;describe &amp;#34;App.function_name/1&amp;#34; do test &amp;#34;what I want to test&amp;#34; do assert App.function_name(1) == 1 end end How to Run Tests Run all Tests&#xA;mix test Run a specific test based on its row in the file&#xA;mix test test/app_test.exs:row_number ExUnit ExUnit.Case &amp;ndash; provides helpers</description>
+    </item>
+  </channel>
+</rss>

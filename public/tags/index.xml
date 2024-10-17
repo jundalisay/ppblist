@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Pantrypoints</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on Pantrypoints</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Samba</title>
+      <link>//localhost:1313/tags/samba/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/samba/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phoenix</title>
+      <link>//localhost:1313/tags/phoenix/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/phoenix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Elixir</title>
+      <link>//localhost:1313/tags/elixir/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/elixir/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Acer</title>
+      <link>//localhost:1313/tags/acer/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/acer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ethereum</title>
+      <link>//localhost:1313/tags/ethereum/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/ethereum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ayus</title>
+      <link>//localhost:1313/tags/ayus/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/ayus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SCENAC</title>
+      <link>//localhost:1313/tags/scenac/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/scenac/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Points</title>
+      <link>//localhost:1313/tags/points/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/points/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Food Rescue Philippines</title>
+      <link>//localhost:1313/tags/food-rescue-philippines/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/food-rescue-philippines/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rewards</title>
+      <link>//localhost:1313/tags/rewards/</link>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/rewards/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Angels Shelter</title>
+      <link>//localhost:1313/tags/angels-shelter/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/angels-shelter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hack4Food</title>
+      <link>//localhost:1313/tags/hack4food/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/hack4food/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fishackathon</title>
+      <link>//localhost:1313/tags/fishackathon/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/fishackathon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gigalixir</title>
+      <link>//localhost:1313/tags/gigalixir/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/gigalixir/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Govern</title>
+      <link>//localhost:1313/tags/govern/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/govern/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Heroku</title>
+      <link>//localhost:1313/tags/heroku/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/heroku/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Impacthub</title>
+      <link>//localhost:1313/tags/impacthub/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/impacthub/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Static Site Hosting</title>
+      <link>//localhost:1313/tags/static-site-hosting/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/static-site-hosting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>//localhost:1313/tags/tools/</link>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pantrypoints</title>
+      <link>//localhost:1313/tags/pantrypoints/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/pantrypoints/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flutter</title>
+      <link>//localhost:1313/tags/flutter/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/flutter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Apps</title>
+      <link>//localhost:1313/tags/apps/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/apps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Android</title>
+      <link>//localhost:1313/tags/android/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/android/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VS Code</title>
+      <link>//localhost:1313/tags/vs-code/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/vs-code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Astro</title>
+      <link>//localhost:1313/tags/astro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/astro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jamstac</title>
+      <link>//localhost:1313/tags/jamstac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/jamstac/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tailwind</title>
+      <link>//localhost:1313/tags/tailwind/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/tailwind/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

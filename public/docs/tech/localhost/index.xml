@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Localhost on Pantrypoints</title>
+    <link>//localhost:1313/docs/tech/localhost/</link>
+    <description>Recent content in Localhost on Pantrypoints</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/docs/tech/localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Install PG Admin 4 on Linux Mint</title>
+      <link>//localhost:1313/docs/tech/localhost/pgadmin/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/localhost/pgadmin/</guid>
+      <description> Go to https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/jammy/dists/pgadmin4/main/binary-amd64/ Download the following files and install them in the following order&#xA;libpq5_16.1-1.pgdg22.04+1_amd64.deb libpq-dev_16.1-1.pgdg22.04+1_amd64.deb pgadmin4-server_8.0_amd64.deb pgadmin4-desktop_8.0_amd64.deb </description>
+    </item>
+    <item>
+      <title>How to Enable Shared Folders in Linux Mint Cinnamon</title>
+      <link>//localhost:1313/docs/tech/localhost/samba/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/localhost/samba/</guid>
+      <description>1. Install Samba sudo apt install samba 2. Force your user in the Config sudo nano /etc/samba/smb.conf Add under [global]:&#xA;force user = your-username-in-your-mint-account 3. Restart sudo systemctl restart smbd sudo systemctl status smbd 4. Share a folder RIght click a folder. Go to the Share tab. Check Allow Others and Guest Access, then Create Share.&#xA;Check the Folder in another computer&#xA;Go to another computer. Go Network and check the folder</description>
+    </item>
+    <item>
+      <title>Mac OSX Versions</title>
+      <link>//localhost:1313/docs/tech/localhost/mac/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/localhost/mac/</guid>
+      <description>Name Version macOS Sonoma 14.4.1 macOS Ventura 13.6.6 macOS Monterey 12.7.4 macOS Big Sur 11.7.10 macOS Catalina 10.15.7 macOS Mojave 10.14.6 macOS High Sierra 10.13.6 macOS Sierra 10.12.6 (I5-2435M mac os late 2011) OS X El Capitan 10.11.6 OS X Yosemite 10.10.5 OS X Mavericks 10.9.5 OS X Mountain Lion 10.8.5 OS X Lion 10.7.5 Mac OS X Snow Leopard 10.6.8 Mac OS X Leopard 10.5.8 Mac OS X Tiger 10.</description>
+    </item>
+    <item>
+      <title>How to Fix No Bootable Device on Acer ES1 132</title>
+      <link>//localhost:1313/docs/tech/localhost/acer/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/localhost/acer/</guid>
+      <description>This assumes you want to install Ubuntu, Mint, Fedora, Android OS, OpenSUSE, or Red Hat instead of Windows.&#xA;Step 1 Create a live USB installer for your OS&#xA;Step 2 Plug it in the laptop and set up the BIOS to boot from the USB&#xA;Step 3 Install the OS on your hard disk. We assume you have Mint which is Ubuntu anyway.&#xA;Step 4 Open &amp;ldquo;Disks&amp;rdquo;&#xA;Choose your hard disk partition that has &amp;ldquo;EFI System&amp;rdquo;.</description>
+    </item>
+    <item>
+      <title>How to install Flutter, Android Studio, and Visual Studio Code in Ubuntu</title>
+      <link>//localhost:1313/docs/tech/localhost/install-flutter-android-studio-vscode-ubuntu/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/localhost/install-flutter-android-studio-vscode-ubuntu/</guid>
+      <description>Step 1: Install Flutter 1.1 Download, Extract, and Move to a Folder Download the Flutter zip from the official site Unzip the files at the current Downloads directors. This will create: /home/your-ubuntu-username/Downloads/flutter_linux_3.0.5-stable From the flutter_linux_3.0.5-stable directory, move the flutter folder to the Downloads folder so that you have: /home/your-ubuntu-username/Downloads/flutter 1.2 Set up bashrc In your terminal, enter: sudo nano ~/.bashrc At the bottom, insert: export PATH=&amp;#34;$PATH:$HOME/Downloads/flutter/bin&amp;#34; Exit nano with Ctrl + x then save In the terminal, type flutter -h to test if the directory was referenced Step 2: Install Android Studio Android Studio is needed for the Android SDK.</description>
+    </item>
+    <item>
+      <title>Linux Filesystem</title>
+      <link>//localhost:1313/docs/tech/localhost/ubuntu-filesystem/</link>
+      <pubDate>Sat, 12 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/localhost/ubuntu-filesystem/</guid>
+      <description>These directories are required in /.&#xA;Directory Purpose /bin Essential command binaries /boot Static files of the boot loader /dev Device files /etc Host-specific system configuration /lib Essential shared libraries and kernel modules /media Mount point for removeable media /mnt Mount point for mounting a filesystem temporarily /opt Add-on application software packages /sbin Essential system binaries /srv Data for services provided by this system /tmp Temporary files /usr Secondary hierarchy /var Variable data Additional directories are in / if the corresponding subsystem is installed:</description>
+    </item>
+  </channel>
+</rss>

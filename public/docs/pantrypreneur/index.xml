@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pantrypreneur Platforms on Pantrypoints</title>
+    <link>//localhost:1313/docs/pantrypreneur/</link>
+    <description>Recent content in Pantrypreneur Platforms on Pantrypoints</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Oct 2020 15:21:01 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/docs/pantrypreneur/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview</title>
+      <link>//localhost:1313/docs/pantrypreneur/overview/</link>
+      <pubDate>Tue, 13 Oct 2020 15:21:01 +0200</pubDate>
+      <guid>//localhost:1313/docs/pantrypreneur/overview/</guid>
+      <description>Pantrypreneur is a business platform that promotes points-based transactions.&#xA;Intent It focuses on enabling micro and small businesses to manage their basic operations using the web.&#xA;Features It has the following default features as modules:&#xA;Klock Query It also can have the following additional modules:&#xA;Rewards Appraise Jobs Models See the individual features&#xA;Implementations The features lead to the following implementations:&#xA;Pantrypreneur Educate: This is meant for schools and training centers Appraise Klock Query Jobs (as Quizzes) Pantrypreneur Farm: This is meant for agribusinesses Appraise Klock Plots Pantrypreneur Rewards: This is meant for consumer goods and services Appraise Klock Query Rewards Cancelled Implementations Pantrypreneur Health: cancelled due to privacy laws, replaced with Pantrypoints Disease-Diet Suggest </description>
+    </item>
+  </channel>
+</rss>

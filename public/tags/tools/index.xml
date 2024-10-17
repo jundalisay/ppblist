@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on Pantrypoints</title>
+    <link>//localhost:1313/tags/tools/</link>
+    <description>Recent content in Tools on Pantrypoints</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Useful Free Tools for Web Development 2021</title>
+      <link>//localhost:1313/docs/tech/web/useful-free-tools-web-development/</link>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/web/useful-free-tools-web-development/</guid>
+      <description>Here are some free online tools that we use to develop our own app and websites. I&amp;rsquo;ve put up this list for my own use in case I have to scrub data using a different computer, like the ones in internet cafes&#xA;Machine Learning Tool Purpose Google Colab Free online machine learning environment Graphics Resources Purpose Cloudinary Free Image, Video, File Hosting. Has a faster CDN than Kraken or Sirv Sirv Free Image, Video, File Hosting Canva Makes infographics Google Slides Makes basic graphics, has offline mode Lucidcharts Makes graphs Undraw Free Images Unsplash Free Graphics / Illustrations / Photos Video Resources Purpose Openshot Free video editor Pexels Free Images and Stock Videos Hosting Resources Purpose Netlify Web App Hosting, Free limited static sites Render Web App Hosting, Free limited static sites Github Pages Free limited static sites Gitlab Pages Free limited static sites Cloudflare Content Deliver Network Heroku Deploy web servers (needs credit card) Gigalixir Similar to Heroku but doesn&amp;rsquo;t need a credit card Google Cloud Platform Deploy web servers (needs credit card), has free trial Web Tools Purpose Observatory Scan your website for vulnerabilities SSL Test Check your SSL Open Ports check which ports are open Map Tools Purpose Lat Long Finder Latitude and Longitude Finder based on Address data (Faster than Google Maps) Text Tools Purpose Remove Line Breaks remove line breaks in text Word to HTML convert Word to HTML Remove Letter Accents Useful for non-english text ERB to Slim HTML to slim converter for Ruby templates Site Performance Tools Purpose Load Impact and Loader Stress-test your site Pingdom Test Check site&amp;rsquo;s load speed Nibbler Check your site&amp;rsquo;s performance Page Insights Check site performance SEO Tools Purpose Ahrefs Check broken links, domain authority, keywords, etc Broken Link Checker Ubersuggest Find keywords for your content Moz Check basic SEO Semrush Site Audit Social Tools Purpose Facebook Adds social buttons, check open graph tags </description>
+    </item>
+  </channel>
+</rss>

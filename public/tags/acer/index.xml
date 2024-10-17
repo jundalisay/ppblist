@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acer on Pantrypoints</title>
+    <link>//localhost:1313/tags/acer/</link>
+    <description>Recent content in Acer on Pantrypoints</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/acer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Fix No Bootable Device on Acer ES1 132</title>
+      <link>//localhost:1313/docs/tech/localhost/acer/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/localhost/acer/</guid>
+      <description>This assumes you want to install Ubuntu, Mint, Fedora, Android OS, OpenSUSE, or Red Hat instead of Windows.&#xA;Step 1 Create a live USB installer for your OS&#xA;Step 2 Plug it in the laptop and set up the BIOS to boot from the USB&#xA;Step 3 Install the OS on your hard disk. We assume you have Mint which is Ubuntu anyway.&#xA;Step 4 Open &amp;ldquo;Disks&amp;rdquo;&#xA;Choose your hard disk partition that has &amp;ldquo;EFI System&amp;rdquo;.</description>
+    </item>
+  </channel>
+</rss>

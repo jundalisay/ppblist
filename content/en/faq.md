@@ -15,6 +15,9 @@ What is Pantrypoints?
 It's a points-based economic system that implements the **grain-based valuation** proposal of Adam Smith in "The Wealth of Nations". 
 {{< /l >}}
 
+{{< youtube ZLxiwg2-tUc >}}
+
+
 {{< r a="Asker" >}}
 What's wrong with the current economic system?
 {{< /r >}}
@@ -169,6 +172,9 @@ It's a world trade system proposed by British economist EF Schumacher wherein th
 
 This is very different from the current world trade system established by Bretton Woods wherein the United States has a superior position and the US dollar is the international reserve currency. In Pool Clearing, the price of grains is the common measure. 
 {{< /l >}}
+
+{{< youtube 25UmGDzactk >}}
+
 
 {{< r a="Asker" >}}
 How will grains be the alternative to the US dollar as international reserve currency?

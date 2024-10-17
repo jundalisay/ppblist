@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pantrypreneur Educate on Pantrypoints</title>
+    <link>//localhost:1313/docs/pantrypreneur/educate/</link>
+    <description>Recent content in Pantrypreneur Educate on Pantrypoints</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Oct 2020 15:21:01 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/docs/pantrypreneur/educate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pantrypreneur Educate Overview</title>
+      <link>//localhost:1313/docs/pantrypreneur/educate/overview/</link>
+      <pubDate>Tue, 13 Oct 2020 15:21:01 +0200</pubDate>
+      <guid>//localhost:1313/docs/pantrypreneur/educate/overview/</guid>
+      <description>Type Description Mobile Pantrypreneur Educate is a small-school offline administration system Intent It focuses on helping teachers manage their students. It comes from our own experience as teacher-students:&#xA;Klock + Query Appraise Jobs From the TESDA training in 2024, we put up the idea that it should do learning outcomes together with info guides and self-checks&#xA;Models See the individual features&#xA;Changelog 2022-07: Abandoned Pantry Apprentice to focus on Pantrypreneur Educate.</description>
+    </item>
+  </channel>
+</rss>

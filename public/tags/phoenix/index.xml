@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phoenix on Pantrypoints</title>
+    <link>//localhost:1313/tags/phoenix/</link>
+    <description>Recent content in Phoenix on Pantrypoints</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 12 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/phoenix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview</title>
+      <link>//localhost:1313/docs/tech/phoenix/liveview/overview/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/phoenix/liveview/overview/</guid>
+      <description>Live View is a Genserver that turns Phoenix into a Websocket Server. This eliminates the need for Javascript frameworks like React or Vue. Live Components replace React Components. Though you can still use React if you want to make life difficult for yourself.&#xA;The Socket a %struct{} that has an assigns key-value %{map} the assigns map has the LiveView state info &amp;lsquo;socket assigns&amp;rsquo; therefore means the map-data changes in the socket always need any of the following tuples {:ok, socket} {:no_reply, socket} {:error, socket} mount/3 creates a LiveView process from the router (map_of_query_router_params, session_data, socket_struct)</description>
+    </item>
+    <item>
+      <title>Ecto Queries</title>
+      <link>//localhost:1313/docs/tech/ecto/queries/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/ecto/queries/</guid>
+      <description>Repo Repo has a limited number of queries.&#xA;Return a single record, and raise an error if more than one record is returned Repo.one Check for existence Repo.exists? Get the length of an model length(@posts) Get the count Repo.one(from p in Post, select: count(&amp;#34;*&amp;#34;)) Repo.aggregate(Post, :count, :id) Get by something Get a record by id Pipe&#xA;User |&amp;gt; Repo.get(1) User |&amp;gt; Repo.get!(1) No Pipe&#xA;Repo.get(User, 1) Repo.get!(User, 1) Get first or last record Pipe</description>
+    </item>
+    <item>
+      <title>Bindings and Streams</title>
+      <link>//localhost:1313/docs/tech/phoenix/liveview/bindings/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/phoenix/liveview/bindings/</guid>
+      <description>PHX- What it does phx-value-* parameters phx-click , phx-click-away Click Events phx-change , phx-submit , phx-feedback-for , phx-disable-with , phx-trigger-action , phx-auto-recover Form Events phx-blur , phx-focus , phx-window-blur , phx-window-focus Focus phx-keydown , phx-keyup , phx-window-keydown , phx-window-keyup , phx-key Key Events phx-viewport-top , phx-viewport-bottom Scroll phx-update , phx-remove DOM Patching phx-hook JS Interop phx-mounted , phx-disconnected , phx-connected Lifecycle Events phx-debounce , phx-throttle Rate Limiting phx-track-static Static phx-click Sends data to the LiveView process through the socket as an event name or a value via JS.</description>
+    </item>
+    <item>
+      <title>Components</title>
+      <link>//localhost:1313/docs/tech/phoenix/liveview/components/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/phoenix/liveview/components/</guid>
+      <description>@impl true Tells LiveView to implement the callback&#xA;@impl true def render(assigns) do ~L&amp;#34;&amp;#34;&amp;#34; whatever &amp;#34;&amp;#34;&amp;#34; Stateful by adding id and pointing to the Component with @myself Add id to the live_component to make it &amp;lsquo;stateful&amp;rsquo;&#xA;&amp;lt;%= live_component @socket, MessageComponent, id: 1 %&amp;gt; Add @myself to the stateful form to make the Component handle the event&#xA;&amp;lt;form phx-submit=&amp;#34;send-message&amp;#34; phx-target=&amp;#34;&amp;lt;%= @myself %&amp;gt;&amp;#34; %&amp;gt; Card Component with Form defmodule CardComponent do def render(assigns) do ~H&amp;#34;\&amp;#34;&amp;#34; &amp;lt;form phx-submit=&amp;#34;.</description>
+    </item>
+    <item>
+      <title>Errors Common in Phoenix</title>
+      <link>//localhost:1313/docs/tech/phoenix/errors/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/phoenix/errors/</guid>
+      <description>Error (EXIT) shutdown: failed to start child: Phoenix.PubSub.PG2&#xA;Solution&#xA;mix deps.clean --all mix deps.get Error undefined module: rename all to heex&#xA;&amp;lt;.form let={f} for={:upload} action={Routes.audio_path(@socket, :upload)} options={multipart={true}} &amp;gt;&#xA;Error (UndefinedFunctionError) function :crypto.hmac/3 is undefined or private&#xA;Solution mix deps.update --all</description>
+    </item>
+    <item>
+      <title>How to Set up Mail in Phoenix 1.7</title>
+      <link>//localhost:1313/docs/tech/phoenix/email/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/phoenix/email/</guid>
+      <description>This assumes you made your app with Phoenix 1.7 which has:&#xA;essential mailer config mailbox in the router Create mail template in /lib/app/emails.ex defmodule App.Emails do import Swoosh.Email def test do new() |&amp;gt; to({&amp;#34;John&amp;#34;, &amp;#34;john@gmail.com&amp;#34;}) |&amp;gt; from({&amp;#34;Martha&amp;#34;, &amp;#34;martha@gmail.com&amp;#34;}) |&amp;gt; subject(&amp;#34;Hello!&amp;#34;) |&amp;gt; html_body(&amp;#34;&amp;lt;h1&amp;gt;Hello there&amp;lt;/h1&amp;gt;&amp;#34;) |&amp;gt; text_body(&amp;#34;Hello there\n&amp;#34;) end end Trigger the email in a controller defmodule AppWeb.SomeController do use AppWeb, :controller alias App.{Mailer, Emails} def some_method(conn, params) do Emails.test() |&amp;gt; Mailer.deliver() render(conn, :template) end end POW Emails (Reset Password) Add callbacks in the config config :app, :pow, user: App.</description>
+    </item>
+    <item>
+      <title>List and Map Function: Enums </title>
+      <link>//localhost:1313/docs/tech/elixir/data-types/enums/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/elixir/data-types/enums/</guid>
+      <description>Enum.premade_function_to_manipulate_enumerables([a, b, c, d], function_to_manipulate_each_item_in_enumerable)&#xA;Streams Streams are lazy Enums. Each element is processed whole before going to the next one.&#xA;Enums on the other hand go through each list before processing each.&#xA;range = 1..3 |&amp;gt; Stream.map(&amp;amp;IO.inspect(&amp;amp;1)) # writes range to device |&amp;gt; Stream.map(&amp;amp;(&amp;amp;1 * 2)) # doubles each element |&amp;gt; Stream.map(&amp;amp;IO.inspect(&amp;amp;1)) # writes new element |&amp;gt; Enum.reverse(range) # reverses list Common Enum Functions .each Get each element, returning the atom :ok</description>
+    </item>
+    <item>
+      <title>Erlang Genserver</title>
+      <link>//localhost:1313/docs/tech/otp/genserver/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/otp/genserver/</guid>
+      <description>Erlang Genserver is a process spawner and manager&#xA;simple state change &amp;mdash; Elixir agent wraps state with get/2 update/2 get_and_update/2 short asynch computation &amp;mdash; Elixir task provides functions async/1 await/1 GenServer has client and server.&#xA;Client Server Client Return Server Return Decription .start/3 or .start_link/3 init {:ok, pid} or {:error, reason} {:ok, state} or {:stop, reason_any_type} Initial state .call/2 handle_call/3 sync client to server .cast/ handle_cast/ async client to server .</description>
+    </item>
+    <item>
+      <title>Handlers</title>
+      <link>//localhost:1313/docs/tech/phoenix/liveview/handlers/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/phoenix/liveview/handlers/</guid>
+      <description>Handlers handle events from the HTML attributes phx- in the view and render the changes in the data (or &amp;ldquo;state&amp;rdquo;) by updating the assign-map in the socket-struct.&#xA;phx-value-id=&amp;#34;&amp;lt;%= struct.id %&amp;gt;&amp;#34; %{&amp;#34;input-data&amp;#34; =&amp;gt; elixir-variable-repersenting-a-string} handle_params handles URL parameters that affect Routes via live_patch why not call it as handle_url?? sends an event as data-phx-link-state always invoked after mount handles dynamic states, just as mount handles static states handle_params(parameters_of_url, url, socket) do # manipulate the socket data here to automatically output and update the view {:noreply, socket} # has parameters def handle_params(%{&amp;#34;id&amp;#34; =&amp;gt; id}, parameters_of_url, url, socket) do # manipulate the socket data via the id state {:noreply, socket} end # empty parameters def handle_params(%{_, _url, socket) do # if no url parameter is entered then just show the socket {:noreply, socket} end # rendering whatever def render(data) do always_needed_assigns = %{key: data} ~L&amp;#34;&amp;#34;&amp;#34; &amp;lt;%= @key %&amp;gt; &amp;#34;&amp;#34;&amp;#34; end handle_event handles external messages (events) from the template bindings such as phx-click why not call it handle_external?</description>
+    </item>
+    <item>
+      <title>Mix</title>
+      <link>//localhost:1313/docs/tech/otp/mix/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/otp/mix/</guid>
+      <description>Mix is a build tool for Elixir.&#xA;It scaffolds a new app as a project which has:&#xA;project: dependencies as deps tests application (a Module that runs the Supervision tree, starting and stopping it) mix new app_name --sup mix phx.new app_name options mix phx.new options:&#xA;Option Description --umbrella generate an umbrella project --database database adapter for Ecto either: postgres, mysql, mssql, sqlite3, --no-esbuild do not include esbuild. This is for API only apps --no-assets equivalent to --no-esbuild and --no-tailwind --no-dashboard do not include Phoenix.</description>
+    </item>
+    <item>
+      <title>Navigation</title>
+      <link>//localhost:1313/docs/tech/phoenix/liveview/nav/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/phoenix/liveview/nav/</guid>
+      <description>Liveview has two ways to Navigate:&#xA;Client # 0.16 &amp;lt;%= live_patch &amp;#34;Text&amp;#34;, to: Routes.live_path(@socket, __CURRENTMODULE__, id: struct.id) %&amp;gt; # 0.19 &amp;lt;.link patch={~p&amp;#34;/pages/#{@page}&amp;#34;}Go&amp;lt;/.link&amp;gt; Server # 0.16 push_patch(to: socket.assigns.return_to) # 0.19 {:noreply, push_patch(socket, to: ~p&amp;#34;/pages/#{@page}) live_patch push_patch This navigates to the same Liveview.&#xA;Live Routes are PATCH because it updates or patches the LiveView process with the new data and sends a new &amp;lsquo;diff&amp;rsquo; to the DOM&#xA;__CURRENTMODULE__ is a shortcut for the Module Name</description>
+    </item>
+    <item>
+      <title>How to Install Elixir Phoenix on Linux</title>
+      <link>//localhost:1313/docs/tech/phoenix/install/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/phoenix/install/</guid>
+      <description>1. Install asdf sudo apt install curl git unzip git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.13.1 Add to ~/.bashrc&#xA;. &amp;#34;$HOME/.asdf/asdf.sh&amp;#34; . &amp;#34;$HOME/.asdf/completions/asdf.bash&amp;#34; 2. Use asdf to Install Plugins Erlang export KERL_CONFIGURE_OPTIONS=&amp;#34;--disable-debug --without-javac&amp;#34; apt -y install build-essential autoconf m4 libncurses5-dev libwxgtk3.0-gtk3-dev libwxgtk-webview3.0-gtk3-dev libgl1-mesa-dev libglu1-mesa-dev libpng-dev libssh-dev unixodbc-dev xsltproc fop libxml2-utils libncurses-dev openjdk-11-jdk inotify-tools asdf plugin add erlang https://github.com/asdf-vm/asdf-erlang.git asdf list all erlang Install the version you want&#xA;asdf install erlang 26.2 asdf global erlang 26.</description>
+    </item>
+    <item>
+      <title>Function Plugs and Module Plugs</title>
+      <link>//localhost:1313/docs/tech/phoenix/plugs/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/phoenix/plugs/</guid>
+      <description>A Plug manipulates data in conn structs. It&amp;rsquo;s a Module that has a &amp;lsquo;Conn&amp;rsquo; Struct. It takes and returns that conn struct between modules.&#xA;It allows state management when combined with Agents and Genservers (like Live View). The state is held by the struct and then is passed between Modules. The ability to pass data turns Plugs into Elixir webservers&#xA;It has two types:&#xA;Module Plug Function Plug These are functions that get a Plug.</description>
+    </item>
+    <item>
+      <title>Streams</title>
+      <link>//localhost:1313/docs/tech/phoenix/liveview/streams/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/phoenix/liveview/streams/</guid>
+      <description>Streams Streams began in Liveview 0.18.16&#xA;In server:&#xA;In view:&#xA;# long version &amp;lt;div id=&amp;#34;list_name&amp;#34; phx-update=&amp;#34;stream&amp;#34;&amp;gt; &amp;lt;%= for {dom_id, i} &amp;lt;- @streams.items do -update=&amp;#34;stream&amp;#34; do&amp;gt; &amp;lt;div id={dom_id}&amp;gt; # for version &amp;lt;div id=&amp;#34;list_name&amp;#34; phx-update=&amp;#34;stream&amp;#34;&amp;gt; &amp;lt;div :for={{dom_id, i} &amp;lt;- @streams.items} id={dom_id} &amp;gt; stream_delete stream_delete(socket, :albums, album)&#xA;stream_insert Needs a boiler plate&#xA;def save_post(socket, :new, post_params) do case Blog create_post(post_params) do {:ok, post } defp notify_parent(m), do: send(self(), {__MODULE__, msg}) </description>
+    </item>
+    <item>
+      <title>Templates</title>
+      <link>//localhost:1313/docs/tech/phoenix/templates/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/phoenix/templates/</guid>
+      <description>Data loading should never happen inside the template&#xA;Use functions instead of static variable assignments&#xA;As of Phoenix 1.7, HEEX tags can only be used in the body of the tag.&#xA;Explicitly precompute the assign outside of render:&#xA;assign(socket, sum: socket.assigns.x + socket.assigns.y)&#xA;Do not compute it withiin a static render&#xA;def render(assigns) do sum = assigns.x + assigns.y ~H&amp;#34;&amp;#34;&amp;#34; &amp;lt;%= sum %&amp;gt; &amp;#34;&amp;#34;&amp;#34; end </description>
+    </item>
+    <item>
+      <title>Phoenix-based Web Apps and APIs</title>
+      <link>//localhost:1313/works/phoenix/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/works/phoenix/</guid>
+      <description>We make web apps and APIs using Elixir-Phoenix and LiveView&#xA;Link Description Date https://capricafe.pantrypoints.com A loyalty system 2022 https://hub.pantrypoints.com A moneyless economic system 2020 </description>
+    </item>
+    <item>
+      <title>Ecto Changeset</title>
+      <link>//localhost:1313/docs/tech/ecto/changeset/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/ecto/changeset/</guid>
+      <description>Changsets allow manipulation of the data to match Schema so that it can be passed to the Repo&#xA;Cast: filters the parameters with the attributes to be accepted into the changeset Validate: validates those filtered attributes. This includes constraints which are set on the database level Schema&amp;rsquo;d Changeset Schemas are a useful shortcut used in querying so you don&amp;rsquo;t have to specify all the attributes&#xA;Defining def changeset(schemaname, attrs) do schemaname |&amp;gt; cast(attrs, [:key1, :key2,.</description>
+    </item>
+    <item>
+      <title>Ecto Commands</title>
+      <link>//localhost:1313/docs/tech/ecto/commands/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/ecto/commands/</guid>
+      <description>post = MyRepo.get!(Post, 42) post = Ecto.Changeset.change post, title: &amp;#34;New title&amp;#34; case MyRepo.update post do {:ok, struct} -&amp;gt; # Updated with success {:error, changeset} -&amp;gt; # Something went wrong end Repo.get_by(Chat, id: chat_id) |&amp;gt; Ecto.Changeset.change(%{visible: true}) |&amp;gt; Repo.update() </description>
+    </item>
+    <item>
+      <title>How to Deploy Phoenix 1.6.2 to Gigalixir and Heroku</title>
+      <link>//localhost:1313/docs/tech/deploy/deploy-phoenix-gigalixir-heroku/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/tech/deploy/deploy-phoenix-gigalixir-heroku/</guid>
+      <description>Heroku 1 &amp;ndash; On Heroku Dashboard, create an app named socrates&#xA;2 &amp;ndash; On Heroku Dashboard, Go to Settings -&amp;gt; Buildpacks then add&#xA;hashnuke/elixir and&#xA;https://github.com/gjaldon/heroku-buildpack-phoenix-static.git 3 &amp;ndash; In your app&amp;rsquo;s root directory, create the git remote&#xA;heroku git:remote -a socrates 4 &amp;ndash; In your app&amp;rsquo;s root directory, create the config files&#xA;$ echo &amp;#39;elixir_version=1.12.2&amp;#39; &amp;gt; elixir_buildpack.config $ echo &amp;#39;erlang_version=24.0.3&amp;#39; &amp;gt;&amp;gt; elixir_buildpack.config $ echo &amp;#39;node_version=10.20.1&amp;#39; &amp;gt; phoenix_static_buildpack.config 5 &amp;ndash; In your assets/package.</description>
+    </item>
+  </channel>
+</rss>
