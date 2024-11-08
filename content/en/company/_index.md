@@ -16,22 +16,22 @@ triconb:
     - title: "Static Websites and SEO"
       img: /icons/g.png
     - title: "Web Apps and API"
-      img: /icons/phx.png
+      img: /icons/svelte.jpg
     - title: Qualitative and Quantitative Research
       img: /icons/jobs.png 
     - title: "Mobile Android"
       img: /icons/android.png    
-    - title: DevOps
-      title: AWS, GCP, Fly.io, Gigalixir
-      img: /icons/gcloud.png    
+    # - title: DevOps
+    #   title: AWS, GCP, Fly.io, Gigalixir
+    #   img: /icons/gcloud.png    
     - title: "Machine Learning"
       img: /icons/ai.png
-    - sub: "Coming Soon"
-      title: "IoT"
-      img: /icons/chip.png
-    - sub: "Coming Soon"
-      title: "Blockchain"
-      img: /icons/eth.png
+    # - sub: "Coming Soon"
+    #   title: "IoT"
+    #   img: /icons/chip.png
+    # - sub: "Coming Soon"
+    #   title: "Blockchain"
+    #   img: /icons/eth.png
     - sub: "Sales, Marketing, Social Media"
       title: "Business Development"
       img: /icons/charts.png
@@ -59,19 +59,19 @@ tricon:
       sub: "The Financial Crisis hits worldwide"
     - img: "/icons/2009.jpg"
       title: "Research begins"
-      sub: "We begin our own research on solutions to crises after failing to get research support"
+      sub: "Juan begins personal research on solutions to crises after failing to get higher scholarship"
     - img: "/icons/2011.jpg"
       title: "Python Flask"
-      sub: "We start prototyping the solution in Python Flask in preparation for a 2019 Stagflation Crisis"
+      sub: "Start of prototyping the solution in Python Flask in preparation for a 2019 Stagflation Crisis"
     - img: "/icons/2015.jpg"
       title: "Rails and Javascript"
-      sub: "Feature creep forces us into Rails and later React"
+      sub: "Team is formed. Feature creep forces us into Rails and later React"
     - img: "/icons/2018.jpg"
       title: "Flutter"
       sub: "We drop React and React Native and switch to Flutter Android without iOS to reduce costs. Our first app is a barter platform for students with language exchange as the main category."
     - img: "/icons/2020.jpg"
       title: "The Crisis Arrives"
-      sub: "The crisis finally arrives thanks to Covid. We drop Rails and switch to Phoenix to further reduce costs"
+      sub: "The crisis finally arrives thanks to Covid. The servers crash because of many signups. We drop Rails and switch to Phoenix to further reduce costs"
     - img: "/icons/2022.jpg"
       title: "Deployment"
       sub: "We use the crisis to move businesses online and into our trisactions system to prove that our system can alleviate the crisis that it was designed for. We successfully test barter-credits (bardits) for food to address food inflation"

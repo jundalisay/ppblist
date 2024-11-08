@@ -56,7 +56,7 @@ Why would people pay in points? Money already works.
 {{< l a="Pantrypoints" >}}
 Money is expensive. It is a material thing that needs to be printed or stored in vaults, and guarded and carried in your pocket. It loses value because of inflation. 
 
-Credit cards are liable to fraud, fees, and interest rates. Cryptocurrencies try to reduce this cost by being totally electronic, but are even more subject to scams and hacking than credit cards. 
+Credit cards are liable to fraud, fees, and interest rates. Cryptocurrencies try to reduce this cost by being totally electronic, but are even more subject to scams and hacking than credit cards. Plus, they add to global warming which leads to more natural disasters. 
 
 Money supply is ultimately controlled by banks, not by people. The problem is that banks don't actually produce anything, as explained by Jeremy Grantham:
 {{< /l >}}
@@ -70,7 +70,7 @@ Are points cheaper?
 {{< l a="Pantrypoints" >}}
 Yes, of course. Points are stored online or on paper-cards that cannot be used by third parties. It does not need expensive vaults nor ATMs. 
 
-The value of each point is pegged to 1 kilogram of rice which 'inflates' far less than money. With Pantrypoints, you can go to a store and buy things on barter-credit by relying on the trust between you and the seller.  
+The value of each point is pegged to 1 kilogram of rice which 'inflates' far less than money. With Pantrypoints, you can go to a store and purchase things on barter-credit by relying on the trust between you and the seller.
 {{< /l >}}
 
 
@@ -98,8 +98,11 @@ After it goes over, the server crashes. This means the experiment worked. This h
 
 We then spin up a new server for a new town with new features as a new experiment. At our peak when we were supported by incubators that allowed us to have staff, we had 7 servers. 
 
-We realized the points system must be bullet-proof, so we are focusing on using points as a loyalty rewards system called Pantrypreneur Rewards for restaurants and small retailers. 
+There is no problem getting users. The problem is the server cost associated with each user. We are mitigating that by going serverless. 
 {{< /l >}}
+
+
+<!-- We realized the points system must be bullet-proof, so we are focusing on using points as a loyalty rewards system called Pantrypreneur Rewards for restaurants and small retailers.  -->
 
 
 {{< r a="Asker" >}}
@@ -181,9 +184,25 @@ How will grains be the alternative to the US dollar as international reserve cur
 {{< /r >}}
 
 {{< l a="Pantrypoints" >}}
-We are working on a blockchain which is pegged to grains such as rice or wheat. One coin in Asia represents the value of 1 kilogram of rice, for example. This is only tradeable between governments. It matches 'bank gold' which is different from market gold traded by citizens.
+We are working on a global ledger that has the record of the ratios of grains to each other. For example, the cheapest price of 1 kilo rice in Saigon is 10,000 VND and in Manila is 50 pesos. So 10,000 VND and 50 pesos represents 1 point, and everything is relative to that. 
+
+<!-- AMAZON QLDB IS DEAD: We will use a blockchain which is pegged to grains such as rice or wheat. One coin in Asia represents the value of 1 kilogram of rice, for example. This is only tradeable between governments. It matches 'bank gold' which is different from market gold traded by citizens. -->
+
+In a cross-border transaction, the points-valuation of the selling country is used. This favors countries with stable grain production, and ties the economic system directly with environmental protection. 
+{{< /l >}}
+
+{{< r a="Asker" >}}
+So a points-based system inherently protects the environment?
 {{< /r >}}
 
+{{< l a="Pantrypoints" >}}
+Yes. It is totally different from the current money-and-gold-based economic system which mines for precious metals and crypto at the expense of the environment. 
+
+This was used by the Khmer Empire (Cambodia) to grow wealthy through foreign trade until they got greedy and maxed out their rice production by destroying their forests which ironically caused a drought which killed the system.  
+{{< /r >}}
+
+
+{{< i s="/graphics/versus.jpg" a="Grains" >}}
 
 
 ## Try It
