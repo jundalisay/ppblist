@@ -41,7 +41,8 @@
 
     <br>
 
-     <div class="mx-auto p-6 grid lg:grid-cols-3 grid-cols-1 gap-1">
+ <!-- grid lg:grid-cols-3 grid-cols-1 gap-1 -->
+     <div class="mx-auto flex p-6">
       {{ range .items }}
         <div class="col-span-1 flex flex-col dark:bg-black bg-white border rounded-xl shadow-xl dark:text-white m-4 zoom" data-sal="slide-down">
           {{ with .link }}<a href="{{ . }}">{{ end }} 

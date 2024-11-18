@@ -93,7 +93,7 @@ paginate = 12
       link = "/services/coins/"
       img = "/icons/eth.png"
       title = "3: Metaverse"
-      sub = "The points can be converted to Pantry Coins to allow regulated transactions from the Metaverse via Ethereum.  This is useful for cross-border transactions and our proposed 'crypto-easing' (our alternative to quantitative easing)"
+      sub = "The points can be converted to crypto as 'crypto-easing' (our alternative to quantitative easing) to reduce the impact of blockchain on global warming"
 
     [languages.en.params.feedback]
       title = "What Experts Say"
@@ -171,8 +171,13 @@ paginate = 12
     #   img = "/flags/vn.png"
     #   title = "Hanoi (coming soon)"
     [languages.en.params.tricon3.items.c]
+      img = "/flags/bt.png"
+      title = "Thimpu"
+
+    [languages.en.params.tricon3.items.d]
       img = "/flags/pk.jpg"
       title = "Peshawar"
+
 
     [languages.en.params.inca]
       title = "Originally Built by the Inca"
