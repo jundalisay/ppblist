@@ -62,16 +62,19 @@ user = {
 names = ['Adam', 'Barry'];
 ```
 
-## Data Kinds
+## Primitive Data Kinds
 
 number
 bigint
 string
+boolean `&& || !`
+null
+undefined
+symbol
+
 
 ### String Interpolations
 
 ```
 'string ${var} string'
 ```
-
-
