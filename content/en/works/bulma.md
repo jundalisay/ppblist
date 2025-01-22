@@ -1,10 +1,21 @@
-+++
+---
+title: "Bootstrap-based Websites"
+description: "We make Bootstrap-themed websites with Jquery built on Hugo"
+date: 2022-03-15
+lastmod: 2022-03-15
+image: /img/matayogui.jpg 
+# categories: ["Websites"]
+# tags: ["Bootstrap"]
+# pinned: false
+# homepage: false
+draft: true
+---
+
+<!--
 title = "Bulma-based Websites"
 image = "/img/fa.jpg"
 description = "We make Bulma-themed websites built on Hugo"
-date = 2022-03-10
-draft = true
-+++
+date = 2022-03-10 -->
 
 
 We make Bulma-themed websites with vanilla JS

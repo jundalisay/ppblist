@@ -1,9 +1,15 @@
-+++
-title = "Rails-based Web Apps and API"
-image = "/img/davaoui.jpg"
-description = "We make web apps and APIs using Ruby on Rails"
-date = 2021-12-11
-+++
+---
+title: "Rails-based Web Apps and API"
+description: "We make web apps and APIs using Ruby on Rails"
+date: 2022-07-01
+lastmod: 2022-07-01
+image: /img/davaoui.jpg 
+# categories: ["Web Apps"]
+# tags: ["Phoenix"]
+# pinned: false
+# homepage: false
+---
+
 
 
 We make web apps and APIs using Ruby on Rails with Action Cable.

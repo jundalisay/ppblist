@@ -1,4 +1,5 @@
 ---
 title: "Our Works"
-weight: 8
+description: "Here are our works"
+image: "/graphics/tri.jpg"
 ---

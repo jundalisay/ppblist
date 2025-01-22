@@ -4,10 +4,10 @@ description: "We make Bootstrap-themed websites with Jquery built on Hugo"
 date: 2022-03-15
 lastmod: 2022-03-15
 image: /img/matayogui.jpg 
-categories: ["Websites"]
-tags: ["Bootstrap"]
-pinned: false
-homepage: false
+# categories: ["Websites"]
+# tags: ["Bootstrap"]
+# pinned: false
+# homepage: false
 draft: true
 ---
 

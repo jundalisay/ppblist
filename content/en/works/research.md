@@ -1,6 +1,6 @@
 ---
 title: "Research"
-image: "https://www.superphysics.org/graphics/physics/aether.jpg"
+image: "/img/idea.jpg"
 description: "We do research on Superphysics as an upgrade to science"
 date: 2022-04-15
 ---
