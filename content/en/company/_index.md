@@ -4,7 +4,7 @@ wow: Us
 # sub: "Digitizing and Digitalizing the World. One Business at a Time"
 # subtitle: Pantrypoints Technologies transforms micro and small businesses into digital-capable ones through websites, apps, machine learning, blockchain, and IoT
 banner: "/photos/coop.jpg"
-description: "Pantrypoints Technologies is a small dedicated team specializing in transitioning the money system into the points system"
+description: "Pantrypoints Technologies is a small dedicated team specializing in transitioning the money system into the points system based on Supereconomics"
 youtube: "QCGf4irCsF0"
 
 
@@ -79,6 +79,9 @@ tricon:
     - img: "/icons/2022.jpg"
       title: "Deployment"
       sub: "We use the crisis to move businesses online and into our trisactions system to prove that our system can alleviate the crisis that it was designed for. We successfully test barter-credits (bardits) for food to address food inflation"
+    - img: "/icons/2024.jpg"
+      title: "Sveltekit on Turso"
+      sub: "We overhaul Pantrypoints into Sveltekit on Cloudflare using the Turso database in preparation for the coming crisis of 2028-2029 from Trump's policies"
 
 
 # cta:
