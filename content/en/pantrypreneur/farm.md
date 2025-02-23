@@ -38,7 +38,7 @@ triconb:
       
       
 how:
-  title : "How it Works"
+  title : "How it Works (Urban Garden Version)"
   steps:
     - id: 1
       img: "/screens/farm/farm0.jpg"
@@ -53,7 +53,7 @@ how:
 
 cta:
   buttons:
-    - text: "I want Farm for my Agribusiness"
+    - text: "I want Farm for my home plot"
       link: "/register"
     - text: "I need to know more"
       link : "https://superphysics.org/research/sarkar/farming/section-1/agriculture"
