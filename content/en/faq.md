@@ -92,7 +92,7 @@ How many users have you had?
 
 
 {{< l a="Pantrypoints" >}}
-We have a limited budget which allows us a cost of $20-100 per server, depending on configuration on Python, Ruby, or Elixir. Moreover, data privacy laws require registration if there are more 1,000 users. So we have a maximum of 1,000 registered users or 300 concurrent users per server. 
+We have a limited budget which allows us a cost of $20-100 per server, depending on configuration on Python, Ruby, or Elixir. Moreover, data privacy laws require registration if there are more 1,000 users. So we have a maximum of 1,000 registered users or around 30 concurrent users per server. 
 
 After it goes over, the server crashes. This means the experiment worked. This happened a lot during the pandemic when a lot of people suddenly went online to look for jobs or to barter. 
 
@@ -235,12 +235,14 @@ So that was your version of a non-capitalist exit?
 {{< l a="Pantrypoints" >}}
 Not yet. We exit when that cooperative becomes fully capable to deploy and maintain Pantrypoints. 
 
-In an ideal world, 2024 would have been our exit, as Pantrypoints was designed to be the resource provider for Superphysics experiments such as anti-gravity, crystal computers, aether-based disease treatments, etc. But since we had far less support than ideal, most of those experiments are shelved. 
-
-However, this lets us focus on the theory so much more and make it as a real alternative not only to Neoclassical Economics, but also to Modern Physics and Western Medicine to push for policies that not only solve economic crises, but also the Cosmology Crisis, health crisis, territorial disputes, etc.
+We then consolidate the findings into building Supereconomics (Economic Superphysics), which is the science behind the system.
 {{< /l >}}
 
-<!-- We have a volunteers who test and contribute to maintain them. So please don't expect them to be bug-free yet.
+<!-- In an ideal world, 2024 would have been our exit, as Pantrypoints was designed to be the resource provider for Superphysics experiments such as anti-gravity, crystal computers, aether-based disease treatments, etc. But since we had far less support than ideal, most of those experiments are shelved. 
+
+However, this lets us focus on the theory so much more and make it as a real alternative not only to Neoclassical Economics, but also to Modern Physics and Western Medicine to push for policies that not only solve economic crises, but also the Cosmology Crisis, health crisis, territorial disputes, etc.
+
+We have a volunteers who test and contribute to maintain them. So please don't expect them to be bug-free yet.
 
 We predicted that [there would be a global stagflation by 2020, followed by wars of which the effects would last to 2030 to 2035.](https://superphysics.org/social/supersociology/precrisis-years) This would make people interested in our solution sooner or later, and so we chose to play the (very) long game.
 
