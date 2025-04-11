@@ -5,7 +5,7 @@ wow: Us
 # subtitle: Pantrypoints Technologies transforms micro and small businesses into digital-capable ones through websites, apps, machine learning, blockchain, and IoT
 banner: "/photos/coop.jpg"
 description: "Pantrypoints Technologies is a small dedicated team specializing in transitioning the money system into the points system based on Supereconomics"
-youtube: "QCGf4irCsF0"
+youtube: "6vX5S_d0VNI"
 
 
 triconb:

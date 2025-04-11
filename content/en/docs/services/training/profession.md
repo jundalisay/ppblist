@@ -3,7 +3,7 @@ title: "Profession vs. Occupation"
 image: "/photos/yay.jpg"
 description: "Profession is an activity that requires specialized training, knowledge, qualification and skills"
 date: 2022-01-18T19:58:14+01:00
-lastmod: 2022-01-18T19:58:14+01:0
+# lastmod: 2022-01-18T19:58:14+01:0
 toc: true
 ---
 

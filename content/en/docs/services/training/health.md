@@ -3,7 +3,7 @@ title: "Occupational Safety and Health"
 description: "Occupational safety and health is a discipline with aims to protect every worker against the dangers of injury, sickness or death through safe and healthful working conditions"
 image: "/photos/yay.jpg"
 date: 2022-01-18T19:58:14+01:00
-lastmod: 2022-01-18T19:58:14+01:0
+# lastmod: 2022-01-18T19:58:14+01:0
 toc: true
 ---
 
